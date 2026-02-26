@@ -1,0 +1,3 @@
+harvest_id,crop,quantity,transport_cost,commission
+1,Mustard,1000,2000,500
+2,Wheat,800,1500,400

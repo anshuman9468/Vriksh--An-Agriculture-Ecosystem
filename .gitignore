@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Logs
+*.log
+startup.log
+
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
