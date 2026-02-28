@@ -21,7 +21,7 @@ export async function classifyLeafImage(
 	file: File,
 	options?: { baseUrl?: string; signal?: AbortSignal }
 ): Promise<LeafClassifyResponse> {
-	const baseUrl = options?.baseUrl ?? ""; // same-origin when served by Flask
+	const baseUrl = options?.baseUrl ?? "https://vriksh-backend-api.onrender.com";
 	const form = new FormData();
 	form.append("image", file, file.name);
 
