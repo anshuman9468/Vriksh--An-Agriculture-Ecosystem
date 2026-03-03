@@ -44,8 +44,13 @@ class BestMarketResponse(BaseModel):
 
 class RiskResponse(BaseModel):
     harvest_id: int
-    risk_score: int = Field(..., ge=0, le=100)
-    risk_level: str
+    risk_score: Optional[int] = Field(0, ge=0, le=100)
+    risk_level: Optional[str] = "Low"
+    margin_risk: Optional[float] = 0.0
+    volatility_risk: Optional[float] = 0.0
+    transport_risk: Optional[float] = 0.0
+    total_risk: Optional[float] = 0.0
+    confidence_score: Optional[float] = 0.95
 
 
 class Alert(BaseModel):

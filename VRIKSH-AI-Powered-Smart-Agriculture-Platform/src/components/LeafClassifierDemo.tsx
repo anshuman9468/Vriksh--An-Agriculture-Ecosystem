@@ -85,7 +85,7 @@ export function LeafClassifierDemo() {
 					</span>
 					{result && (
 						<span className={`px-3 py-1 rounded-full text-sm font-semibold border shadow-sm transition ${badgeClass}`}>
-							{result.class.toUpperCase()} · {(result.confidence * 100).toFixed(0)}%
+							{(result.class || 'unknown').toUpperCase()} · {((result.confidence ?? 0) * 100).toFixed(0)}%
 						</span>
 					)}
 				</CardTitle>
@@ -163,15 +163,15 @@ export function LeafClassifierDemo() {
 						<div className="grid md:grid-cols-3 gap-3">
 							<div className="rounded-xl bg-gradient-to-br from-green-50 to-emerald-50 p-3 border border-green-200">
 								<div className="text-xs text-gray-600">Green ratio</div>
-								<div className="text-lg font-semibold text-green-700">{(result.metrics.green_ratio * 100).toFixed(1)}%</div>
+								<div className="text-lg font-semibold text-green-700">{((result.metrics.green_ratio ?? (result.metrics as any).green ?? 0) * 100).toFixed(1)}%</div>
 							</div>
 							<div className="rounded-xl bg-gradient-to-br from-yellow-50 to-amber-50 p-3 border border-yellow-200">
 								<div className="text-xs text-gray-600">Stress ratio</div>
-								<div className="text-lg font-semibold text-yellow-700">{(result.metrics.stress_ratio * 100).toFixed(1)}%</div>
+								<div className="text-lg font-semibold text-yellow-700">{((result.metrics.stress_ratio ?? (result.metrics as any).stress ?? 0) * 100).toFixed(1)}%</div>
 							</div>
 							<div className="rounded-xl bg-gradient-to-br from-gray-50 to-gray-100 p-3 border border-gray-200">
 								<div className="text-xs text-gray-600">Pixels</div>
-								<div className="text-lg font-semibold text-gray-800">{result.metrics.pixels}</div>
+								<div className="text-lg font-semibold text-gray-800">{result.metrics.pixels ?? 0}</div>
 							</div>
 						</div>
 						<div className="rounded-2xl border bg-white/80 p-4 shadow-sm text-sm text-gray-700">

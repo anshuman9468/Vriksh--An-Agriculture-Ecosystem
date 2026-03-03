@@ -16,6 +16,7 @@ market_stream_raw, _ = pw.io.http.rest_connector(
     webserver=webserver,
     route="/market-data",
     schema=MarketRecord,
+    delete_completed_queries=True # Fixed UserWarning
 )
 
 # Flatten and parse
@@ -36,7 +37,7 @@ market_stream = market_stream_raw.flatten(
 
 # --- STATIC DATA (Keep as CSV for Harvest) ---
 harvest_stream = pw.io.csv.read(
-    "data/harvest.csv",
+    "/home/anshumandutta/Pathway_Vriksh/data/harvest.csv",
     mode="streaming", # Keep open
     schema=pw.schema_from_dict({
         "harvest_id": int,

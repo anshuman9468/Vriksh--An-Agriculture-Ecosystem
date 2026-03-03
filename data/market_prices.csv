@@ -1,634 +1,3001 @@
 crop,market,price
-Mustard,Delhi Azadpur,2100
-Mustard,Nagod APMC,1950
-Wheat,Sabalgarh APMC,2200
-
-Wheat,Delhi Azadpur,2433
-Mustard,Nagod APMC,1810
-Wheat,Nagod APMC,2134
-Mustard,Nagod APMC,2294
-Wheat,Delhi Azadpur,2488
-Wheat,Sabalgarh APMC,2488
-Mustard,Delhi Azadpur,2360
-Wheat,Delhi Azadpur,2056
-Mustard,Delhi Azadpur,2467
-Mustard,Delhi Azadpur,2497
-Wheat,Nagod APMC,2039
-Mustard,Sabalgarh APMC,2064
-Wheat,Delhi Azadpur,2156
-Wheat,Delhi Azadpur,2251
-Mustard,Delhi Azadpur,2071
-Wheat,Nagod APMC,2327
-Wheat,Sabalgarh APMC,2257
-Wheat,Delhi Azadpur,2283
-Mustard,Delhi Azadpur,2457
-Wheat,Nagod APMC,2261
-Mustard,Nagod APMC,2090
-Wheat,Delhi Azadpur,1907
-Mustard,Nagod APMC,2427
-Wheat,Nagod APMC,2465
-Wheat,Nagod APMC,1886
-Wheat,Nagod APMC,2086
-Wheat,Sabalgarh APMC,2215
-Mustard,Sabalgarh APMC,1990
-Mustard,Nagod APMC,2051
-Wheat,Nagod APMC,2281
-Wheat,Nagod APMC,2386
-Mustard,Sabalgarh APMC,1820
-Wheat,Sabalgarh APMC,1951
-Wheat,Sabalgarh APMC,2216
-Wheat,Nagod APMC,2223
-Wheat,Sabalgarh APMC,2053
-Mustard,Sabalgarh APMC,2020
-Mustard,Nagod APMC,2414
-Wheat,Sabalgarh APMC,2497
-Mustard,Sabalgarh APMC,1977
-Wheat,Delhi Azadpur,2468
-Wheat,Delhi Azadpur,2321
-Wheat,Sabalgarh APMC,2028
-Mustard,Delhi Azadpur,1831
-Mustard,Sabalgarh APMC,1917
-Wheat,Delhi Azadpur,2042
-Wheat,Delhi Azadpur,1968
-Wheat,Delhi Azadpur,1885
-Mustard,Delhi Azadpur,2368
-Wheat,Nagod APMC,2481
-Wheat,Nagod APMC,1867
-Wheat,Delhi Azadpur,2368
-Mustard,Sabalgarh APMC,1804
-Wheat,Nagod APMC,1831
-Wheat,Nagod APMC,2293
-Mustard,Delhi Azadpur,1902
-Mustard,Sabalgarh APMC,2120
-Mustard,Delhi Azadpur,1869
-Wheat,Delhi Azadpur,2084
-Wheat,Nagod APMC,1974
-Mustard,Nagod APMC,2118
-Wheat,Delhi Azadpur,2152
-Wheat,Nagod APMC,1807
-Mustard,Delhi Azadpur,1855
-Wheat,Sabalgarh APMC,2481
-Mustard,Nagod APMC,2144
-Mustard,Delhi Azadpur,2134
-Mustard,Sabalgarh APMC,2433
-Wheat,Sabalgarh APMC,2051
-Wheat,Sabalgarh APMC,2320
-Wheat,Delhi Azadpur,2106
-Wheat,Nagod APMC,1854
-Wheat,Sabalgarh APMC,1885
-Mustard,Delhi Azadpur,2223
-Wheat,Nagod APMC,2452
-Wheat,Sabalgarh APMC,1809
-Mustard,Sabalgarh APMC,2154
-Wheat,Sabalgarh APMC,2008
-Wheat,Delhi Azadpur,2270
-Wheat,Nagod APMC,2046
-Wheat,Sabalgarh APMC,2340
-Wheat,Sabalgarh APMC,2217
-Mustard,Delhi Azadpur,2451
-Mustard,Nagod APMC,2044
-Wheat,Nagod APMC,2077
-Wheat,Nagod APMC,1818
-Mustard,Sabalgarh APMC,2370
-Wheat,Sabalgarh APMC,2323
-Wheat,Nagod APMC,2475
-Wheat,Sabalgarh APMC,2063
-Wheat,Delhi Azadpur,2341
-Mustard,Nagod APMC,2239
-Mustard,Sabalgarh APMC,2234
-Wheat,Nagod APMC,2025
-Mustard,Delhi Azadpur,2017
-Mustard,Sabalgarh APMC,1971
-Wheat,Nagod APMC,2319
-Wheat,Sabalgarh APMC,2461
-Wheat,Nagod APMC,2495
-Mustard,Sabalgarh APMC,2277
-Wheat,Nagod APMC,2074
-Wheat,Sabalgarh APMC,1887
-Mustard,Sabalgarh APMC,2377
-Mustard,Delhi Azadpur,2033
-Mustard,Delhi Azadpur,1892
-Mustard,Delhi Azadpur,2303
-Mustard,Delhi Azadpur,2308
-Mustard,Sabalgarh APMC,2326
-Mustard,Nagod APMC,2045
-Wheat,Sabalgarh APMC,1909
-Wheat,Sabalgarh APMC,2089
-Wheat,Delhi Azadpur,2417
-Mustard,Sabalgarh APMC,2271
-Wheat,Delhi Azadpur,1825
-Mustard,Sabalgarh APMC,2323
-Wheat,Nagod APMC,2205
-Wheat,Delhi Azadpur,2190
-Mustard,Delhi Azadpur,2277
-Wheat,Sabalgarh APMC,2223
-Wheat,Delhi Azadpur,2467
-Wheat,Delhi Azadpur,1926
-Mustard,Sabalgarh APMC,1969
-Wheat,Delhi Azadpur,1893
-Mustard,Sabalgarh APMC,2491
-Mustard,Delhi Azadpur,2360
-Wheat,Delhi Azadpur,1944
-Wheat,Nagod APMC,2286
-Mustard,Sabalgarh APMC,1871
-Mustard,Sabalgarh APMC,2264
-Mustard,Delhi Azadpur,2114
-Wheat,Nagod APMC,1932
-Mustard,Sabalgarh APMC,2356
-Mustard,Sabalgarh APMC,1932
-Wheat,Nagod APMC,1933
-Mustard,Nagod APMC,2405
-Mustard,Nagod APMC,2088
-Wheat,Nagod APMC,2384
-Mustard,Sabalgarh APMC,1807
-Wheat,Sabalgarh APMC,1958
-Mustard,Delhi Azadpur,1809
-Mustard,Delhi Azadpur,2380
-Mustard,Sabalgarh APMC,2203
-Mustard,Nagod APMC,1813
-Mustard,Delhi Azadpur,2368
-Wheat,Sabalgarh APMC,1887
-Wheat,Sabalgarh APMC,2187
-Mustard,Delhi Azadpur,2228
-Wheat,Sabalgarh APMC,2225
-Mustard,Delhi Azadpur,2417
-Wheat,Nagod APMC,2129
-Wheat,Nagod APMC,1888
-Mustard,Delhi Azadpur,2162
-Wheat,Sabalgarh APMC,1822
-Wheat,Sabalgarh APMC,2297
-Wheat,Nagod APMC,2325
-Wheat,Nagod APMC,2210
-Mustard,Nagod APMC,2383
-Mustard,Sabalgarh APMC,2157
-Mustard,Sabalgarh APMC,2393
-Wheat,Nagod APMC,1871
-Mustard,Delhi Azadpur,1968
-Mustard,Nagod APMC,1851
-Wheat,Sabalgarh APMC,1835
-Wheat,Nagod APMC,1996
-Mustard,Sabalgarh APMC,1938
-Mustard,Delhi Azadpur,2497
-Mustard,Nagod APMC,2455
-Mustard,Nagod APMC,2356
-Mustard,Nagod APMC,2088
-Wheat,Delhi Azadpur,2270
-Wheat,Delhi Azadpur,2300
-Wheat,Nagod APMC,2125
-Wheat,Delhi Azadpur,2059
-Wheat,Nagod APMC,2116
-Wheat,Sabalgarh APMC,1895
-Wheat,Delhi Azadpur,2232
-Mustard,Delhi Azadpur,1842
-Wheat,Nagod APMC,2326
-Wheat,Sabalgarh APMC,2248
-Mustard,Delhi Azadpur,2010
-Mustard,Delhi Azadpur,2173
-Mustard,Nagod APMC,2342
-Wheat,Delhi Azadpur,2061
-Mustard,Nagod APMC,1989
-Wheat,Delhi Azadpur,2333
-Mustard,Sabalgarh APMC,1833
-Mustard,Sabalgarh APMC,2096
-Wheat,Delhi Azadpur,2140
-Mustard,Delhi Azadpur,2156
-Mustard,Delhi Azadpur,2452
-Wheat,Delhi Azadpur,2480
-Wheat,Delhi Azadpur,2257
-Wheat,Sabalgarh APMC,1949
-Mustard,Delhi Azadpur,2159
-Mustard,Delhi Azadpur,2299
-Wheat,Nagod APMC,1953
-Mustard,Delhi Azadpur,2121
-Mustard,Nagod APMC,2128
-Mustard,Sabalgarh APMC,2122
-Wheat,Nagod APMC,2377
-Mustard,Nagod APMC,2159
-Wheat,Delhi Azadpur,2426
-Wheat,Sabalgarh APMC,2435
-Mustard,Delhi Azadpur,2222
-Wheat,Sabalgarh APMC,1869
-Mustard,Nagod APMC,1815
-Mustard,Nagod APMC,2205
-Mustard,Nagod APMC,2400
-Wheat,Delhi Azadpur,2464
-Mustard,Nagod APMC,1949
-Wheat,Delhi Azadpur,2003
-Mustard,Nagod APMC,2420
-Mustard,Sabalgarh APMC,1931
-Wheat,Nagod APMC,2471
-Wheat,Sabalgarh APMC,2021
-Wheat,Sabalgarh APMC,1933
-Mustard,Delhi Azadpur,2420
-Wheat,Delhi Azadpur,2308
-Mustard,Delhi Azadpur,2479
-Mustard,Nagod APMC,2498
-Wheat,Sabalgarh APMC,2419
-Mustard,Delhi Azadpur,2201
-Mustard,Sabalgarh APMC,2246
-Mustard,Delhi Azadpur,2113
-Mustard,Nagod APMC,1944
-Mustard,Nagod APMC,2315
-Mustard,Delhi Azadpur,1926
-Mustard,Delhi Azadpur,2162
-Wheat,Sabalgarh APMC,2486
-Mustard,Nagod APMC,2279
-Wheat,Nagod APMC,2278
-Mustard,Sabalgarh APMC,2320
-Wheat,Delhi Azadpur,2486
-Wheat,Delhi Azadpur,2357
-Mustard,Delhi Azadpur,2141
-Wheat,Delhi Azadpur,2344
-Mustard,Delhi Azadpur,2103
-Mustard,Delhi Azadpur,1941
-Wheat,Sabalgarh APMC,2282
-Mustard,Delhi Azadpur,1854
-Mustard,Sabalgarh APMC,2130
-Wheat,Sabalgarh APMC,2041
-Wheat,Nagod APMC,2425
-Mustard,Delhi Azadpur,2167
-Mustard,Delhi Azadpur,1999
-Mustard,Sabalgarh APMC,2486
-Mustard,Sabalgarh APMC,1862
-Wheat,Delhi Azadpur,2081
-Mustard,Nagod APMC,1860
-Mustard,Sabalgarh APMC,2211
-Mustard,Nagod APMC,2420
-Wheat,Nagod APMC,2394
-Mustard,Nagod APMC,2264
-Mustard,Delhi Azadpur,2371
-Wheat,Sabalgarh APMC,1989
-Wheat,Nagod APMC,2287
-Mustard,Delhi Azadpur,1997
-Mustard,Nagod APMC,2106
-Mustard,Delhi Azadpur,1987
-Wheat,Delhi Azadpur,2365
-Wheat,Delhi Azadpur,2066
-Wheat,Delhi Azadpur,1802
-Wheat,Nagod APMC,1926
-Mustard,Delhi Azadpur,2428
-Mustard,Delhi Azadpur,2045
-Wheat,Nagod APMC,2100
-Wheat,Sabalgarh APMC,1929
-Mustard,Sabalgarh APMC,2485
-Mustard,Delhi Azadpur,2207
-Mustard,Delhi Azadpur,2027
-Wheat,Nagod APMC,2361
-Mustard,Sabalgarh APMC,1933
-Mustard,Delhi Azadpur,1918
-Wheat,Sabalgarh APMC,2449
-Wheat,Nagod APMC,1923
-Mustard,Sabalgarh APMC,2218
-Wheat,Sabalgarh APMC,1886
-Wheat,Sabalgarh APMC,2484
-Mustard,Sabalgarh APMC,2317
-Wheat,Nagod APMC,2498
-Mustard,Sabalgarh APMC,1937
-Wheat,Sabalgarh APMC,2387
-Mustard,Nagod APMC,2484
-Mustard,Sabalgarh APMC,2001
-Wheat,Delhi Azadpur,2429
-Wheat,Delhi Azadpur,2026
-Mustard,Delhi Azadpur,2013
-Wheat,Sabalgarh APMC,1936
-Mustard,Sabalgarh APMC,2207
-Mustard,Sabalgarh APMC,1859
-Mustard,Nagod APMC,2434
-Mustard,Nagod APMC,2057
-Wheat,Sabalgarh APMC,1867
-Wheat,Delhi Azadpur,2343
-Wheat,Nagod APMC,2390
-Wheat,Sabalgarh APMC,2048
-Wheat,Nagod APMC,2369
-Wheat,Nagod APMC,2199
-Wheat,Delhi Azadpur,1904
-Mustard,Sabalgarh APMC,1963
-Mustard,Nagod APMC,2394
-Mustard,Delhi Azadpur,2235
-Wheat,Delhi Azadpur,2439
-Wheat,Delhi Azadpur,2447
-Wheat,Sabalgarh APMC,2282
-Wheat,Nagod APMC,1864
-Mustard,Delhi Azadpur,2117
-Mustard,Nagod APMC,1842
-Mustard,Delhi Azadpur,2419
-Wheat,Sabalgarh APMC,2278
-Mustard,Nagod APMC,2046
-Wheat,Sabalgarh APMC,1977
-Wheat,Sabalgarh APMC,2228
-Mustard,Nagod APMC,2453
-Mustard,Nagod APMC,1828
-Wheat,Sabalgarh APMC,2403
-Wheat,Sabalgarh APMC,2142
-Mustard,Nagod APMC,1996
-Mustard,Sabalgarh APMC,2197
-Mustard,Delhi Azadpur,2411
-Wheat,Nagod APMC,1967
-Wheat,Nagod APMC,2096
-Mustard,Sabalgarh APMC,2234
-Mustard,Nagod APMC,2283
-Mustard,Sabalgarh APMC,2184
-Mustard,Sabalgarh APMC,2418
-Mustard,Delhi Azadpur,2265
-Mustard,Sabalgarh APMC,1864
-Wheat,Delhi Azadpur,2080
-Wheat,Sabalgarh APMC,1927
-Wheat,Delhi Azadpur,1877
-Mustard,Nagod APMC,2076
-Wheat,Nagod APMC,2128
-Mustard,Nagod APMC,2064
-Wheat,Nagod APMC,2281
-Wheat,Sabalgarh APMC,2095
-Mustard,Nagod APMC,1814
-Mustard,Sabalgarh APMC,2407
-Mustard,Sabalgarh APMC,2410
-Wheat,Delhi Azadpur,2119
-Wheat,Delhi Azadpur,1980
-Mustard,Delhi Azadpur,2286
-Wheat,Delhi Azadpur,2448
-Wheat,Delhi Azadpur,1994
-Mustard,Nagod APMC,1822
-Mustard,Delhi Azadpur,2290
-Mustard,Delhi Azadpur,2144
-Wheat,Sabalgarh APMC,2401
-Mustard,Sabalgarh APMC,2346
-Mustard,Delhi Azadpur,1861
-Wheat,Delhi Azadpur,1940
-Mustard,Sabalgarh APMC,2365
-Mustard,Delhi Azadpur,1865
-Wheat,Delhi Azadpur,2179
-Wheat,Sabalgarh APMC,2306
-Wheat,Nagod APMC,2238
-Mustard,Nagod APMC,2093
-Wheat,Nagod APMC,1868
-Mustard,Sabalgarh APMC,2017
-Wheat,Delhi Azadpur,2082
-Wheat,Nagod APMC,2123
-Wheat,Sabalgarh APMC,1938
-Mustard,Delhi Azadpur,2196
-Wheat,Sabalgarh APMC,2062
-Wheat,Sabalgarh APMC,2366
-Wheat,Nagod APMC,2312
-Wheat,Sabalgarh APMC,2283
-Wheat,Sabalgarh APMC,2137
-Mustard,Delhi Azadpur,2399
-Mustard,Sabalgarh APMC,1877
-Mustard,Sabalgarh APMC,2204
-Mustard,Delhi Azadpur,2173
-Wheat,Delhi Azadpur,2464
-Wheat,Sabalgarh APMC,2355
-Wheat,Nagod APMC,2214
-Mustard,Sabalgarh APMC,2112
-Mustard,Delhi Azadpur,2038
-Mustard,Sabalgarh APMC,2256
-Wheat,Nagod APMC,1999
-Wheat,Sabalgarh APMC,2425
-Wheat,Delhi Azadpur,2371
-Wheat,Nagod APMC,1915
-Mustard,Delhi Azadpur,1968
-Wheat,Nagod APMC,1988
-Mustard,Nagod APMC,2001
-Mustard,Nagod APMC,1973
-Wheat,Sabalgarh APMC,2133
-Wheat,Nagod APMC,2313
-Wheat,Sabalgarh APMC,2209
-Wheat,Nagod APMC,2301
-Mustard,Delhi Azadpur,1809
-Mustard,Nagod APMC,1836
-Mustard,Delhi Azadpur,2018
-Wheat,Sabalgarh APMC,2122
-Wheat,Nagod APMC,1934
-Mustard,Delhi Azadpur,2371
-Wheat,Nagod APMC,2500
-Wheat,Delhi Azadpur,1839
-Mustard,Nagod APMC,2062
-Mustard,Delhi Azadpur,1827
-Mustard,Delhi Azadpur,2367
-Wheat,Nagod APMC,2233
-Wheat,Sabalgarh APMC,2307
-Wheat,Nagod APMC,2130
-Mustard,Sabalgarh APMC,2385
-Mustard,Nagod APMC,2354
-Mustard,Nagod APMC,2083
-Wheat,Sabalgarh APMC,2500
-Wheat,Sabalgarh APMC,2340
-Mustard,Sabalgarh APMC,2129
-Mustard,Sabalgarh APMC,2054
-Wheat,Nagod APMC,2200
-Mustard,Sabalgarh APMC,2472
-Wheat,Delhi Azadpur,1879
-Mustard,Sabalgarh APMC,2472
-Mustard,Delhi Azadpur,2190
-Wheat,Sabalgarh APMC,2400
-Wheat,Nagod APMC,2216
-Mustard,Sabalgarh APMC,2092
-Wheat,Sabalgarh APMC,1900
-Mustard,Delhi Azadpur,2378
-Wheat,Delhi Azadpur,2308
-Wheat,Nagod APMC,2206
-Mustard,Sabalgarh APMC,1846
-Mustard,Nagod APMC,2400
-Mustard,Nagod APMC,2172
-Wheat,Sabalgarh APMC,1820
-Mustard,Delhi Azadpur,2120
-Mustard,Sabalgarh APMC,1948
-Mustard,Sabalgarh APMC,2097
-Wheat,Nagod APMC,2332
-Mustard,Nagod APMC,2109
-Mustard,Nagod APMC,2091
-Mustard,Delhi Azadpur,1942
-Wheat,Nagod APMC,2209
-Wheat,Nagod APMC,2115
-Mustard,Delhi Azadpur,1845
-Wheat,Sabalgarh APMC,1921
-Wheat,Delhi Azadpur,1837
-Mustard,Sabalgarh APMC,2468
-Mustard,Sabalgarh APMC,2458
-Wheat,Sabalgarh APMC,1800
-Mustard,Delhi Azadpur,1949
-Wheat,Nagod APMC,1978
-Wheat,Sabalgarh APMC,2371
-Mustard,Delhi Azadpur,1975
-Wheat,Sabalgarh APMC,2292
-Mustard,Delhi Azadpur,2222
-Wheat,Nagod APMC,2431
-Wheat,Sabalgarh APMC,2011
-Mustard,Nagod APMC,2140
-Wheat,Sabalgarh APMC,2395
-Wheat,Delhi Azadpur,2077
-Wheat,Sabalgarh APMC,2230
-Mustard,Nagod APMC,2381
-Mustard,Nagod APMC,2006
-Wheat,Nagod APMC,2376
-Mustard,Delhi Azadpur,2185
-Wheat,Delhi Azadpur,1802
-Wheat,Sabalgarh APMC,2308
-Mustard,Nagod APMC,2089
-Mustard,Nagod APMC,2148
-Mustard,Nagod APMC,2324
-Wheat,Nagod APMC,1888
-Wheat,Delhi Azadpur,2489
-Wheat,Sabalgarh APMC,2083
-Mustard,Sabalgarh APMC,2325
-Wheat,Delhi Azadpur,2288
-Mustard,Delhi Azadpur,2347
-Wheat,Sabalgarh APMC,2441
-Mustard,Nagod APMC,1947
-Mustard,Delhi Azadpur,1952
-Mustard,Sabalgarh APMC,2410
-Wheat,Nagod APMC,2300
-Wheat,Sabalgarh APMC,2392
-Mustard,Nagod APMC,1946
-Mustard,Delhi Azadpur,2003
-Wheat,Delhi Azadpur,1881
-Mustard,Nagod APMC,2010
-Wheat,Nagod APMC,2476
-Wheat,Nagod APMC,1810
-Mustard,Nagod APMC,2004
-Mustard,Nagod APMC,1944
-Wheat,Delhi Azadpur,1997
-Mustard,Sabalgarh APMC,1976
-Mustard,Delhi Azadpur,1819
-Mustard,Delhi Azadpur,2199
-Wheat,Nagod APMC,2290
-Mustard,Sabalgarh APMC,1982
-Wheat,Delhi Azadpur,2400
-Wheat,Sabalgarh APMC,1868
-Wheat,Sabalgarh APMC,2052
-Mustard,Delhi Azadpur,2430
-Mustard,Nagod APMC,1861
-Wheat,Delhi Azadpur,2339
-Wheat,Nagod APMC,2452
-Wheat,Delhi Azadpur,1802
-Mustard,Nagod APMC,2009
-Mustard,Sabalgarh APMC,1889
-Mustard,Sabalgarh APMC,2310
-Mustard,Sabalgarh APMC,2199
-Mustard,Sabalgarh APMC,1947
-Wheat,Sabalgarh APMC,2327
-Mustard,Delhi Azadpur,1876
-Mustard,Sabalgarh APMC,2219
-Wheat,Sabalgarh APMC,2358
-Wheat,Nagod APMC,2123
-Wheat,Delhi Azadpur,2377
-Wheat,Delhi Azadpur,2409
-Wheat,Sabalgarh APMC,2456
-Mustard,Sabalgarh APMC,2375
-Wheat,Delhi Azadpur,2458
-Wheat,Delhi Azadpur,1842
-Mustard,Sabalgarh APMC,2223
-Wheat,Sabalgarh APMC,2123
-Mustard,Delhi Azadpur,2080
-Wheat,Sabalgarh APMC,1893
-Mustard,Sabalgarh APMC,1936
-Mustard,Sabalgarh APMC,2203
-Mustard,Delhi Azadpur,2369
-Mustard,Delhi Azadpur,1974
-Wheat,Sabalgarh APMC,2363
-Mustard,Sabalgarh APMC,2058
-Wheat,Nagod APMC,1872
-Wheat,Nagod APMC,1964
-Mustard,Delhi Azadpur,1998
-Mustard,Sabalgarh APMC,1903
-Mustard,Nagod APMC,2499
-Mustard,Sabalgarh APMC,2233
-Wheat,Nagod APMC,2025
-Wheat,Sabalgarh APMC,1963
-Wheat,Nagod APMC,2011
-Mustard,Nagod APMC,2289
-Mustard,Delhi Azadpur,2139
-Mustard,Nagod APMC,2261
-Wheat,Sabalgarh APMC,2290
-Wheat,Delhi Azadpur,2417
-Wheat,Delhi Azadpur,2015
-Mustard,Sabalgarh APMC,2500
-Mustard,Nagod APMC,2475
-Wheat,Sabalgarh APMC,2250
-Mustard,Delhi Azadpur,1874
-Mustard,Nagod APMC,2179
-Wheat,Nagod APMC,1900
-Mustard,Delhi Azadpur,2268
-Mustard,Delhi Azadpur,2221
-Wheat,Sabalgarh APMC,2047
-Wheat,Sabalgarh APMC,1957
-Wheat,Delhi Azadpur,2354
-Mustard,Delhi Azadpur,1895
-Wheat,Nagod APMC,1854
-Mustard,Sabalgarh APMC,2162
-Wheat,Delhi Azadpur,1925
-Mustard,Delhi Azadpur,2302
-Wheat,Nagod APMC,1865
-Wheat,Nagod APMC,2243
-Mustard,Delhi Azadpur,2026
-Wheat,Delhi Azadpur,2313
-Mustard,Nagod APMC,2123
-Mustard,Nagod APMC,2429
-Mustard,Delhi Azadpur,1988
-Wheat,Sabalgarh APMC,2282
-Mustard,Delhi Azadpur,2475
-Mustard,Sabalgarh APMC,2409
-Mustard,Nagod APMC,2460
-Wheat,Delhi Azadpur,2229
-Mustard,Delhi Azadpur,1815
-Mustard,Nagod APMC,1940
-Wheat,Nagod APMC,2093
-Mustard,Nagod APMC,2258
-Mustard,Delhi Azadpur,2205
-Wheat,Nagod APMC,2456
-Wheat,Sabalgarh APMC,2127
-Wheat,Sabalgarh APMC,2172
-Mustard,Delhi Azadpur,2448
-Mustard,Nagod APMC,2145
-Wheat,Nagod APMC,1930
-Mustard,Sabalgarh APMC,2094
-Wheat,Nagod APMC,2221
-Wheat,Sabalgarh APMC,2401
-Mustard,Sabalgarh APMC,2110
-Mustard,Delhi Azadpur,2371
-Mustard,Delhi Azadpur,2149
-Mustard,Sabalgarh APMC,2295
-Mustard,Delhi Azadpur,2463
-Wheat,Nagod APMC,1972
-Wheat,Nagod APMC,2302
-Mustard,Delhi Azadpur,2091
-Wheat,Nagod APMC,2214
-Mustard,Delhi Azadpur,2400
-Mustard,Sabalgarh APMC,1989
-Mustard,Delhi Azadpur,2181
-Mustard,Nagod APMC,2406
-Mustard,Delhi Azadpur,2310
-Mustard,Delhi Azadpur,2350
-Wheat,Sabalgarh APMC,2495
-Wheat,Sabalgarh APMC,2136
-Wheat,Sabalgarh APMC,1806
-Mustard,Nagod APMC,2426
-Mustard,Delhi Azadpur,1834
-Wheat,Sabalgarh APMC,2212
-Mustard,Nagod APMC,1948
-Wheat,Sabalgarh APMC,2338
-Mustard,Sabalgarh APMC,1905
-Wheat,Nagod APMC,2250
-Wheat,Delhi Azadpur,2367
-Wheat,Delhi Azadpur,2409
-Wheat,Delhi Azadpur,2497
-Wheat,Sabalgarh APMC,2474
-Mustard,Delhi Azadpur,1892
-Wheat,Nagod APMC,1827
-Mustard,Nagod APMC,2214
-Mustard,Delhi Azadpur,1981
-Wheat,Nagod APMC,2024
-Wheat,Nagod APMC,1918
-Wheat,Sabalgarh APMC,1976
-Mustard,Delhi Azadpur,2358
-Wheat,Sabalgarh APMC,2063
-Wheat,Nagod APMC,1836
-Wheat,Sabalgarh APMC,1983
-Mustard,Delhi Azadpur,2056
-Wheat,Nagod APMC,2090
-Wheat,Sabalgarh APMC,2147
-Wheat,Sabalgarh APMC,2295
-Wheat,Nagod APMC,1942
-Mustard,Nagod APMC,1966
-Wheat,Nagod APMC,1814
-Wheat,Sabalgarh APMC,1871
-Mustard,Sabalgarh APMC,1999
+Cucumbar(Kheera),Dharmapuri(Uzhavar Sandhai ) APMC,5100
+Amaranthus,Pennagaram(Uzhavar Sandhai ) APMC,2400
+Green Avare(W),Pennagaram(Uzhavar Sandhai ) APMC,4850
+Cluster beans,Palacode(Uzhavar Sandhai ) APMC,3800
+Carrot,Palacode(Uzhavar Sandhai ) APMC,3350
+Beetroot,Palacode(Uzhavar Sandhai ) APMC,2650
+Coriander(Leaves),AJattihalli(Uzhavar Sandhai ) APMC,7500
+Potato,Dindigul(Uzhavar Sandhai ) APMC,3500
+Tomato,Dindigul(Uzhavar Sandhai ) APMC,2200
+Bottle gourd,Dindigul(Uzhavar Sandhai ) APMC,1750
+Mint(Pudina),Dindigul(Uzhavar Sandhai ) APMC,2750
+Brinjal,Palani(Uzhavar Sandhai ) APMC,2500
+Green Peas,Palani(Uzhavar Sandhai ) APMC,5250
+Beans,Palani(Uzhavar Sandhai ) APMC,5200
+Onion Green,Palani(Uzhavar Sandhai ) APMC,2500
+Brinjal,Chinnalapatti(Uzhavar Sandhai ) APMC,3750
+Chow Chow,Chinnalapatti(Uzhavar Sandhai ) APMC,2750
+Ashgourd,Periyar Nagar(Uzhavar Sandhai ) APMC,1700
+Brinjal,Padappai(Uzhavar Sandhai ) APMC,3000
+Beetroot,Padappai(Uzhavar Sandhai ) APMC,2500
+Raddish,Padappai(Uzhavar Sandhai ) APMC,2750
+Tender Coconut,Padappai(Uzhavar Sandhai ) APMC,2150
+Banana,Padappai(Uzhavar Sandhai ) APMC,7250
+Bhindi(Ladies Finger),Kundrathur(Uzhavar Sandhai ) APMC,4000
+Bhindi(Ladies Finger),Kulithalai(Uzhavar Sandhai ) APMC,4200
+Carrot,Kulithalai(Uzhavar Sandhai ) APMC,4750
+Guava,Kulithalai(Uzhavar Sandhai ) APMC,4500
+Amaranthus,Velayuthampalayam(Uzhavar Sandhai ) APMC,2250
+Chow Chow,Velayuthampalayam(Uzhavar Sandhai ) APMC,2700
+Onion Green,Velayuthampalayam(Uzhavar Sandhai ) APMC,3150
+Onion Green,Vengamedu(Uzhavar Sandhai ) APMC,3250
+Cabbage,Krishnagiri(Uzhavar Sandhai ) APMC,1250
+Guava,Krishnagiri(Uzhavar Sandhai ) APMC,5500
+Lemon,Krishnagiri(Uzhavar Sandhai ) APMC,5500
+Mint(Pudina),Krishnagiri(Uzhavar Sandhai ) APMC,1800
+Brinjal,Denkanikottai(Uzhavar Sandhai ) APMC,2250
+Onion Green,Denkanikottai(Uzhavar Sandhai ) APMC,3250
+Banana,Denkanikottai(Uzhavar Sandhai ) APMC,7000
+Green Peas,Avallapalli(Uzhavar Sandhai ) APMC,3500
+Papaya,Avallapalli(Uzhavar Sandhai ) APMC,2250
+Cowpea(Veg),Avallapalli(Uzhavar Sandhai ) APMC,3750
+Ridgeguard(Tori),Avallapalli(Uzhavar Sandhai ) APMC,3500
+Colacasia,Avallapalli(Uzhavar Sandhai ) APMC,3500
+Cauliflower,Anna nagar(Uzhavar Sandhai ) APMC,2250
+Papaya,Anna nagar(Uzhavar Sandhai ) APMC,3800
+Lemon,Anna nagar(Uzhavar Sandhai ) APMC,9000
+Onion Green,Anna nagar(Uzhavar Sandhai ) APMC,3750
+Bottle gourd,Chokkikulam(Uzhavar Sandhai ) APMC,2100
+Ashgourd,Chokkikulam(Uzhavar Sandhai ) APMC,1650
+Ginger(Green),Chokkikulam(Uzhavar Sandhai ) APMC,8500
+Knool Khol,Chokkikulam(Uzhavar Sandhai ) APMC,3300
+Mint(Pudina),Chokkikulam(Uzhavar Sandhai ) APMC,2750
+Tomato,Palanganatham(Uzhavar Sandhai ) APMC,1300
+Onion,Palanganatham(Uzhavar Sandhai ) APMC,2600
+Coconut,Palanganatham(Uzhavar Sandhai ) APMC,5750
+Indian Beans(Seam),Palanganatham(Uzhavar Sandhai ) APMC,5500
+Coconut,Usilampatti(Uzhavar Sandhai ) APMC,5750
+Mint(Pudina),Usilampatti(Uzhavar Sandhai ) APMC,2750
+Chikoos(Sapota),Thirumangalam(Uzhavar Sandhai ) APMC,4500
+Amaranthus,Melur(Uzhavar Sandhai ) APMC,3300
+Amla(Nelli Kai),Melur(Uzhavar Sandhai ) APMC,5500
+Onion Green,Melur(Uzhavar Sandhai ) APMC,3900
+Sweet Potato,Anaiyur(Uzhavar Sandhai ) APMC,3300
+Cabbage,Anaiyur(Uzhavar Sandhai ) APMC,1750
+Green Avare(W),Anaiyur(Uzhavar Sandhai ) APMC,6350
+Potato,Nagapattinam(Uzhavar Sandhai ) APMC,3250
+Green Avare(W),Nagapattinam(Uzhavar Sandhai ) APMC,4500
+Chow Chow,Nagapattinam(Uzhavar Sandhai ) APMC,2750
+Mashrooms,Nagapattinam(Uzhavar Sandhai ) APMC,16500
+Mint(Pudina),Nagapattinam(Uzhavar Sandhai ) APMC,3500
+Cucumbar(Kheera),Sirkali(Uzhavar Sandhai ) APMC,2750
+Garlic,Namakkal(Uzhavar Sandhai ) APMC,17500
+Brinjal,Namakkal(Uzhavar Sandhai ) APMC,2750
+Chikoos(Sapota),Namakkal(Uzhavar Sandhai ) APMC,3500
+Elephant Yam(Suran)/Amorphophallus,Namakkal(Uzhavar Sandhai ) APMC,2750
+Chow Chow,Rasipuram(Uzhavar Sandhai ) APMC,2750
+Groundnut,Rasipuram(Uzhavar Sandhai ) APMC,6250
+Ginger(Green),Kumarapalayam(Uzhavar Sandhai ) APMC,7000
+Drumstick,Kumarapalayam(Uzhavar Sandhai ) APMC,5250
+Potato,Udhagamandalam(Uzhavar Sandhai ) APMC,3750
+Pumpkin,Udhagamandalam(Uzhavar Sandhai ) APMC,1750
+Raddish,Udhagamandalam(Uzhavar Sandhai ) APMC,2250
+Guava,Udhagamandalam(Uzhavar Sandhai ) APMC,7500
+Green Peas,Perambalur(Uzhavar Sandhai ) APMC,5750
+Cowpea(Veg),Perambalur(Uzhavar Sandhai ) APMC,3300
+Snakeguard,Perambalur(Uzhavar Sandhai ) APMC,2200
+Capsicum,Perambalur(Uzhavar Sandhai ) APMC,6600
+Cowpea(Veg),Pudukottai(Uzhavar Sandhai ) APMC,1750
+Banana - Green,Pudukottai(Uzhavar Sandhai ) APMC,2750
+Beans,Pudukottai(Uzhavar Sandhai ) APMC,4750
+Cabbage,Pudukottai(Uzhavar Sandhai ) APMC,2250
+Chow Chow,Pudukottai(Uzhavar Sandhai ) APMC,2250
+Drumstick,Pudukottai(Uzhavar Sandhai ) APMC,11000
+Onion Green,Aranthangi(Uzhavar Sandhai ) APMC,4250
+Onion,Alangudi(Uzhavar Sandhai ) APMC,2750
+Papaya,Alangudi(Uzhavar Sandhai ) APMC,2750
+Snakeguard,Alangudi(Uzhavar Sandhai ) APMC,1750
+Ridgeguard(Tori),Alangudi(Uzhavar Sandhai ) APMC,3750
+Raddish,Alangudi(Uzhavar Sandhai ) APMC,1750
+Cluster beans,Viralimalai(Uzhavar Sandhai ) APMC,3650
+Ashgourd,Viralimalai(Uzhavar Sandhai ) APMC,1400
+Potato,Ramanathapuram(Uzhavar Sandhai ) APMC,4100
+Cabbage,Ramanathapuram(Uzhavar Sandhai ) APMC,2250
+Lime,Ramanathapuram(Uzhavar Sandhai ) APMC,11500
+Yam(Ratalu),Ramanathapuram(Uzhavar Sandhai ) APMC,7250
+Soyabean,Ramanathapuram(Uzhavar Sandhai ) APMC,8500
+Carrot,Paramakudi(Uzhavar Sandhai ) APMC,4750
+Drumstick,Paramakudi(Uzhavar Sandhai ) APMC,9500
+Green Chilli,Sooramangalam(Uzhavar Sandhai ) APMC,4900
+Tender Coconut,Sooramangalam(Uzhavar Sandhai ) APMC,3000
+Garlic,Thathakapatti(Uzhavar Sandhai ) APMC,15500
+Mousambi(Sweet Lime),Thathakapatti(Uzhavar Sandhai ) APMC,3250
+Amaranthus,Thathakapatti(Uzhavar Sandhai ) APMC,2200
+Beetroot,Thathakapatti(Uzhavar Sandhai ) APMC,4500
+Drumstick,Thathakapatti(Uzhavar Sandhai ) APMC,6250
+Knool Khol,Thathakapatti(Uzhavar Sandhai ) APMC,4250
+Onion,Mettur(Uzhavar Sandhai ) APMC,2650
+Bitter gourd,Mettur(Uzhavar Sandhai ) APMC,3900
+Banana - Green,Mettur(Uzhavar Sandhai ) APMC,2250
+Thondekai,Mettur(Uzhavar Sandhai ) APMC,5750
+Green Avare(W),Mettur(Uzhavar Sandhai ) APMC,3250
+Knool Khol,Mettur(Uzhavar Sandhai ) APMC,3800
+Mint(Pudina),Attayampatti(Uzhavar Sandhai ) APMC,3500
+Tapioca,Hasthampatti(Uzhavar Sandhai ) APMC,2750
+Knool Khol,Hasthampatti(Uzhavar Sandhai ) APMC,4200
+Apple,Hasthampatti(Uzhavar Sandhai ) APMC,19000
+Papaya,Elampillai(Uzhavar Sandhai ) APMC,3250
+Onion,Jalagandapuram(Uzhavar Sandhai ) APMC,2800
+Potato,Jalagandapuram(Uzhavar Sandhai ) APMC,3250
+Bhindi(Ladies Finger),Jalagandapuram(Uzhavar Sandhai ) APMC,2800
+Onion Green,Jalagandapuram(Uzhavar Sandhai ) APMC,2750
+Cluster beans,Sivagangai (Uzhavar Sandhai ) APMC,4000
+Banana - Green,Sivagangai (Uzhavar Sandhai ) APMC,3000
+Ridgeguard(Tori),Sivagangai (Uzhavar Sandhai ) APMC,3700
+Chow Chow,Sivagangai (Uzhavar Sandhai ) APMC,2300
+Onion Green,Sivagangai (Uzhavar Sandhai ) APMC,4100
+Tomato,Devakottai (Uzhavar Sandhai ) APMC,1700
+Amaranthus,Devakottai (Uzhavar Sandhai ) APMC,3750
+Ridgeguard(Tori),Devakottai (Uzhavar Sandhai ) APMC,3100
+Brinjal,Karaikudi(Uzhavar Sandhai ) APMC,3300
+Potato,Tirupatthur(Uzhavar Sandhai ) APMC,3350
+Coriander(Leaves),Tirupatthur(Uzhavar Sandhai ) APMC,4750
+Beans,Tirupatthur(Uzhavar Sandhai ) APMC,5250
+Mint(Pudina),Tirupatthur(Uzhavar Sandhai ) APMC,3250
+Pumpkin,Singampunari(Uzhavar Sandhai ) APMC,2350
+Bhindi(Ladies Finger),Singampunari(Uzhavar Sandhai ) APMC,3250
+Green Chilli,Singampunari(Uzhavar Sandhai ) APMC,3250
+Beans,Singampunari(Uzhavar Sandhai ) APMC,5250
+Cabbage,Singampunari(Uzhavar Sandhai ) APMC,2250
+Drumstick,Singampunari(Uzhavar Sandhai ) APMC,8500
+Cauliflower,Thanjavur(Uzhavar Sandhai ) APMC,3600
+Bitter gourd,Thanjavur(Uzhavar Sandhai ) APMC,6000
+Amaranthus,Thanjavur(Uzhavar Sandhai ) APMC,2000
+Carrot,Thanjavur(Uzhavar Sandhai ) APMC,5000
+Cabbage,Thanjavur(Uzhavar Sandhai ) APMC,2600
+Thondekai,Thanjavur(Uzhavar Sandhai ) APMC,4600
+Chow Chow,Thanjavur(Uzhavar Sandhai ) APMC,3000
+Colacasia,Thanjavur(Uzhavar Sandhai ) APMC,3600
+Garlic,Pattukottai(Uzhavar Sandhai ) APMC,14000
+Banana,Tirukattupalli(Uzhavar Sandhai ) APMC,6500
+Banana - Green,Tirukattupalli(Uzhavar Sandhai ) APMC,4000
+Beans,Tirukattupalli(Uzhavar Sandhai ) APMC,3400
+Bottle gourd,Theni(Uzhavar Sandhai ) APMC,1000
+Green Chilli,Theni(Uzhavar Sandhai ) APMC,3500
+Sweet Potato,Theni(Uzhavar Sandhai ) APMC,2750
+Colacasia,Theni(Uzhavar Sandhai ) APMC,3500
+Cauliflower,Kambam(Uzhavar Sandhai ) APMC,2500
+Green Peas,Kambam(Uzhavar Sandhai ) APMC,4650
+Bitter gourd,Kambam(Uzhavar Sandhai ) APMC,2600
+Ashgourd,Kambam(Uzhavar Sandhai ) APMC,1550
+Drumstick,Kambam(Uzhavar Sandhai ) APMC,8000
+Indian Beans(Seam),Kambam(Uzhavar Sandhai ) APMC,5000
+Banana,Kambam(Uzhavar Sandhai ) APMC,5000
+Onion,Bodinayakanur(Uzhavar Sandhai ) APMC,2500
+Cauliflower,Bodinayakanur(Uzhavar Sandhai ) APMC,2500
+Ashgourd,Devaram(Uzhavar Sandhai ) APMC,1600
+Pumpkin,Devaram(Uzhavar Sandhai ) APMC,1500
+Green Chilli,Devaram(Uzhavar Sandhai ) APMC,4000
+Cowpea(Veg),Devaram(Uzhavar Sandhai ) APMC,3000
+Indian Beans(Seam),Devaram(Uzhavar Sandhai ) APMC,5000
+Bhindi(Ladies Finger),Chinnamanur(Uzhavar Sandhai ) APMC,4200
+Cabbage,Chinnamanur(Uzhavar Sandhai ) APMC,1600
+Pumpkin,Karimangalam(Uzhavar Sandhai),1900
+Tomato,Mecheri(Uzhavar Sandhai),1200
+Green Avare(W),Ponnamaravathi(Uzhavar Sandhai),4750
+Colacasia,Vazhapadi(Uzhavar Sandhai),5000
+Onion,Sainthia APMC,2400
+Onion,Pune APMC,800
+Cabbage,Pune APMC,700
+Green Chilli,Pune(Moshi) APMC,6000
+Green Chilli,Chowmanu APMC,8000
+Snakeguard,Paramathivelur(Uzhavar Sandhai ) APMC,3750
+Banana - Green,Thammampatti (Uzhavar Sandhai ) APMC,2250
+Bhindi(Ladies Finger),Tiruvarur(Uzhavar Sandhai ) APMC,5400
+Snakeguard,Tiruvarur(Uzhavar Sandhai ) APMC,4000
+Coconut,Udumalpet APMC,5500
+Mint(Pudina),Pennagaram(Uzhavar Sandhai ) APMC,3900
+Ridgeguard(Tori),Palacode(Uzhavar Sandhai ) APMC,3350
+Papaya,AJattihalli(Uzhavar Sandhai ) APMC,3250
+Carrot,AJattihalli(Uzhavar Sandhai ) APMC,3200
+Bottle gourd,Periyar Nagar(Uzhavar Sandhai ) APMC,1350
+Carrot,Perundurai(Uzhavar Sandhai ) APMC,4800
+Lemon,Padappai(Uzhavar Sandhai ) APMC,6250
+Beetroot,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Capsicum,Kundrathur(Uzhavar Sandhai ) APMC,5000
+Orange,Kundrathur(Uzhavar Sandhai ) APMC,6500
+Bitter gourd,Kulithalai(Uzhavar Sandhai ) APMC,3800
+Bitter gourd,Velayuthampalayam(Uzhavar Sandhai ) APMC,3600
+Bitter gourd,Vengamedu(Uzhavar Sandhai ) APMC,3750
+Cucumbar(Kheera),Hosur(Uzhavar Sandhai ) APMC,1750
+Chow Chow,Hosur(Uzhavar Sandhai ) APMC,1250
+Tender Coconut,Krishnagiri(Uzhavar Sandhai ) APMC,2750
+Indian Beans(Seam),Krishnagiri(Uzhavar Sandhai ) APMC,4250
+Onion Green,Krishnagiri(Uzhavar Sandhai ) APMC,3550
+Onion,Avallapalli(Uzhavar Sandhai ) APMC,2250
+Cluster beans,Avallapalli(Uzhavar Sandhai ) APMC,4500
+Bhindi(Ladies Finger),Avallapalli(Uzhavar Sandhai ) APMC,3500
+Drumstick,Avallapalli(Uzhavar Sandhai ) APMC,7500
+Chili Red,Anna nagar(Uzhavar Sandhai ) APMC,20000
+Thondekai,Anna nagar(Uzhavar Sandhai ) APMC,3300
+Brinjal,Palanganatham(Uzhavar Sandhai ) APMC,2900
+Green Avare(W),Thirumangalam(Uzhavar Sandhai ) APMC,7100
+Papaya,Melur(Uzhavar Sandhai ) APMC,3800
+Tomato,Melur(Uzhavar Sandhai ) APMC,1300
+Ashgourd,Melur(Uzhavar Sandhai ) APMC,1650
+Apple,Anaiyur(Uzhavar Sandhai ) APMC,21000
+Guava,Sirkali(Uzhavar Sandhai ) APMC,4500
+Tamarind Fruit,Sirkali(Uzhavar Sandhai ) APMC,11500
+Guava,Rasipuram(Uzhavar Sandhai ) APMC,5750
+Fig(Anjura/Anjeer),Rasipuram(Uzhavar Sandhai ) APMC,14500
+Carrot,Mohanur(Uzhavar Sandhai ) APMC,5700
+Ashgourd,Udhagamandalam(Uzhavar Sandhai ) APMC,1750
+Bhindi(Ladies Finger),Pudukottai(Uzhavar Sandhai ) APMC,4250
+Yam(Ratalu),Pudukottai(Uzhavar Sandhai ) APMC,4500
+Ashgourd,Alangudi(Uzhavar Sandhai ) APMC,900
+Amaranthus,Viralimalai(Uzhavar Sandhai ) APMC,1850
+Onion Green,Viralimalai(Uzhavar Sandhai ) APMC,3650
+Ginger(Green),Ramanathapuram(Uzhavar Sandhai ) APMC,9500
+Onion,Sooramangalam(Uzhavar Sandhai ) APMC,2800
+Chow Chow,Sooramangalam(Uzhavar Sandhai ) APMC,2750
+Banana,Thathakapatti(Uzhavar Sandhai ) APMC,4250
+Cluster beans,Mettur(Uzhavar Sandhai ) APMC,4250
+Banana - Green,Attayampatti(Uzhavar Sandhai ) APMC,2750
+Pumpkin,Hasthampatti(Uzhavar Sandhai ) APMC,1900
+Groundnut,Hasthampatti(Uzhavar Sandhai ) APMC,6250
+Cabbage,Elampillai(Uzhavar Sandhai ) APMC,3200
+Groundnut,Elampillai(Uzhavar Sandhai ) APMC,5750
+Banana - Green,Jalagandapuram(Uzhavar Sandhai ) APMC,2200
+Ridgeguard(Tori),Edapadi (Uzhavar Sandhai ) APMC,3750
+Green Avare(W),Devakottai (Uzhavar Sandhai ) APMC,6900
+Onion Green,Devakottai (Uzhavar Sandhai ) APMC,4100
+Cluster beans,Karaikudi(Uzhavar Sandhai ) APMC,4200
+Coconut,Singampunari(Uzhavar Sandhai ) APMC,6200
+Ashgourd,Thanjavur(Uzhavar Sandhai ) APMC,2000
+Bitter gourd,Pattukottai(Uzhavar Sandhai ) APMC,4800
+Amaranthus,Pattukottai(Uzhavar Sandhai ) APMC,2000
+Raddish,Pattukottai(Uzhavar Sandhai ) APMC,3500
+Yam(Ratalu),Theni(Uzhavar Sandhai ) APMC,4500
+Green Chilli,Kambam(Uzhavar Sandhai ) APMC,3750
+Amla(Nelli Kai),Kambam(Uzhavar Sandhai ) APMC,5000
+Knool Khol,Devaram(Uzhavar Sandhai ) APMC,2000
+Onion,Chinnamanur(Uzhavar Sandhai ) APMC,2500
+Raddish,Katpadi (Uzhavar Sandhai ) APMC,2000
+Cucumbar(Kheera),Kumbakonam (Uzhavar Sandhai ) APMC,5000
+Mint(Pudina),Tindivanam APMC,2000
+Amaranthus,Ulundurpettai APMC,2000
+Cowpea(Veg),Koduvayoor APMC,2700
+Drumstick,Koduvayoor APMC,6200
+Carrot,Haldwani APMC,1700
+Bitter gourd,Nutanbazar APMC,11500
+Banana,Barwala(Hisar) APMC,3000
+Pomegranate,Barwala(Hisar) APMC,14000
+Mousambi(Sweet Lime),Barwala(Hisar) APMC,3000
+Cluster beans,Sundarapuram(Uzhavar Sandhai ) APMC,3750
+Apple,Gondal(Veg.market Gondal) APMC,12000
+Banana,Siliguri APMC,2100
+Bottle gourd,Ahirora APMC,2500
+Carrot,Anoop Shahar APMC,1200
+Cabbage,Awagarh APMC,1300
+Rice,Karimpur APMC,5000
+Mustard,Karimpur APMC,6600
+Green Chilli,Karimpur APMC,9600
+Green Peas,Karimangalam(Uzhavar Sandhai),4750
+Papaya,Karimangalam(Uzhavar Sandhai),3400
+Tomato,Karimangalam(Uzhavar Sandhai),900
+Tapioca,Karimangalam(Uzhavar Sandhai),1900
+Ginger(Green),Karimangalam(Uzhavar Sandhai),8250
+Onion,Mecheri(Uzhavar Sandhai),2750
+Chikoos(Sapota),Mecheri(Uzhavar Sandhai),3750
+Coconut,Mecheri(Uzhavar Sandhai),5750
+Ridgeguard(Tori),Pallikonda(Uzhavar Sandhai),3750
+Papaya,Perampet(Uzhavar Sandhai),3250
+Drumstick,Perampet(Uzhavar Sandhai),6500
+Tender Coconut,Perampet(Uzhavar Sandhai),2500
+Lemon,Perampet(Uzhavar Sandhai),4000
+Cluster beans,Peravurani(Uzhavar Sandhai),5000
+Bitter gourd,Peravurani(Uzhavar Sandhai),5000
+Carrot,Peravurani(Uzhavar Sandhai),4500
+Bottle gourd,Ponnamaravathi(Uzhavar Sandhai),1250
+Green Chilli,Ponnamaravathi(Uzhavar Sandhai),3750
+Coconut,Ponnamaravathi(Uzhavar Sandhai),4750
+Snakeguard,Vazhapadi(Uzhavar Sandhai),2000
+Pumpkin,Gandhigramam(Uzhavar Sandhai),1850
+Elephant Yam(Suran)/Amorphophallus,Gandhigramam(Uzhavar Sandhai),3500
+Cucumbar(Kheera),Champadanga APMC,4100
+Green Chilli,Sainthia APMC,7400
+Wheat,Charra APMC,2540
+Carrot,Chattrapati Sambhajinagar APMC,1300
+Guar,Chattrapati Sambhajinagar APMC,10500
+Bottle gourd,Pune APMC,1500
+Cauliflower,Pune(Moshi) APMC,900
+Onion,Pune(Moshi) APMC,700
+Cabbage,Pune(Moshi) APMC,750
+Methi(Leaves),Pune(Moshi) APMC,11
+Bitter gourd,Jalaun APMC,4000
+Methi(Leaves),Banur APMC,1100
+Raddish,Banur APMC,600
+Green Chilli,Siyana APMC,2205
+Potato,Tulsipur APMC,700
+Banana - Green,Kulai APMC,2300
+Bottle gourd,Kulai APMC,2500
+Brinjal,Chowmanu APMC,2000
+Tomato,Habra APMC,1100
+Sweet Pumpkin,Khatra APMC,2400
+Squash(Chappal Kadoo),Karsiyang(Matigara) APMC,1900
+Bottle gourd,Sulur(Uzhavar Sandhai ) APMC,2200
+Chow Chow,Sulur(Uzhavar Sandhai ) APMC,2350
+Mint(Pudina),Sulur(Uzhavar Sandhai ) APMC,3800
+Coriander(Leaves),Gandarvakottai(Uzhavar Sandhai ) APMC,3250
+Cluster beans,Gandarvakottai(Uzhavar Sandhai ) APMC,3500
+Sweet Potato,Gandarvakottai(Uzhavar Sandhai ) APMC,3800
+Onion Green,Gandarvakottai(Uzhavar Sandhai ) APMC,3350
+Bottle gourd,Mayiladuthurai(Uzhavar Sandhai ) APMC,3250
+Onion Green,Mayiladuthurai(Uzhavar Sandhai ) APMC,4750
+Mint(Pudina),Mayiladuthurai(Uzhavar Sandhai ) APMC,4250
+Snakeguard,Vedaranyam(Uzhavar Sandhai),3100
+Ridgeguard(Tori),Vedaranyam(Uzhavar Sandhai),3900
+Bitter gourd,Paramathivelur(Uzhavar Sandhai ) APMC,5750
+Bottle gourd,Paramathivelur(Uzhavar Sandhai ) APMC,1100
+Brinjal,Thammampatti (Uzhavar Sandhai ) APMC,3000
+Coriander(Leaves),Thammampatti (Uzhavar Sandhai ) APMC,2250
+Chikoos(Sapota),Thammampatti (Uzhavar Sandhai ) APMC,4000
+Tapioca,Thammampatti (Uzhavar Sandhai ) APMC,1750
+Capsicum,Thammampatti (Uzhavar Sandhai ) APMC,7500
+Cluster beans,Tiruvarur(Uzhavar Sandhai ) APMC,4000
+Bottle gourd,Tiruvarur(Uzhavar Sandhai ) APMC,2400
+Green Chilli,Tiruvarur(Uzhavar Sandhai ) APMC,6000
+Lemon,Tiruvarur(Uzhavar Sandhai ) APMC,3000
+Cauliflower,Udumalpet APMC,2250
+Brinjal,Udumalpet APMC,2100
+Coriander(Leaves),Udumalpet APMC,5500
+Green Chilli,Udumalpet APMC,4500
+Potato,Katpadi (Uzhavar Sandhai ) APMC,2500
+Brinjal,Katpadi (Uzhavar Sandhai ) APMC,2000
+Banana,Kumbakonam (Uzhavar Sandhai ) APMC,4000
+Garlic,Kumbakonam (Uzhavar Sandhai ) APMC,18000
+Green Peas,Kumbakonam (Uzhavar Sandhai ) APMC,6000
+Indian Beans(Seam),Kumbakonam (Uzhavar Sandhai ) APMC,6000
+Ashgourd,Tindivanam APMC,1500
+Cabbage,Tindivanam APMC,2800
+Marigold(Calcutta),Tindivanam APMC,22000
+Green Chilli,Ulundurpettai APMC,6000
+Coconut,Ulundurpettai APMC,3500
+Onion Green,Ulundurpettai APMC,3500
+Bengal Gram(Gram)(Whole),Harsood APMC,5011
+Wheat,Khachrod APMC,2001
+Onion,Koduvayoor APMC,2700
+Garlic,Koduvayoor APMC,14700
+Tomato,Koduvayoor APMC,2200
+Pineapple,Koduvayoor APMC,8200
+Cauliflower,Koduvayoor APMC,2700
+Pumpkin,Sultanpur APMC,1500
+Brinjal,Kalna APMC,2400
+Rice,Katwa APMC,3200
+Potato,Pandua APMC,660
+Potato,Bethuadahari APMC,790
+Brinjal,Cheyyar(Uzhavar Sandhai ) APMC,2250
+Papaya,Cheyyar(Uzhavar Sandhai ) APMC,3600
+Bitter gourd,Cheyyar(Uzhavar Sandhai ) APMC,3250
+Thondekai,Cheyyar(Uzhavar Sandhai ) APMC,3600
+Knool Khol,Cheyyar(Uzhavar Sandhai ) APMC,2750
+Pumpkin,Papanasam(Uzhavar Sandhai ) APMC,2400
+Green Chilli,Papanasam(Uzhavar Sandhai ) APMC,4800
+Beetroot,Papanasam(Uzhavar Sandhai ) APMC,3000
+Tomato,Haldwani APMC,800
+Rice,Gadarpur APMC,3300
+Cauliflower,Shahkot APMC,400
+Apple,Dinanagar APMC,7500
+Banana,Vadavalli(Uzhavar Sandhai ) APMC,8500
+Onion,Vadavalli(Uzhavar Sandhai ) APMC,2000
+Ginger(Green),Vadavalli(Uzhavar Sandhai ) APMC,6350
+Cabbage,Nutanbazar APMC,950
+Cucumbar(Kheera),Nutanbazar APMC,4950
+Onion,Dasda APMC,3600
+Ginger(Green),Barwala(Hisar) APMC,6000
+Capsicum,Barwala(Hisar) APMC,3400
+Tomato,Madlauda APMC,1250
+Potato,Gurgaon APMC,600
+Brinjal,Sundarapuram(Uzhavar Sandhai ) APMC,3750
+Chikoos(Sapota),Sundarapuram(Uzhavar Sandhai ) APMC,3750
+Capsicum,Sundarapuram(Uzhavar Sandhai ) APMC,5750
+Green Avare(W),Sundarapuram(Uzhavar Sandhai ) APMC,3400
+Chow Chow,Sundarapuram(Uzhavar Sandhai ) APMC,2400
+French Beans(Frasbean),Kayamkulam APMC,6600
+Tomato,Nadiyad(Piplag) APMC,1150
+Potato,SMY Takoli,1300
+Potato,Gondal(Veg.market Gondal) APMC,950
+Banana,Gondal(Veg.market Gondal) APMC,2125
+Water Melon,Gondal(Veg.market Gondal) APMC,1625
+Squash(Chappal Kadoo),Siliguri APMC,2000
+Coriander(Leaves),Nadiyad(Chaklasi) APMC,1400
+Papaya,Sampath Nagar(Uzhavar Sandhai ) APMC,2400
+Bhindi(Ladies Finger),Sampath Nagar(Uzhavar Sandhai ) APMC,3650
+Snakeguard,Sampath Nagar(Uzhavar Sandhai ) APMC,2200
+Beetroot,Sampath Nagar(Uzhavar Sandhai ) APMC,4000
+Drumstick,Sampath Nagar(Uzhavar Sandhai ) APMC,5750
+Potato,Gobichettipalayam(Uzhavar Sandhai ) APMC,3650
+Cluster beans,Gobichettipalayam(Uzhavar Sandhai ) APMC,3250
+Bottle gourd,Gobichettipalayam(Uzhavar Sandhai ) APMC,1100
+Guava,Gobichettipalayam(Uzhavar Sandhai ) APMC,5750
+Bitter gourd,Sathiyamagalam(Uzhavar Sandhai ) APMC,4250
+Beetroot,Sathiyamagalam(Uzhavar Sandhai ) APMC,3750
+Brinjal,Valangaiman APMC,3200
+Brinjal,Hindol APMC,2500
+Ridgeguard(Tori),Hindol APMC,5800
+Onion,Hindol APMC,1900
+Coriander(Leaves),Tiruchengode APMC,5700
+Cluster beans,Tiruchengode APMC,3750
+Bhindi(Ladies Finger),Tiruchengode APMC,5100
+Raddish,Tiruchengode APMC,1900
+Yam(Ratalu),Tiruchengode APMC,5700
+Coriander(Leaves),Thuraiyur APMC,4000
+Tomato,Thuraiyur APMC,1650
+Ashgourd,Thuraiyur APMC,1500
+Amaranthus,Thuraiyur APMC,1750
+Elephant Yam(Suran)/Amorphophallus,Thuraiyur APMC,2750
+Potato,Ariyalur(Uzhavar Sandhai) APMC,3250
+Onion,Jeyankondam (Uzhavar Sandhai ) APMC,2750
+Beetroot,Jeyankondam (Uzhavar Sandhai ) APMC,3600
+Lemon,Jeyankondam (Uzhavar Sandhai ) APMC,5500
+Green Chilli,Sagar(F&V) APMC,1800
+Other green and fresh vegetables,Sagar(F&V) APMC,700
+Onion,Sagar(F&V) APMC,900
+Bottle gourd,Karera(F&V) APMC,1500
+Pumpkin,Anoop Shahar APMC,1200
+Bottle gourd,Anoop Shahar APMC,1800
+Cauliflower,Sirali(F&V) APMC,1000
+Bottle gourd,Awagarh APMC,1500
+Rice,Bishnupur(Bankura) APMC,4600
+Potato,Bishnupur(Bankura) APMC,720
+Bhindi(Ladies Finger),Karimangalam(Uzhavar Sandhai),2400
+Raddish,Karimangalam(Uzhavar Sandhai),1350
+Brinjal,Mecheri(Uzhavar Sandhai),2900
+Carrot,Mecheri(Uzhavar Sandhai),5250
+Cabbage,Mecheri(Uzhavar Sandhai),3250
+Onion,Pallikonda(Uzhavar Sandhai),2600
+Tomato,Pallikonda(Uzhavar Sandhai),1500
+Amaranthus,Pallikonda(Uzhavar Sandhai),3000
+Ginger(Green),Pallikonda(Uzhavar Sandhai),6500
+Cucumbar(Kheera),Pallikonda(Uzhavar Sandhai),3000
+Potato,Perampet(Uzhavar Sandhai),3000
+Pumpkin,Perampet(Uzhavar Sandhai),2000
+Cabbage,Perampet(Uzhavar Sandhai),2000
+Coriander(Leaves),Ponnamaravathi(Uzhavar Sandhai),4750
+Tomato,Ponnamaravathi(Uzhavar Sandhai),1750
+Guava,Ponnamaravathi(Uzhavar Sandhai),6750
+Cluster beans,Vazhapadi(Uzhavar Sandhai),5000
+Pumpkin,Vazhapadi(Uzhavar Sandhai),2000
+Cabbage,Vazhapadi(Uzhavar Sandhai),2750
+Potato,Gandhigramam(Uzhavar Sandhai),4500
+Lemon,Gandhigramam(Uzhavar Sandhai),10500
+Amla(Nelli Kai),Gandhigramam(Uzhavar Sandhai),7500
+Onion Green,Gandhigramam(Uzhavar Sandhai),3250
+Mint(Pudina),Gandhigramam(Uzhavar Sandhai),3750
+Potato,Sainthia APMC,950
+Tomato,Sainthia APMC,2000
+Hen,"Fish,Poultry & Egg Market, Gazipur APMC",3400
+Bajra(Pearl Millet/Cumbu),Charra APMC,1850
+Ginger(Green),Chattrapati Sambhajinagar APMC,4000
+Drumstick,Chattrapati Sambhajinagar APMC,3500
+Bhindi(Ladies Finger),Pune APMC,3800
+Guar,Pune(Moshi) APMC,7500
+Mango(Raw-Ripe),Pune(Moshi) APMC,5000
+Coriander(Leaves),Pune(Moshi) APMC,9
+Chilly Capsicum,Pune(Moshi) APMC,3500
+Pointed gourd(Parval),Pune(Moshi) APMC,4000
+Little gourd(Kundru),Pune(Moshi) APMC,4000
+Onion,Pune(Pimpri) APMC,1050
+Cauliflower,Jalaun APMC,1300
+Potato,Banur APMC,700
+Tomato,Shadabad APMC,1150
+Pomegranate,Siyana APMC,6150
+Carrot,Siyana APMC,2150
+Pumpkin,Siyana APMC,1105
+Bitter gourd,Chowmanu APMC,7000
+Carrot,Karsiyang(Matigara) APMC,4000
+Potato,Sulur(Uzhavar Sandhai ) APMC,4500
+Garlic,Sulur(Uzhavar Sandhai ) APMC,15500
+Onion Green,Sulur(Uzhavar Sandhai ) APMC,3000
+Potato,Gandarvakottai(Uzhavar Sandhai ) APMC,3800
+Water Melon,Gandarvakottai(Uzhavar Sandhai ) APMC,1750
+Lemon,Gandarvakottai(Uzhavar Sandhai ) APMC,9500
+Potato,Mayiladuthurai(Uzhavar Sandhai ) APMC,4000
+Snakeguard,Mayiladuthurai(Uzhavar Sandhai ) APMC,3750
+Chow Chow,Mayiladuthurai(Uzhavar Sandhai ) APMC,2500
+Amaranthus,Vedaranyam(Uzhavar Sandhai),1900
+Ashgourd,Paramathivelur(Uzhavar Sandhai ) APMC,1700
+Bhindi(Ladies Finger),Paramathivelur(Uzhavar Sandhai ) APMC,5000
+Ginger(Green),Paramathivelur(Uzhavar Sandhai ) APMC,5750
+Carrot,Paramathivelur(Uzhavar Sandhai ) APMC,5000
+Chow Chow,Paramathivelur(Uzhavar Sandhai ) APMC,2750
+Onion Green,Paramathivelur(Uzhavar Sandhai ) APMC,3250
+Bitter gourd,Thammampatti (Uzhavar Sandhai ) APMC,4000
+Ashgourd,Thammampatti (Uzhavar Sandhai ) APMC,2000
+Green Chilli,Thammampatti (Uzhavar Sandhai ) APMC,5750
+Green Avare(W),Thammampatti (Uzhavar Sandhai ) APMC,3750
+Tender Coconut,Thammampatti (Uzhavar Sandhai ) APMC,3500
+Coconut,Tiruvarur(Uzhavar Sandhai ) APMC,5000
+Bottle gourd,Udumalpet APMC,1250
+Thondekai,Udumalpet APMC,5500
+Elephant Yam(Suran)/Amorphophallus,Udumalpet APMC,5500
+Banana,Katpadi (Uzhavar Sandhai ) APMC,5000
+Mousambi(Sweet Lime),Katpadi (Uzhavar Sandhai ) APMC,6000
+Tomato,Katpadi (Uzhavar Sandhai ) APMC,1500
+Banana - Green,Katpadi (Uzhavar Sandhai ) APMC,3000
+Green Avare(W),Katpadi (Uzhavar Sandhai ) APMC,4000
+Knool Khol,Katpadi (Uzhavar Sandhai ) APMC,1500
+Mint(Pudina),Katpadi (Uzhavar Sandhai ) APMC,2500
+Onion,Kumbakonam (Uzhavar Sandhai ) APMC,2700
+Ginger(Green),Kumbakonam (Uzhavar Sandhai ) APMC,8400
+Snakeguard,Kumbakonam (Uzhavar Sandhai ) APMC,4200
+Capsicum,Kumbakonam (Uzhavar Sandhai ) APMC,8000
+Mashrooms,Kumbakonam (Uzhavar Sandhai ) APMC,25000
+Bitter gourd,Tindivanam APMC,3500
+Bhindi(Ladies Finger),Tindivanam APMC,3000
+Snakeguard,Tindivanam APMC,3000
+Yam(Ratalu),Tindivanam APMC,6000
+Lemon,Tindivanam APMC,6000
+Guava,Ulundurpettai APMC,5000
+Yam(Ratalu),Ulundurpettai APMC,4000
+Paddy(Common),Pipariya APMC,3800
+Wheat,Thandla APMC,2200
+Cotton,Sanawad APMC,5180
+Mustard,Lashkar APMC,5410
+Mustard,Chanderi APMC,5605
+buttery,Deori APMC,3600
+Maize,Chhpara APMC,1621
+Little gourd(Kundru),Koduvayoor APMC,3700
+Green Chilli,Koduvayoor APMC,4200
+Ginger(Dry),Koduvayoor APMC,6700
+Tomato,Bolpur APMC,2000
+Green Chilli,Kalna APMC,7200
+Potato,Islampur APMC,825
+Onion,Birbhum APMC,2400
+Potato,Cheyyar(Uzhavar Sandhai ) APMC,2750
+Beans,Cheyyar(Uzhavar Sandhai ) APMC,2750
+Drumstick,Cheyyar(Uzhavar Sandhai ) APMC,11000
+Castor Seed,Yemmiganur APMC,5871
+Grapes,Haldwani APMC,3400
+Banana,Roorkee APMC,1000
+Cucumbar(Kheera),Roorkee APMC,700
+Carrot,Kodaikkanal(Uzhavar Sandhai) APMC,3000
+Cluster beans,Vadavalli(Uzhavar Sandhai ) APMC,2850
+Ridgeguard(Tori),Vadavalli(Uzhavar Sandhai ) APMC,3750
+Thondekai,Vadavalli(Uzhavar Sandhai ) APMC,3250
+Capsicum,Vadavalli(Uzhavar Sandhai ) APMC,5250
+Lime,Vadavalli(Uzhavar Sandhai ) APMC,11500
+Onion Green,Vadavalli(Uzhavar Sandhai ) APMC,2750
+Paddy(Common),Nutanbazar APMC,2250
+Tomato,Nutanbazar APMC,1950
+Brinjal,Dasda APMC,1550
+Lemon,Barwala(Hisar) APMC,3500
+Water Melon,Barwala(Hisar) APMC,3400
+Coriander(Leaves),Sundarapuram(Uzhavar Sandhai ) APMC,5750
+Green Peas,Sundarapuram(Uzhavar Sandhai ) APMC,6250
+Sweet Potato,Sundarapuram(Uzhavar Sandhai ) APMC,3250
+Carrot,Sundarapuram(Uzhavar Sandhai ) APMC,4400
+Lemon,Sundarapuram(Uzhavar Sandhai ) APMC,10500
+Brinjal,Anchal APMC,4700
+Cabbage,Kayamkulam APMC,1900
+Ginger(Green),Kayamkulam APMC,9000
+Indian Beans(Seam),Kayamkulam APMC,2900
+Rice,Sheoraphuly APMC,2950
+Potato,Sheoraphuly APMC,660
+Spinach,SMY Takoli,700
+Brinjal,Gondal(Veg.market Gondal) APMC,1375
+Guar,Gondal(Veg.market Gondal) APMC,5500
+Ginger(Green),Siliguri APMC,5800
+Brinjal,Nadiyad(Chaklasi) APMC,1300
+Onion,Sampath Nagar(Uzhavar Sandhai ) APMC,2650
+Green Peas,Sampath Nagar(Uzhavar Sandhai ) APMC,6650
+Tapioca,Sampath Nagar(Uzhavar Sandhai ) APMC,1900
+Sweet Potato,Sampath Nagar(Uzhavar Sandhai ) APMC,3750
+Onion,Gobichettipalayam(Uzhavar Sandhai ) APMC,3250
+Ashgourd,Gobichettipalayam(Uzhavar Sandhai ) APMC,2650
+Ginger(Green),Gobichettipalayam(Uzhavar Sandhai ) APMC,7650
+Mint(Pudina),Gobichettipalayam(Uzhavar Sandhai ) APMC,3800
+Potato,Sathiyamagalam(Uzhavar Sandhai ) APMC,2750
+Papaya,Sathiyamagalam(Uzhavar Sandhai ) APMC,2150
+Water Melon,Sathiyamagalam(Uzhavar Sandhai ) APMC,2750
+Tapioca,Sathiyamagalam(Uzhavar Sandhai ) APMC,2750
+Ginger(Green),Sathiyamagalam(Uzhavar Sandhai ) APMC,6750
+Mint(Pudina),Sathiyamagalam(Uzhavar Sandhai ) APMC,4250
+Green Avare(W),Valangaiman APMC,4000
+Onion Green,Valangaiman APMC,4000
+Cauliflower,Jhargram APMC,1400
+Potato,Jasvantnagar APMC,700
+Bhindi(Ladies Finger),Hindol APMC,8000
+Cucumbar(Kheera),Hindol APMC,4200
+Cabbage,Hindol APMC,2200
+Cauliflower,Tiruchengode APMC,2800
+Drumstick,Tiruchengode APMC,4750
+Ginger(Green),Thuraiyur APMC,7300
+Bitter gourd,Ariyalur(Uzhavar Sandhai) APMC,5200
+Green Avare(W),Ariyalur(Uzhavar Sandhai) APMC,6000
+Pumpkin,Sagar(F&V) APMC,800
+Raddish,Sagar(F&V) APMC,500
+Bhindi(Ladies Finger),Ahirora APMC,3000
+Brinjal,Ahirora APMC,2500
+Bhindi(Ladies Finger),Badwani(F&V) APMC,1500
+Banana,Karera(F&V) APMC,2100
+Ginger(Green),Anoop Shahar APMC,6000
+Potato,Awagarh APMC,600
+Jute,Karimpur APMC,11300
+Potato,Karimpur APMC,790
+Beans,Karimangalam(Uzhavar Sandhai),6200
+Cucumbar(Kheera),Karimangalam(Uzhavar Sandhai),3900
+Ridgeguard(Tori),Karimangalam(Uzhavar Sandhai),3400
+Bottle gourd,Mecheri(Uzhavar Sandhai),1750
+Beans,Mecheri(Uzhavar Sandhai),5750
+Drumstick,Mecheri(Uzhavar Sandhai),4500
+Coriander(Leaves),Pallikonda(Uzhavar Sandhai),3500
+Pumpkin,Pallikonda(Uzhavar Sandhai),1500
+Green Avare(W),Pallikonda(Uzhavar Sandhai),2750
+Guava,Pallikonda(Uzhavar Sandhai),3750
+Tomato,Peravurani(Uzhavar Sandhai),2000
+Onion,Ponnamaravathi(Uzhavar Sandhai),3750
+Cluster beans,Ponnamaravathi(Uzhavar Sandhai),3750
+Potato,Vazhapadi(Uzhavar Sandhai),3000
+Brinjal,Gandhigramam(Uzhavar Sandhai),1750
+Amaranthus,Gandhigramam(Uzhavar Sandhai),2250
+Thondekai,Gandhigramam(Uzhavar Sandhai),2750
+Onion,Charra APMC,1650
+Chikoos(Sapota),Chattrapati Sambhajinagar APMC,1600
+Papaya,Chattrapati Sambhajinagar APMC,1400
+Orange,Chattrapati Sambhajinagar APMC,4500
+Bhindi(Ladies Finger),Chattrapati Sambhajinagar APMC,2750
+Methi(Leaves),Chattrapati Sambhajinagar APMC,650
+Ridgeguard(Tori),Chattrapati Sambhajinagar APMC,3500
+Snakeguard,Pune APMC,2750
+Beetroot,Pune(Moshi) APMC,3000
+Cucumbar(Kheera),Pune(Moshi) APMC,1500
+Onion Green,Pune(Moshi) APMC,15
+Paddy(Common),Fatehpur APMC,2205
+Potato,Fatehpur APMC,610
+Tomato,Jalaun APMC,800
+Capsicum,Banur APMC,3500
+Paddy(Basmati),Siyana APMC,2505
+Onion,Tulsipur APMC,1450
+Tomato,Tulsipur APMC,1250
+Pumpkin,Habra APMC,2400
+Potato,Karsiyang(Matigara) APMC,2000
+Ginger(Green),Darjeeling APMC,7700
+Paddy(Common),Udaipura APMC,4300
+Cluster beans,Sulur(Uzhavar Sandhai ) APMC,3200
+Beans,Sulur(Uzhavar Sandhai ) APMC,4300
+Cucumbar(Kheera),Sulur(Uzhavar Sandhai ) APMC,2300
+Ridgeguard(Tori),Sulur(Uzhavar Sandhai ) APMC,3700
+Raddish,Sulur(Uzhavar Sandhai ) APMC,2250
+Elephant Yam(Suran)/Amorphophallus,Sulur(Uzhavar Sandhai ) APMC,3000
+Lemon,Sulur(Uzhavar Sandhai ) APMC,10500
+Raddish,Gandarvakottai(Uzhavar Sandhai ) APMC,1250
+Cauliflower,Mayiladuthurai(Uzhavar Sandhai ) APMC,4000
+Ridgeguard(Tori),Mayiladuthurai(Uzhavar Sandhai ) APMC,5750
+Onion,Vedaranyam(Uzhavar Sandhai),2900
+Onion,Paramathivelur(Uzhavar Sandhai ) APMC,3250
+Tomato,Paramathivelur(Uzhavar Sandhai ) APMC,1400
+Amaranthus,Paramathivelur(Uzhavar Sandhai ) APMC,2300
+Beans,Paramathivelur(Uzhavar Sandhai ) APMC,5000
+Tapioca,Paramathivelur(Uzhavar Sandhai ) APMC,1750
+Cabbage,Paramathivelur(Uzhavar Sandhai ) APMC,2750
+Beetroot,Paramathivelur(Uzhavar Sandhai ) APMC,5000
+Amla(Nelli Kai),Paramathivelur(Uzhavar Sandhai ) APMC,4750
+Ginger(Green),Thammampatti (Uzhavar Sandhai ) APMC,8000
+Carrot,Thammampatti (Uzhavar Sandhai ) APMC,6000
+Raddish,Tiruvarur(Uzhavar Sandhai ) APMC,3000
+Pumpkin,Udumalpet APMC,1650
+Beetroot,Udumalpet APMC,3950
+Bitter gourd,Katpadi (Uzhavar Sandhai ) APMC,3000
+Bottle gourd,Katpadi (Uzhavar Sandhai ) APMC,3500
+Cowpea(Veg),Katpadi (Uzhavar Sandhai ) APMC,4000
+Drumstick,Katpadi (Uzhavar Sandhai ) APMC,5000
+Indian Beans(Seam),Katpadi (Uzhavar Sandhai ) APMC,4000
+Groundnut,Katpadi (Uzhavar Sandhai ) APMC,7000
+Tapioca,Kumbakonam (Uzhavar Sandhai ) APMC,4000
+Sweet Potato,Kumbakonam (Uzhavar Sandhai ) APMC,5000
+Ridgeguard(Tori),Kumbakonam (Uzhavar Sandhai ) APMC,5400
+Guava,Kumbakonam (Uzhavar Sandhai ) APMC,8000
+Yam(Ratalu),Kumbakonam (Uzhavar Sandhai ) APMC,4800
+Coriander(Leaves),Tindivanam APMC,4000
+Green Peas,Tindivanam APMC,5800
+Carrot,Tindivanam APMC,3000
+Ridgeguard(Tori),Tindivanam APMC,4000
+Tender Coconut,Tindivanam APMC,3250
+Groundnut,Tindivanam APMC,7000
+Ginger(Green),Ulundurpettai APMC,8000
+Wheat,Bhikangaon APMC,2255
+Maize,Anjad APMC,1600
+Wheat,Taal APMC,2223
+Wheat,Shahagarh APMC,2333
+Maize,Lakhnadon APMC,1450
+Sweet Potato,Koduvayoor APMC,3200
+Jute,Katwa APMC,10000
+Rice,Bethuadahari APMC,5000
+Coriander(Leaves),Cheyyar(Uzhavar Sandhai ) APMC,4500
+Pumpkin,Cheyyar(Uzhavar Sandhai ) APMC,2750
+Mustard,Bishnupur(Bankura) APMC,6300
+Carrot,Pallikonda(Uzhavar Sandhai),1800
+Chow Chow,Pallikonda(Uzhavar Sandhai),1500
+Ridgeguard(Tori),Vazhapadi(Uzhavar Sandhai),4000
+Bottle gourd,Gandhigramam(Uzhavar Sandhai),750
+Banana,Pune(Moshi) APMC,4000
+Pear(Marasebu),Pune(Moshi) APMC,8000
+Potato,Pune(Moshi) APMC,850
+Sweet Potato,Pune(Moshi) APMC,3000
+Brinjal,Habra APMC,4600
+Onion,Habra APMC,1600
+Amaranthus,Sulur(Uzhavar Sandhai ) APMC,3250
+Ginger(Green),Gandarvakottai(Uzhavar Sandhai ) APMC,7500
+Carrot,Mayiladuthurai(Uzhavar Sandhai ) APMC,5000
+Green Avare(W),Vedaranyam(Uzhavar Sandhai),5250
+Banana,Thammampatti (Uzhavar Sandhai ) APMC,5000
+Chikoos(Sapota),Sampath Nagar(Uzhavar Sandhai ) APMC,3250
+Brinjal,Jhargram APMC,3000
+Green Avare(W),Tiruchengode APMC,5700
+Beans,Ariyalur(Uzhavar Sandhai) APMC,5000
+Apple,Sagar(F&V) APMC,8000
+Bhindi(Ladies Finger),Sagar(F&V) APMC,1200
+Cucumbar(Kheera),Sagar(F&V) APMC,1100
+Cluster beans,RSPuram(Uzhavar Sandhai ) APMC,3000
+Bhindi(Ladies Finger),RSPuram(Uzhavar Sandhai ) APMC,4250
+Beans,RSPuram(Uzhavar Sandhai ) APMC,4200
+Coconut,RSPuram(Uzhavar Sandhai ) APMC,5500
+Grapes,Singanallur(Uzhavar Sandhai ) APMC,9000
+Cucumbar(Kheera),Singanallur(Uzhavar Sandhai ) APMC,2750
+Capsicum,Singanallur(Uzhavar Sandhai ) APMC,5500
+Onion Green,Singanallur(Uzhavar Sandhai ) APMC,3250
+Mint(Pudina),Singanallur(Uzhavar Sandhai ) APMC,3750
+Carrot,Narwana APMC,1500
+Carrot,Lalganj APMC,1000
+Cluster beans,Pollachi(Uzhavar Sandhai ) APMC,3750
+Green Chilli,Pollachi(Uzhavar Sandhai ) APMC,4750
+Elephant Yam(Suran)/Amorphophallus,Pollachi(Uzhavar Sandhai ) APMC,3750
+Cabbage,Kairana APMC,850
+Chikoos(Sapota),Mettupalayam(Uzhavar Sandhai ) APMC,4750
+Cabbage,Mettupalayam(Uzhavar Sandhai ) APMC,1750
+Beetroot,Mettupalayam(Uzhavar Sandhai ) APMC,3750
+Onion,Karur(Uzhavar Sandhai ) APMC,2750
+Chikoos(Sapota),Karur(Uzhavar Sandhai ) APMC,4750
+Ginger(Green),Karur(Uzhavar Sandhai ) APMC,7750
+Snakeguard,Karur(Uzhavar Sandhai ) APMC,2250
+Guava,Karur(Uzhavar Sandhai ) APMC,5750
+Yam(Ratalu),Karur(Uzhavar Sandhai ) APMC,4500
+Brinjal,Halahali,2100
+Onion,Pamohi(Garchuk) APMC,2000
+Papaya(Raw),Pamohi(Garchuk) APMC,1700
+Taro (Arvi) Stem,Pamohi(Garchuk) APMC,2200
+Green Avare(W),Kurichi(Uzhavar Sandhai ) APMC,3400
+Mango(Raw-Ripe),Kurichi(Uzhavar Sandhai ) APMC,6750
+Pumpkin,Cuddalore(Uzhavar Sandhai ) APMC,2000
+Bhindi(Ladies Finger),Cuddalore(Uzhavar Sandhai ) APMC,5000
+Yam(Ratalu),Cuddalore(Uzhavar Sandhai ) APMC,8000
+Onion,Viruthachalam(Uzhavar Sandhai ) APMC,2650
+Cluster beans,Viruthachalam(Uzhavar Sandhai ) APMC,3500
+Amaranthus,Viruthachalam(Uzhavar Sandhai ) APMC,2250
+Ginger(Green),Viruthachalam(Uzhavar Sandhai ) APMC,7000
+Green Avare(W),Viruthachalam(Uzhavar Sandhai ) APMC,5000
+Onion Green,Viruthachalam(Uzhavar Sandhai ) APMC,3750
+Banana - Green,Panruti(Uzhavar Sandhai ) APMC,3000
+Beans,Panruti(Uzhavar Sandhai ) APMC,4000
+Coriander(Leaves),Vadalur(Uzhavar Sandhai ) APMC,4000
+Drumstick,Vadalur(Uzhavar Sandhai ) APMC,6000
+Cauliflower,Dharmapuri(Uzhavar Sandhai ) APMC,3700
+Green Peas,Dharmapuri(Uzhavar Sandhai ) APMC,3450
+Bottle gourd,Dharmapuri(Uzhavar Sandhai ) APMC,700
+Raddish,Dharmapuri(Uzhavar Sandhai ) APMC,1550
+Green Avare(W),Dharmapuri(Uzhavar Sandhai ) APMC,1900
+Guava,Dharmapuri(Uzhavar Sandhai ) APMC,4850
+Tender Coconut,Dharmapuri(Uzhavar Sandhai ) APMC,2750
+Marigold(Calcutta),Dharmapuri(Uzhavar Sandhai ) APMC,9250
+Lemon,Pennagaram(Uzhavar Sandhai ) APMC,11750
+Garlic,Palacode(Uzhavar Sandhai ) APMC,15750
+Thondekai,Palacode(Uzhavar Sandhai ) APMC,4750
+Cauliflower,AJattihalli(Uzhavar Sandhai ) APMC,3000
+Banana - Green,AJattihalli(Uzhavar Sandhai ) APMC,2750
+Cucumbar(Kheera),AJattihalli(Uzhavar Sandhai ) APMC,3300
+Mint(Pudina),AJattihalli(Uzhavar Sandhai ) APMC,6500
+Pumpkin,Dindigul(Uzhavar Sandhai ) APMC,1750
+Ginger(Green),Dindigul(Uzhavar Sandhai ) APMC,8500
+Sweet Potato,Dindigul(Uzhavar Sandhai ) APMC,4500
+Drumstick,Dindigul(Uzhavar Sandhai ) APMC,11000
+Knool Khol,Dindigul(Uzhavar Sandhai ) APMC,3500
+Cluster beans,Palani(Uzhavar Sandhai ) APMC,2750
+Amaranthus,Palani(Uzhavar Sandhai ) APMC,3750
+Tender Coconut,Palani(Uzhavar Sandhai ) APMC,3750
+Yam(Ratalu),Palani(Uzhavar Sandhai ) APMC,5500
+Yam(Ratalu),Chinnalapatti(Uzhavar Sandhai ) APMC,6500
+Indian Beans(Seam),Chinnalapatti(Uzhavar Sandhai ) APMC,6500
+Mint(Pudina),Chinnalapatti(Uzhavar Sandhai ) APMC,2750
+Amaranthus,Perundurai(Uzhavar Sandhai ) APMC,4350
+Banana - Green,Perundurai(Uzhavar Sandhai ) APMC,2700
+Banana,Thalavadi(Uzhavar Sandhai ) APMC,5150
+Cauliflower,Thalavadi(Uzhavar Sandhai ) APMC,1750
+Coriander(Leaves),Thalavadi(Uzhavar Sandhai ) APMC,3600
+Tomato,Thalavadi(Uzhavar Sandhai ) APMC,800
+Green Chilli,Thalavadi(Uzhavar Sandhai ) APMC,3750
+Beans,Thalavadi(Uzhavar Sandhai ) APMC,3600
+Coconut,Thalavadi(Uzhavar Sandhai ) APMC,4750
+Green Avare(W),Thalavadi(Uzhavar Sandhai ) APMC,2700
+Papaya,Padappai(Uzhavar Sandhai ) APMC,4000
+Coconut,Padappai(Uzhavar Sandhai ) APMC,5500
+Chow Chow,Padappai(Uzhavar Sandhai ) APMC,2150
+Mango(Raw-Ripe),Padappai(Uzhavar Sandhai ) APMC,8750
+Yam(Ratalu),Padappai(Uzhavar Sandhai ) APMC,3750
+Bottle gourd,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Pumpkin,Kundrathur(Uzhavar Sandhai ) APMC,1750
+Coconut,Kundrathur(Uzhavar Sandhai ) APMC,4500
+Sweet Potato,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Green Avare(W),Kundrathur(Uzhavar Sandhai ) APMC,4000
+Banana,Kundrathur(Uzhavar Sandhai ) APMC,4500
+Papaya,Kulithalai(Uzhavar Sandhai ) APMC,2750
+Cowpea(Veg),Kulithalai(Uzhavar Sandhai ) APMC,3250
+Betal Leaves,Kulithalai(Uzhavar Sandhai ) APMC,9000
+Snakeguard,Kulithalai(Uzhavar Sandhai ) APMC,2600
+Ridgeguard(Tori),Kulithalai(Uzhavar Sandhai ) APMC,3800
+Chow Chow,Kulithalai(Uzhavar Sandhai ) APMC,2900
+Onion,Velayuthampalayam(Uzhavar Sandhai ) APMC,2700
+Potato,Velayuthampalayam(Uzhavar Sandhai ) APMC,4500
+Coriander(Leaves),Velayuthampalayam(Uzhavar Sandhai ) APMC,3600
+Ginger(Green),Velayuthampalayam(Uzhavar Sandhai ) APMC,7500
+Beetroot,Velayuthampalayam(Uzhavar Sandhai ) APMC,4500
+Snakeguard,Pallapatti (Uzhavar Sandhai ) APMC,2750
+Raddish,Pallapatti (Uzhavar Sandhai ) APMC,1900
+Mango(Raw-Ripe),Pallapatti (Uzhavar Sandhai ) APMC,7750
+Guava,Pallapatti (Uzhavar Sandhai ) APMC,4750
+Brinjal,Vengamedu(Uzhavar Sandhai ) APMC,2500
+Coriander(Leaves),Vengamedu(Uzhavar Sandhai ) APMC,3750
+Cluster beans,Vengamedu(Uzhavar Sandhai ) APMC,3250
+Sweet Potato,Vengamedu(Uzhavar Sandhai ) APMC,2750
+Guava,Vengamedu(Uzhavar Sandhai ) APMC,5750
+Lemon,Vengamedu(Uzhavar Sandhai ) APMC,11750
+Cluster beans,Hosur(Uzhavar Sandhai ) APMC,4500
+Bitter gourd,Hosur(Uzhavar Sandhai ) APMC,3500
+Bhindi(Ladies Finger),Hosur(Uzhavar Sandhai ) APMC,3500
+Tapioca,Hosur(Uzhavar Sandhai ) APMC,4500
+Ginger(Green),Hosur(Uzhavar Sandhai ) APMC,8500
+Carrot,Hosur(Uzhavar Sandhai ) APMC,2250
+Thondekai,Hosur(Uzhavar Sandhai ) APMC,3500
+Karbuja(Musk Melon),Hosur(Uzhavar Sandhai ) APMC,3250
+Tube Flower,Hosur(Uzhavar Sandhai ) APMC,35000
+Rose(Local),Hosur(Uzhavar Sandhai ) APMC,5500
+Bottle gourd,Krishnagiri(Uzhavar Sandhai ) APMC,900
+Beetroot,Krishnagiri(Uzhavar Sandhai ) APMC,2750
+Papaya,Denkanikottai(Uzhavar Sandhai ) APMC,3750
+Bottle gourd,Denkanikottai(Uzhavar Sandhai ) APMC,1250
+Chow Chow,Denkanikottai(Uzhavar Sandhai ) APMC,1350
+Green Chilli,Avallapalli(Uzhavar Sandhai ) APMC,5500
+Cucumbar(Kheera),Avallapalli(Uzhavar Sandhai ) APMC,1750
+Grapes,Anna nagar(Uzhavar Sandhai ) APMC,11000
+Garlic,Anna nagar(Uzhavar Sandhai ) APMC,15000
+Beans,Anna nagar(Uzhavar Sandhai ) APMC,4500
+Cabbage,Anna nagar(Uzhavar Sandhai ) APMC,1800
+Beetroot,Anna nagar(Uzhavar Sandhai ) APMC,3300
+Lime,Anna nagar(Uzhavar Sandhai ) APMC,10000
+Tamarind Fruit,Anna nagar(Uzhavar Sandhai ) APMC,15000
+Rose(Local),Anna nagar(Uzhavar Sandhai ) APMC,6000
+Sweet Potato,Chokkikulam(Uzhavar Sandhai ) APMC,3300
+Ridgeguard(Tori),Chokkikulam(Uzhavar Sandhai ) APMC,3500
+Raddish,Chokkikulam(Uzhavar Sandhai ) APMC,1900
+Capsicum,Chokkikulam(Uzhavar Sandhai ) APMC,6500
+Green Avare(W),Chokkikulam(Uzhavar Sandhai ) APMC,6350
+Drumstick,Chokkikulam(Uzhavar Sandhai ) APMC,9000
+Grapes,Palanganatham(Uzhavar Sandhai ) APMC,11000
+Green Peas,Palanganatham(Uzhavar Sandhai ) APMC,5250
+Snakeguard,Palanganatham(Uzhavar Sandhai ) APMC,3000
+Elephant Yam(Suran)/Amorphophallus,Palanganatham(Uzhavar Sandhai ) APMC,3500
+Onion,Usilampatti(Uzhavar Sandhai ) APMC,2250
+Green Avare(W),Usilampatti(Uzhavar Sandhai ) APMC,6850
+Banana,Thirumangalam(Uzhavar Sandhai ) APMC,3500
+Cluster beans,Thirumangalam(Uzhavar Sandhai ) APMC,3500
+Raddish,Thirumangalam(Uzhavar Sandhai ) APMC,1750
+Yam(Ratalu),Thirumangalam(Uzhavar Sandhai ) APMC,5500
+Brinjal,Melur(Uzhavar Sandhai ) APMC,2600
+Pineapple,Anaiyur(Uzhavar Sandhai ) APMC,5500
+Green Peas,Anaiyur(Uzhavar Sandhai ) APMC,5750
+Bhindi(Ladies Finger),Anaiyur(Uzhavar Sandhai ) APMC,2800
+Green Chilli,Anaiyur(Uzhavar Sandhai ) APMC,3700
+Banana - Green,Anaiyur(Uzhavar Sandhai ) APMC,2000
+Betal Leaves,Anaiyur(Uzhavar Sandhai ) APMC,23000
+Thondekai,Anaiyur(Uzhavar Sandhai ) APMC,3800
+Elephant Yam(Suran)/Amorphophallus,Anaiyur(Uzhavar Sandhai ) APMC,3800
+Banana,Anaiyur(Uzhavar Sandhai ) APMC,3500
+Cauliflower,Nagapattinam(Uzhavar Sandhai ) APMC,4250
+Tapioca,Nagapattinam(Uzhavar Sandhai ) APMC,3500
+Banana,Nagapattinam(Uzhavar Sandhai ) APMC,5500
+Coriander(Leaves),Namakkal(Uzhavar Sandhai ) APMC,5250
+Capsicum,Namakkal(Uzhavar Sandhai ) APMC,4750
+Drumstick,Namakkal(Uzhavar Sandhai ) APMC,4750
+Lemon,Namakkal(Uzhavar Sandhai ) APMC,6250
+Cauliflower,Rasipuram(Uzhavar Sandhai ) APMC,3250
+Bottle gourd,Rasipuram(Uzhavar Sandhai ) APMC,1200
+Ridgeguard(Tori),Mohanur(Uzhavar Sandhai ) APMC,5700
+Chow Chow,Mohanur(Uzhavar Sandhai ) APMC,3600
+Pineapple,Udhagamandalam(Uzhavar Sandhai ) APMC,7500
+Cucumbar(Kheera),Udhagamandalam(Uzhavar Sandhai ) APMC,3750
+Onion,Perambalur(Uzhavar Sandhai ) APMC,2900
+Tomato,Perambalur(Uzhavar Sandhai ) APMC,1350
+Cluster beans,Perambalur(Uzhavar Sandhai ) APMC,4400
+Bitter gourd,Perambalur(Uzhavar Sandhai ) APMC,3750
+Indian Beans(Seam),Perambalur(Uzhavar Sandhai ) APMC,6650
+Mashrooms,Perambalur(Uzhavar Sandhai ) APMC,20000
+Cluster beans,Pudukottai(Uzhavar Sandhai ) APMC,3500
+Thondekai,Pudukottai(Uzhavar Sandhai ) APMC,4500
+Amaranthus,Aranthangi(Uzhavar Sandhai ) APMC,1750
+Ridgeguard(Tori),Aranthangi(Uzhavar Sandhai ) APMC,3750
+Raddish,Aranthangi(Uzhavar Sandhai ) APMC,2750
+Pumpkin,Viralimalai(Uzhavar Sandhai ) APMC,1400
+Coconut,Viralimalai(Uzhavar Sandhai ) APMC,4600
+Ridgeguard(Tori),Ramanathapuram(Uzhavar Sandhai ) APMC,5250
+Mango(Raw-Ripe),Ramanathapuram(Uzhavar Sandhai ) APMC,4750
+Lemon,Ramanathapuram(Uzhavar Sandhai ) APMC,10500
+Bhindi(Ladies Finger),Paramakudi(Uzhavar Sandhai ) APMC,5250
+Banana - Green,Paramakudi(Uzhavar Sandhai ) APMC,2900
+Cabbage,Paramakudi(Uzhavar Sandhai ) APMC,2250
+Brinjal,Kamuthi(Uzhavar Sandhai ) APMC,5000
+Mango,Sooramangalam(Uzhavar Sandhai ) APMC,14500
+Green Peas,Sooramangalam(Uzhavar Sandhai ) APMC,5750
+Chikoos(Sapota),Sooramangalam(Uzhavar Sandhai ) APMC,3750
+Ashgourd,Sooramangalam(Uzhavar Sandhai ) APMC,1300
+Snakeguard,Sooramangalam(Uzhavar Sandhai ) APMC,2900
+Green Avare(W),Sooramangalam(Uzhavar Sandhai ) APMC,4200
+Marigold(Calcutta),Sooramangalam(Uzhavar Sandhai ) APMC,6500
+Mint(Pudina),Sooramangalam(Uzhavar Sandhai ) APMC,2900
+Chow Chow,Thathakapatti(Uzhavar Sandhai ) APMC,3250
+Pomegranate,Thathakapatti(Uzhavar Sandhai ) APMC,19000
+Yam(Ratalu),Thathakapatti(Uzhavar Sandhai ) APMC,4500
+Mint(Pudina),Thathakapatti(Uzhavar Sandhai ) APMC,2750
+Coriander(Leaves),Mettur(Uzhavar Sandhai ) APMC,3750
+Carrot,Mettur(Uzhavar Sandhai ) APMC,5250
+Capsicum,Mettur(Uzhavar Sandhai ) APMC,6750
+Karbuja(Musk Melon),Mettur(Uzhavar Sandhai ) APMC,2350
+Marigold(Calcutta),Mettur(Uzhavar Sandhai ) APMC,11500
+Papaya,Attayampatti(Uzhavar Sandhai ) APMC,3250
+Ginger(Green),Attayampatti(Uzhavar Sandhai ) APMC,8250
+Tomato,Hasthampatti(Uzhavar Sandhai ) APMC,1350
+Bottle gourd,Hasthampatti(Uzhavar Sandhai ) APMC,1900
+Banana - Green,Hasthampatti(Uzhavar Sandhai ) APMC,1800
+Beans,Hasthampatti(Uzhavar Sandhai ) APMC,5750
+Chow Chow,Hasthampatti(Uzhavar Sandhai ) APMC,3200
+Mango(Raw-Ripe),Hasthampatti(Uzhavar Sandhai ) APMC,6500
+Lemon,Hasthampatti(Uzhavar Sandhai ) APMC,5000
+Bottle gourd,Elampillai(Uzhavar Sandhai ) APMC,1900
+Carrot,Elampillai(Uzhavar Sandhai ) APMC,5500
+Onion,Elampillai(Uzhavar Sandhai ) APMC,2900
+Indian Beans(Seam),Elampillai(Uzhavar Sandhai ) APMC,5750
+Lemon,Elampillai(Uzhavar Sandhai ) APMC,4500
+Bitter gourd,Jalagandapuram(Uzhavar Sandhai ) APMC,3800
+Cowpea(Veg),Jalagandapuram(Uzhavar Sandhai ) APMC,4750
+Ginger(Green),Jalagandapuram(Uzhavar Sandhai ) APMC,7500
+Sweet Potato,Jalagandapuram(Uzhavar Sandhai ) APMC,3750
+Green Avare(W),Jalagandapuram(Uzhavar Sandhai ) APMC,4250
+Pomegranate,Jalagandapuram(Uzhavar Sandhai ) APMC,19000
+Green Peas,Edapadi (Uzhavar Sandhai ) APMC,5750
+Ashgourd,Edapadi (Uzhavar Sandhai ) APMC,1650
+Amaranthus,Edapadi (Uzhavar Sandhai ) APMC,2250
+Coconut,Edapadi (Uzhavar Sandhai ) APMC,5500
+Raddish,Edapadi (Uzhavar Sandhai ) APMC,1750
+Green Avare(W),Edapadi (Uzhavar Sandhai ) APMC,3750
+Knool Khol,Edapadi (Uzhavar Sandhai ) APMC,3750
+Onion Green,Edapadi (Uzhavar Sandhai ) APMC,2750
+Brinjal,Sivagangai (Uzhavar Sandhai ) APMC,3100
+Bottle gourd,Sivagangai (Uzhavar Sandhai ) APMC,2300
+Pumpkin,Sivagangai (Uzhavar Sandhai ) APMC,2100
+Cabbage,Sivagangai (Uzhavar Sandhai ) APMC,1900
+Drumstick,Sivagangai (Uzhavar Sandhai ) APMC,9000
+Coriander(Leaves),Devakottai (Uzhavar Sandhai ) APMC,4750
+Pumpkin,Devakottai (Uzhavar Sandhai ) APMC,2100
+Drumstick,Devakottai (Uzhavar Sandhai ) APMC,9200
+Cauliflower,Karaikudi(Uzhavar Sandhai ) APMC,2600
+Papaya,Karaikudi(Uzhavar Sandhai ) APMC,4250
+Pumpkin,Karaikudi(Uzhavar Sandhai ) APMC,2300
+Drumstick,Karaikudi(Uzhavar Sandhai ) APMC,9500
+Onion,Tirupatthur(Uzhavar Sandhai ) APMC,2750
+Papaya,Tirupatthur(Uzhavar Sandhai ) APMC,4250
+Pumpkin,Tirupatthur(Uzhavar Sandhai ) APMC,2350
+Drumstick,Tirupatthur(Uzhavar Sandhai ) APMC,9450
+Elephant Yam(Suran)/Amorphophallus,Tirupatthur(Uzhavar Sandhai ) APMC,4250
+Papaya,Singampunari(Uzhavar Sandhai ) APMC,3500
+Tomato,Singampunari(Uzhavar Sandhai ) APMC,1650
+Green Avare(W),Singampunari(Uzhavar Sandhai ) APMC,7200
+Chow Chow,Singampunari(Uzhavar Sandhai ) APMC,2250
+Onion Green,Singampunari(Uzhavar Sandhai ) APMC,4250
+Grapes,Thanjavur(Uzhavar Sandhai ) APMC,10000
+Papaya,Thanjavur(Uzhavar Sandhai ) APMC,5000
+Mousambi(Sweet Lime),Thanjavur(Uzhavar Sandhai ) APMC,6600
+Ridgeguard(Tori),Thanjavur(Uzhavar Sandhai ) APMC,5000
+Coconut,Thanjavur(Uzhavar Sandhai ) APMC,6000
+Coconut,Pattukottai(Uzhavar Sandhai ) APMC,6000
+Capsicum,Pattukottai(Uzhavar Sandhai ) APMC,6000
+Raddish,Tirukattupalli(Uzhavar Sandhai ) APMC,2750
+Green Avare(W),Tirukattupalli(Uzhavar Sandhai ) APMC,3000
+Onion Green,Tirukattupalli(Uzhavar Sandhai ) APMC,3200
+Coriander(Leaves),Theni(Uzhavar Sandhai ) APMC,3500
+Cowpea(Veg),Theni(Uzhavar Sandhai ) APMC,4500
+Beetroot,Theni(Uzhavar Sandhai ) APMC,1800
+Ridgeguard(Tori),Theni(Uzhavar Sandhai ) APMC,4150
+Guava,Theni(Uzhavar Sandhai ) APMC,10000
+Indian Beans(Seam),Theni(Uzhavar Sandhai ) APMC,4500
+Beetroot,Kambam(Uzhavar Sandhai ) APMC,1800
+Knool Khol,Kambam(Uzhavar Sandhai ) APMC,2000
+Lime,Kambam(Uzhavar Sandhai ) APMC,9000
+Lemon,Kambam(Uzhavar Sandhai ) APMC,8500
+Potato,Bodinayakanur(Uzhavar Sandhai ) APMC,2500
+Banana - Green,Bodinayakanur(Uzhavar Sandhai ) APMC,3600
+Cabbage,Bodinayakanur(Uzhavar Sandhai ) APMC,1600
+Thondekai,Bodinayakanur(Uzhavar Sandhai ) APMC,1800
+Yam(Ratalu),Bodinayakanur(Uzhavar Sandhai ) APMC,4800
+Brinjal,Devaram(Uzhavar Sandhai ) APMC,2400
+Tomato,Chinnamanur(Uzhavar Sandhai ) APMC,1400
+Cluster beans,Chinnamanur(Uzhavar Sandhai ) APMC,2500
+Bottle gourd,Chinnamanur(Uzhavar Sandhai ) APMC,1000
+Amaranthus,Chinnamanur(Uzhavar Sandhai ) APMC,2500
+Ginger(Green),Chinnamanur(Uzhavar Sandhai ) APMC,6400
+Snakeguard,Chinnamanur(Uzhavar Sandhai ) APMC,2000
+Turnip,Chinnamanur(Uzhavar Sandhai ) APMC,3000
+Mint(Pudina),Chinnamanur(Uzhavar Sandhai ) APMC,2500
+Bitter gourd,Palayamkottai(Uzhavar Sandhai ) APMC,3250
+Bhindi(Ladies Finger),Palayamkottai(Uzhavar Sandhai ) APMC,2200
+Ridgeguard(Tori),Palayamkottai(Uzhavar Sandhai ) APMC,3250
+Thondekai,Palayamkottai(Uzhavar Sandhai ) APMC,2750
+Pomegranate,Palayamkottai(Uzhavar Sandhai ) APMC,18000
+Lemon,Palayamkottai(Uzhavar Sandhai ) APMC,6500
+Amla(Nelli Kai),Palayamkottai(Uzhavar Sandhai ) APMC,4500
+Coriander(Leaves),Kandiyaperi(Uzhavar Sandhai ) APMC,4500
+Pumpkin,Kandiyaperi(Uzhavar Sandhai ) APMC,1300
+Green Chilli,Kandiyaperi(Uzhavar Sandhai ) APMC,3700
+Garlic,Melapalayam(Uzhavar Sandhai ) APMC,17000
+Bhindi(Ladies Finger),Melapalayam(Uzhavar Sandhai ) APMC,2300
+Amaranthus,Melapalayam(Uzhavar Sandhai ) APMC,1350
+Beans,Melapalayam(Uzhavar Sandhai ) APMC,5200
+Cabbage,Melapalayam(Uzhavar Sandhai ) APMC,1500
+Banana - Green,Melapalayam(Uzhavar Sandhai ) APMC,3250
+Chow Chow,Melapalayam(Uzhavar Sandhai ) APMC,2100
+Lemon,Melapalayam(Uzhavar Sandhai ) APMC,6750
+Mint(Pudina),Melapalayam(Uzhavar Sandhai ) APMC,4300
+Carrot,Udumalpet APMC,5200
+Coriander(Leaves),Kumbakonam (Uzhavar Sandhai ) APMC,4200
+Lime,Kumbakonam (Uzhavar Sandhai ) APMC,4000
+Colacasia,Kumbakonam (Uzhavar Sandhai ) APMC,4800
+Beans,Tindivanam APMC,4500
+Elephant Yam(Suran)/Amorphophallus,Ulundurpettai APMC,4000
+Colacasia,Koduvayoor APMC,4700
+Coconut,Koduvayoor APMC,5700
+Onion,Kalna APMC,1800
+Banana,Papanasam(Uzhavar Sandhai ) APMC,5000
+Spinach,Ahmedgarh APMC,500
+Chikoos(Sapota),Vadavalli(Uzhavar Sandhai ) APMC,3750
+Onion Green,Sundarapuram(Uzhavar Sandhai ) APMC,3200
+Mousambi(Sweet Lime),Sampath Nagar(Uzhavar Sandhai ) APMC,5500
+Ginger(Green),Sampath Nagar(Uzhavar Sandhai ) APMC,6650
+Carrot,Gobichettipalayam(Uzhavar Sandhai ) APMC,4750
+Coconut,Valangaiman APMC,4000
+Onion,Jasvantnagar APMC,1340
+Brinjal,Thuraiyur APMC,2250
+Lime,RSPuram(Uzhavar Sandhai ) APMC,11500
+Bhindi(Ladies Finger),Mettupalayam(Uzhavar Sandhai ) APMC,3750
+Mint(Pudina),Mettupalayam(Uzhavar Sandhai ) APMC,3250
+Tomato,Karur(Uzhavar Sandhai ) APMC,1250
+Ashgourd,Cuddalore(Uzhavar Sandhai ) APMC,2000
+Bottle gourd,Viruthachalam(Uzhavar Sandhai ) APMC,2250
+Tomato,Panruti(Uzhavar Sandhai ) APMC,1500
+Cabbage,Vadalur(Uzhavar Sandhai ) APMC,2500
+Beans,Dharmapuri(Uzhavar Sandhai ) APMC,6300
+Drumstick,Dharmapuri(Uzhavar Sandhai ) APMC,7800
+Ridgeguard(Tori),Palani(Uzhavar Sandhai ) APMC,3250
+Cauliflower,Chinnalapatti(Uzhavar Sandhai ) APMC,4750
+Mint(Pudina),Periyar Nagar(Uzhavar Sandhai ) APMC,3250
+Onion,Padappai(Uzhavar Sandhai ) APMC,2500
+Ridgeguard(Tori),Kundrathur(Uzhavar Sandhai ) APMC,4000
+Cucumbar(Kheera),Kulithalai(Uzhavar Sandhai ) APMC,5500
+Tapioca,Pallapatti (Uzhavar Sandhai ) APMC,2750
+Green Chilli,Hosur(Uzhavar Sandhai ) APMC,5500
+Cowpea(Veg),Hosur(Uzhavar Sandhai ) APMC,4500
+Garlic,Avallapalli(Uzhavar Sandhai ) APMC,14500
+Bitter gourd,Avallapalli(Uzhavar Sandhai ) APMC,3500
+Drumstick,Palanganatham(Uzhavar Sandhai ) APMC,9000
+Amla(Nelli Kai),Nagapattinam(Uzhavar Sandhai ) APMC,5250
+Sweet Potato,Sirkali(Uzhavar Sandhai ) APMC,4750
+Mint(Pudina),Kumarapalayam(Uzhavar Sandhai ) APMC,4250
+Papaya,Mohanur(Uzhavar Sandhai ) APMC,2700
+Ashgourd,Mohanur(Uzhavar Sandhai ) APMC,1500
+Snakeguard,Mohanur(Uzhavar Sandhai ) APMC,4400
+Beans,Udhagamandalam(Uzhavar Sandhai ) APMC,4750
+Ashgourd,Perambalur(Uzhavar Sandhai ) APMC,1300
+Bottle gourd,Alangudi(Uzhavar Sandhai ) APMC,1250
+Knool Khol,Paramakudi(Uzhavar Sandhai ) APMC,4750
+Bitter gourd,Sooramangalam(Uzhavar Sandhai ) APMC,3800
+Beetroot,Mettur(Uzhavar Sandhai ) APMC,4750
+Cauliflower,Attayampatti(Uzhavar Sandhai ) APMC,2750
+Green Peas,Elampillai(Uzhavar Sandhai ) APMC,5750
+Sweet Potato,Elampillai(Uzhavar Sandhai ) APMC,3750
+Beetroot,Jalagandapuram(Uzhavar Sandhai ) APMC,2800
+Chow Chow,Jalagandapuram(Uzhavar Sandhai ) APMC,3200
+Banana - Green,Devakottai (Uzhavar Sandhai ) APMC,2750
+Coriander(Leaves),Singampunari(Uzhavar Sandhai ) APMC,4750
+Mango(Raw-Ripe),Thanjavur(Uzhavar Sandhai ) APMC,11000
+Brinjal,Pattukottai(Uzhavar Sandhai ) APMC,3950
+Elephant Yam(Suran)/Amorphophallus,Pattukottai(Uzhavar Sandhai ) APMC,4600
+Lemon,Pattukottai(Uzhavar Sandhai ) APMC,6400
+Tomato,Tirukattupalli(Uzhavar Sandhai ) APMC,1500
+Snakeguard,Tirukattupalli(Uzhavar Sandhai ) APMC,3000
+Chow Chow,Theni(Uzhavar Sandhai ) APMC,2000
+Brinjal,Peravurani(Uzhavar Sandhai),3500
+Lemon,Peravurani(Uzhavar Sandhai),6000
+Lemon,Vazhapadi(Uzhavar Sandhai),5000
+Tomato,Rahuri APMC,900
+Grapes,Chattrapati Sambhajinagar APMC,9000
+Potato,Paramathivelur(Uzhavar Sandhai ) APMC,2500
+Paddy(Common),V.Saidapur APMC,2389
+Amaranthus,Sundarapuram(Uzhavar Sandhai ) APMC,3250
+Banana,Anchal APMC,3500
+Elephant Yam(Suran)/Amorphophallus,Sathiyamagalam(Uzhavar Sandhai ) APMC,4250
+Coconut,Thuraiyur APMC,6000
+Raddish,Ariyalur(Uzhavar Sandhai) APMC,2250
+Tapioca,RSPuram(Uzhavar Sandhai ) APMC,2650
+Beetroot,Karur(Uzhavar Sandhai ) APMC,4750
+Mint(Pudina),Karur(Uzhavar Sandhai ) APMC,3750
+Carrot,Ahirora APMC,1100
+Pea Pod/Pea Cod/हरी मटर,Ahirora APMC,1200
+Tomato,Karera(F&V) APMC,400
+Papaya,Karera(F&V) APMC,3000
+Green Chilli,Karera(F&V) APMC,7000
+Tomato,Anoop Shahar APMC,1200
+Tomato,Awagarh APMC,1400
+Wood,Babrala APMC,590
+Garlic,Karimangalam(Uzhavar Sandhai),14500
+Cluster beans,Karimangalam(Uzhavar Sandhai),5750
+Cabbage,Karimangalam(Uzhavar Sandhai),2700
+Snakeguard,Karimangalam(Uzhavar Sandhai),1350
+Thondekai,Karimangalam(Uzhavar Sandhai),4750
+Lemon,Karimangalam(Uzhavar Sandhai),8750
+Garlic,Pallikonda(Uzhavar Sandhai),13500
+Sweet Potato,Pallikonda(Uzhavar Sandhai),1500
+Lemon,Pallikonda(Uzhavar Sandhai),6000
+Garlic,Perampet(Uzhavar Sandhai),14000
+Bhindi(Ladies Finger),Perampet(Uzhavar Sandhai),3000
+Ridgeguard(Tori),Perampet(Uzhavar Sandhai),3800
+Coconut,Peravurani(Uzhavar Sandhai),6000
+Raddish,Vazhapadi(Uzhavar Sandhai),1600
+Green Avare(W),Vazhapadi(Uzhavar Sandhai),4000
+Cucumbar(Kheera),Gandhigramam(Uzhavar Sandhai),7000
+Chow Chow,Gandhigramam(Uzhavar Sandhai),2750
+Paddy(Common),Ghatal APMC,2385
+Cock,"Fish,Poultry & Egg Market, Gazipur APMC",32500
+Cabbage,Charra APMC,1750
+Tomato,Chattrapati Sambhajinagar APMC,600
+Wheat,Paithan APMC,2311
+Bengal Gram(Gram)(Whole),Paithan APMC,2851
+Paddy(Common),Armori(Desaiganj) APMC,2533
+Bengal Gram(Gram)(Whole),Devani APMC,5290
+Beetroot,Pune APMC,1150
+Sweet Pumpkin,Pune APMC,1150
+Brinjal,Pune APMC,2950
+Water Melon,Pune(Moshi) APMC,2000
+Coriander(Leaves),Pune(Pimpri) APMC,8
+Onion,Satara APMC,950
+Chilly Capsicum,Satara APMC,4500
+Onion,Mangal Wedha APMC,900
+Garlic,Banur APMC,7500
+Onion,Banur APMC,1500
+Bottle gourd,Siyana APMC,1105
+Brinjal,Sealdah Koley Market APMC,4000
+Cabbage,Darjeeling APMC,2400
+Onion,Darjeeling APMC,3000
+Bhindi(Ladies Finger),Sulur(Uzhavar Sandhai ) APMC,4250
+Onion,Sulur(Uzhavar Sandhai ) APMC,2200
+Green Avare(W),Mayiladuthurai(Uzhavar Sandhai ) APMC,6500
+Tender Coconut,Mayiladuthurai(Uzhavar Sandhai ) APMC,2250
+Potato,Vedaranyam(Uzhavar Sandhai),3250
+Pumpkin,Vedaranyam(Uzhavar Sandhai),2350
+Beetroot,Vedaranyam(Uzhavar Sandhai),3250
+Elephant Yam(Suran)/Amorphophallus,Paramathivelur(Uzhavar Sandhai ) APMC,3750
+Banana,Paramathivelur(Uzhavar Sandhai ) APMC,3250
+Onion Green,Thammampatti (Uzhavar Sandhai ) APMC,3250
+Cluster beans,Udumalpet APMC,3300
+Ashgourd,Udumalpet APMC,1650
+Banana - Green,Udumalpet APMC,3500
+Colacasia,Udumalpet APMC,4500
+Beans,Katpadi (Uzhavar Sandhai ) APMC,3500
+Tender Coconut,Katpadi (Uzhavar Sandhai ) APMC,2250
+Lemon,Katpadi (Uzhavar Sandhai ) APMC,5000
+Cauliflower,Kumbakonam (Uzhavar Sandhai ) APMC,3600
+Pumpkin,Kumbakonam (Uzhavar Sandhai ) APMC,2400
+Lemon,Kumbakonam (Uzhavar Sandhai ) APMC,8000
+Onion,Tindivanam APMC,2250
+Water Melon,Tindivanam APMC,1750
+Banana,Tindivanam APMC,6000
+Ashgourd,Ulundurpettai APMC,3000
+Soyabean,Kurawar APMC,5125
+Wheat,Sirali APMC,2325
+Wheat,Badnawar APMC,2550
+Bengal Gram(Gram)(Whole),Jobat APMC,4900
+Soyabean,Bhikangaon APMC,5095
+Cotton,Bhikangaon APMC,7272
+Wheat,Kasrawad APMC,2200
+Bengal Gram(Gram)(Whole),Segaon APMC,5000
+Mustard,Haatpipliya APMC,5235
+Wheat,Kalapipal APMC,1875
+Wheat,Lashkar APMC,2325
+Mustard,Kolaras APMC,5185
+Mustard,Karera APMC,5700
+Maize,Pandhurna APMC,1575
+Paddy(Common),Nainpur APMC,1800
+Gur(Jaggery),Kareli APMC,3300
+Maize,Ghansour APMC,1515
+Pumpkin,Koduvayoor APMC,2200
+Brinjal,Bolpur APMC,3400
+Potato,Katwa APMC,800
+Bitter gourd,Pandua APMC,3700
+Brinjal,Pandua APMC,3600
+Green Chilli,Bethuadahari APMC,9200
+Brinjal,Birbhum APMC,3400
+Cabbage,Cheyyar(Uzhavar Sandhai ) APMC,2250
+Raddish,Cheyyar(Uzhavar Sandhai ) APMC,1350
+Yam(Ratalu),Cheyyar(Uzhavar Sandhai ) APMC,2750
+Tomato,Papanasam(Uzhavar Sandhai ) APMC,2000
+Beans,Papanasam(Uzhavar Sandhai ) APMC,4500
+Tomato,Roorkee APMC,1600
+Maize,Malpura APMC,1875
+Garlic,Bhadara APMC,8000
+Onion,Rawatsar APMC,1600
+Potato,Dinanagar APMC,550
+Raddish,Ahmedgarh APMC,1000
+Cauliflower,Naushera Pannuan APMC,400
+Carrot,Dera Baba Nanak APMC,546
+Mousambi(Sweet Lime),Vadavalli(Uzhavar Sandhai ) APMC,5300
+Amla(Nelli Kai),Vadavalli(Uzhavar Sandhai ) APMC,6500
+Cauliflower,Nutanbazar APMC,1950
+Potato,Dasda APMC,1550
+Cucumbar(Kheera),Barwala(Hisar) APMC,1300
+Dry Fodder,Ambala Cantt. APMC,780
+Garlic,Sundarapuram(Uzhavar Sandhai ) APMC,15500
+Cowpea(Veg),Sundarapuram(Uzhavar Sandhai ) APMC,3250
+Coconut,Sundarapuram(Uzhavar Sandhai ) APMC,5600
+Thondekai,Sundarapuram(Uzhavar Sandhai ) APMC,3750
+Turnip,Sundarapuram(Uzhavar Sandhai ) APMC,3750
+Ashgourd,Anchal APMC,6700
+Cauliflower,Nadiyad(Piplag) APMC,1250
+Cucumbar(Kheera),Gondal(Veg.market Gondal) APMC,2000
+Tomato,Siliguri APMC,1700
+Apple,Sampath Nagar(Uzhavar Sandhai ) APMC,23500
+Potato,Sampath Nagar(Uzhavar Sandhai ) APMC,2650
+Bitter gourd,Sampath Nagar(Uzhavar Sandhai ) APMC,3300
+Tomato,Gobichettipalayam(Uzhavar Sandhai ) APMC,1350
+Green Avare(W),Gobichettipalayam(Uzhavar Sandhai ) APMC,3250
+Pumpkin,Sathiyamagalam(Uzhavar Sandhai ) APMC,1750
+Green Chilli,Sathiyamagalam(Uzhavar Sandhai ) APMC,4300
+Cowpea(Veg),Sathiyamagalam(Uzhavar Sandhai ) APMC,1750
+Snakeguard,Sathiyamagalam(Uzhavar Sandhai ) APMC,2600
+Chow Chow,Sathiyamagalam(Uzhavar Sandhai ) APMC,2200
+Bhindi(Ladies Finger),Valangaiman APMC,4600
+Green Chilli,Valangaiman APMC,4400
+Potato,Guskara APMC,750
+Chikoos(Sapota),Tiruchengode APMC,3750
+Ridgeguard(Tori),Tiruchengode APMC,4750
+Elephant Yam(Suran)/Amorphophallus,Tiruchengode APMC,2800
+Bhindi(Ladies Finger),Thuraiyur APMC,5000
+Tender Coconut,Thuraiyur APMC,3500
+Tomato,Ariyalur(Uzhavar Sandhai) APMC,1800
+Carrot,Sagar(F&V) APMC,1100
+Spinach,Sagar(F&V) APMC,500
+Banana,Sagar(F&V) APMC,1200
+Papaya,RSPuram(Uzhavar Sandhai ) APMC,3400
+Ashgourd,RSPuram(Uzhavar Sandhai ) APMC,1700
+Amaranthus,RSPuram(Uzhavar Sandhai ) APMC,2500
+Cabbage,RSPuram(Uzhavar Sandhai ) APMC,1450
+Cucumbar(Kheera),RSPuram(Uzhavar Sandhai ) APMC,2350
+Capsicum,RSPuram(Uzhavar Sandhai ) APMC,5250
+Drumstick,RSPuram(Uzhavar Sandhai ) APMC,6500
+Pomegranate,RSPuram(Uzhavar Sandhai ) APMC,24000
+Turnip,RSPuram(Uzhavar Sandhai ) APMC,3600
+Pineapple,RSPuram(Uzhavar Sandhai ) APMC,6750
+Potato,Singanallur(Uzhavar Sandhai ) APMC,3900
+Tapioca,Singanallur(Uzhavar Sandhai ) APMC,2750
+Ginger(Green),Singanallur(Uzhavar Sandhai ) APMC,7100
+Paddy(Common),Pirda APMC,2000
+Tomato,Nadiad APMC,1100
+Banana,Narwana APMC,1600
+Onion,Narwana APMC,1350
+Cauliflower,Narwana APMC,600
+Paddy(Common),Lalganj APMC,2225
+Onion,Pollachi(Uzhavar Sandhai ) APMC,2250
+Tomato,Pollachi(Uzhavar Sandhai ) APMC,1350
+Ashgourd,Pollachi(Uzhavar Sandhai ) APMC,2000
+Pumpkin,Pollachi(Uzhavar Sandhai ) APMC,2250
+Beans,Pollachi(Uzhavar Sandhai ) APMC,4750
+Green Avare(W),Pollachi(Uzhavar Sandhai ) APMC,3250
+Chow Chow,Pollachi(Uzhavar Sandhai ) APMC,2750
+Mashrooms,Pollachi(Uzhavar Sandhai ) APMC,18000
+Amla(Nelli Kai),Pollachi(Uzhavar Sandhai ) APMC,7500
+Apple,Kairana APMC,3650
+Ginger(Green),Kairana APMC,4150
+Raddish,Kairana APMC,850
+Green Chilli,Kairana APMC,3650
+Guava,Kairana APMC,2550
+Amaranthus,Mettupalayam(Uzhavar Sandhai ) APMC,3500
+Sweet Potato,Mettupalayam(Uzhavar Sandhai ) APMC,2600
+Elephant Yam(Suran)/Amorphophallus,Mettupalayam(Uzhavar Sandhai ) APMC,3250
+Yam(Ratalu),Mettupalayam(Uzhavar Sandhai ) APMC,5250
+Indian Beans(Seam),Mettupalayam(Uzhavar Sandhai ) APMC,6500
+Green Chilli,Karur(Uzhavar Sandhai ) APMC,4500
+Carrot,Karur(Uzhavar Sandhai ) APMC,4750
+Cauliflower,Halahali,2100
+Squash(Chappal Kadoo),Pamohi(Garchuk) APMC,1800
+Coriander(Leaves),Kurichi(Uzhavar Sandhai ) APMC,5750
+Onion Green,Kurichi(Uzhavar Sandhai ) APMC,3200
+Capsicum,Cuddalore(Uzhavar Sandhai ) APMC,6000
+Onion,Chidambaram(Uzhavar Sandhai ) APMC,2750
+Banana - Green,Viruthachalam(Uzhavar Sandhai ) APMC,2250
+Mango(Raw-Ripe),Viruthachalam(Uzhavar Sandhai ) APMC,15000
+Bitter gourd,Panruti(Uzhavar Sandhai ) APMC,5000
+Coconut,Panruti(Uzhavar Sandhai ) APMC,6500
+Green Avare(W),Panruti(Uzhavar Sandhai ) APMC,3500
+Ashgourd,Vadalur(Uzhavar Sandhai ) APMC,2000
+Bhindi(Ladies Finger),Vadalur(Uzhavar Sandhai ) APMC,4000
+Pumpkin,Dharmapuri(Uzhavar Sandhai ) APMC,1150
+Coconut,Dharmapuri(Uzhavar Sandhai ) APMC,7800
+Ridgeguard(Tori),Dharmapuri(Uzhavar Sandhai ) APMC,3400
+Chow Chow,Dharmapuri(Uzhavar Sandhai ) APMC,2500
+Potato,Pennagaram(Uzhavar Sandhai ) APMC,2900
+Bhindi(Ladies Finger),Pennagaram(Uzhavar Sandhai ) APMC,3400
+Coconut,Pennagaram(Uzhavar Sandhai ) APMC,7800
+Water Melon,Palacode(Uzhavar Sandhai ) APMC,1750
+Raddish,Palacode(Uzhavar Sandhai ) APMC,1400
+Mango(Raw-Ripe),Palacode(Uzhavar Sandhai ) APMC,7750
+Bitter gourd,AJattihalli(Uzhavar Sandhai ) APMC,3000
+Tapioca,AJattihalli(Uzhavar Sandhai ) APMC,2250
+Ginger(Green),AJattihalli(Uzhavar Sandhai ) APMC,8250
+Ridgeguard(Tori),AJattihalli(Uzhavar Sandhai ) APMC,3250
+Tender Coconut,AJattihalli(Uzhavar Sandhai ) APMC,2750
+Elephant Yam(Suran)/Amorphophallus,AJattihalli(Uzhavar Sandhai ) APMC,4600
+Green Avare(W),Dindigul(Uzhavar Sandhai ) APMC,5500
+Tomato,Palani(Uzhavar Sandhai ) APMC,1150
+Bitter gourd,Palani(Uzhavar Sandhai ) APMC,3300
+Bhindi(Ladies Finger),Palani(Uzhavar Sandhai ) APMC,2250
+Green Chilli,Palani(Uzhavar Sandhai ) APMC,3300
+Cabbage,Palani(Uzhavar Sandhai ) APMC,1650
+Coriander(Leaves),Chinnalapatti(Uzhavar Sandhai ) APMC,2750
+Coconut,Chinnalapatti(Uzhavar Sandhai ) APMC,5750
+Sweet Potato,Chinnalapatti(Uzhavar Sandhai ) APMC,4500
+Raddish,Chinnalapatti(Uzhavar Sandhai ) APMC,3300
+Green Avare(W),Chinnalapatti(Uzhavar Sandhai ) APMC,5500
+Lemon,Chinnalapatti(Uzhavar Sandhai ) APMC,7500
+Cowpea(Veg),Periyar Nagar(Uzhavar Sandhai ) APMC,3250
+Sweet Potato,Periyar Nagar(Uzhavar Sandhai ) APMC,3800
+Cauliflower,Perundurai(Uzhavar Sandhai ) APMC,3750
+Cluster beans,Perundurai(Uzhavar Sandhai ) APMC,4350
+Bhindi(Ladies Finger),Perundurai(Uzhavar Sandhai ) APMC,4650
+Ginger(Green),Perundurai(Uzhavar Sandhai ) APMC,6750
+Mint(Pudina),Perundurai(Uzhavar Sandhai ) APMC,3700
+Papaya,Thalavadi(Uzhavar Sandhai ) APMC,2200
+Guava,Thalavadi(Uzhavar Sandhai ) APMC,5250
+Carrot,Padappai(Uzhavar Sandhai ) APMC,2500
+Drumstick,Padappai(Uzhavar Sandhai ) APMC,9000
+Green Chilli,Kundrathur(Uzhavar Sandhai ) APMC,4000
+Cabbage,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Snakeguard,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Onion Green,Kundrathur(Uzhavar Sandhai ) APMC,4000
+Tomato,Kulithalai(Uzhavar Sandhai ) APMC,1350
+Sweet Potato,Kulithalai(Uzhavar Sandhai ) APMC,2750
+Raddish,Kulithalai(Uzhavar Sandhai ) APMC,1800
+Turnip,Kulithalai(Uzhavar Sandhai ) APMC,4500
+Onion Green,Kulithalai(Uzhavar Sandhai ) APMC,3250
+Ashgourd,Velayuthampalayam(Uzhavar Sandhai ) APMC,1800
+Bhindi(Ladies Finger),Velayuthampalayam(Uzhavar Sandhai ) APMC,3600
+Green Chilli,Velayuthampalayam(Uzhavar Sandhai ) APMC,4500
+Beans,Velayuthampalayam(Uzhavar Sandhai ) APMC,4500
+Amaranthus,Pallapatti (Uzhavar Sandhai ) APMC,2750
+Green Avare(W),Pallapatti (Uzhavar Sandhai ) APMC,4500
+Green Chilli,Vengamedu(Uzhavar Sandhai ) APMC,4500
+Ridgeguard(Tori),Vengamedu(Uzhavar Sandhai ) APMC,3750
+Drumstick,Vengamedu(Uzhavar Sandhai ) APMC,8750
+Yam(Ratalu),Vengamedu(Uzhavar Sandhai ) APMC,4500
+Green Peas,Hosur(Uzhavar Sandhai ) APMC,3500
+Chikoos(Sapota),Hosur(Uzhavar Sandhai ) APMC,5500
+Coconut,Hosur(Uzhavar Sandhai ) APMC,6500
+Drumstick,Hosur(Uzhavar Sandhai ) APMC,7500
+Mashrooms,Hosur(Uzhavar Sandhai ) APMC,22500
+Capsicum,Krishnagiri(Uzhavar Sandhai ) APMC,4750
+Mango(Raw-Ripe),Krishnagiri(Uzhavar Sandhai ) APMC,7500
+Banana,Krishnagiri(Uzhavar Sandhai ) APMC,8750
+Onion,Denkanikottai(Uzhavar Sandhai ) APMC,3500
+Cauliflower,Denkanikottai(Uzhavar Sandhai ) APMC,2750
+Carrot,Denkanikottai(Uzhavar Sandhai ) APMC,2750
+Ridgeguard(Tori),Denkanikottai(Uzhavar Sandhai ) APMC,3500
+Capsicum,Denkanikottai(Uzhavar Sandhai ) APMC,3500
+Brinjal,Avallapalli(Uzhavar Sandhai ) APMC,2250
+Carrot,Avallapalli(Uzhavar Sandhai ) APMC,2250
+Thondekai,Avallapalli(Uzhavar Sandhai ) APMC,3750
+Knool Khol,Avallapalli(Uzhavar Sandhai ) APMC,1250
+Lemon,Avallapalli(Uzhavar Sandhai ) APMC,9500
+Mousambi(Sweet Lime),Anna nagar(Uzhavar Sandhai ) APMC,6500
+Tomato,Anna nagar(Uzhavar Sandhai ) APMC,1300
+Amaranthus,Anna nagar(Uzhavar Sandhai ) APMC,3300
+Carrot,Anna nagar(Uzhavar Sandhai ) APMC,3500
+Capsicum,Anna nagar(Uzhavar Sandhai ) APMC,5500
+Green Avare(W),Anna nagar(Uzhavar Sandhai ) APMC,6850
+Elephant Yam(Suran)/Amorphophallus,Anna nagar(Uzhavar Sandhai ) APMC,3750
+Amla(Nelli Kai),Anna nagar(Uzhavar Sandhai ) APMC,5500
+Soyabean,Anna nagar(Uzhavar Sandhai ) APMC,9000
+Onion,Chokkikulam(Uzhavar Sandhai ) APMC,2600
+Garlic,Chokkikulam(Uzhavar Sandhai ) APMC,17500
+Brinjal,Chokkikulam(Uzhavar Sandhai ) APMC,3400
+Bitter gourd,Chokkikulam(Uzhavar Sandhai ) APMC,3250
+Lemon,Chokkikulam(Uzhavar Sandhai ) APMC,9500
+Custard Apple(Sharifa),Chokkikulam(Uzhavar Sandhai ) APMC,6500
+Potato,Palanganatham(Uzhavar Sandhai ) APMC,2750
+Garlic,Palanganatham(Uzhavar Sandhai ) APMC,21500
+Bottle gourd,Palanganatham(Uzhavar Sandhai ) APMC,2100
+Pumpkin,Palanganatham(Uzhavar Sandhai ) APMC,1750
+Amaranthus,Palanganatham(Uzhavar Sandhai ) APMC,3300
+Green Chilli,Palanganatham(Uzhavar Sandhai ) APMC,3600
+Ginger(Green),Palanganatham(Uzhavar Sandhai ) APMC,8500
+Raddish,Palanganatham(Uzhavar Sandhai ) APMC,1750
+Green Avare(W),Palanganatham(Uzhavar Sandhai ) APMC,6100
+Chow Chow,Palanganatham(Uzhavar Sandhai ) APMC,2100
+Drumstick,Usilampatti(Uzhavar Sandhai ) APMC,9000
+Onion Green,Usilampatti(Uzhavar Sandhai ) APMC,3900
+Papaya,Thirumangalam(Uzhavar Sandhai ) APMC,3500
+Amaranthus,Thirumangalam(Uzhavar Sandhai ) APMC,3300
+Green Chilli,Thirumangalam(Uzhavar Sandhai ) APMC,4100
+Ridgeguard(Tori),Thirumangalam(Uzhavar Sandhai ) APMC,3500
+Banana,Melur(Uzhavar Sandhai ) APMC,4500
+Pumpkin,Melur(Uzhavar Sandhai ) APMC,1900
+Cowpea(Veg),Melur(Uzhavar Sandhai ) APMC,3300
+Mango(Raw-Ripe),Melur(Uzhavar Sandhai ) APMC,5750
+Elephant Yam(Suran)/Amorphophallus,Melur(Uzhavar Sandhai ) APMC,3800
+Onion,Anaiyur(Uzhavar Sandhai ) APMC,2600
+Brinjal,Anaiyur(Uzhavar Sandhai ) APMC,2900
+Bitter gourd,Anaiyur(Uzhavar Sandhai ) APMC,3250
+Bottle gourd,Anaiyur(Uzhavar Sandhai ) APMC,2200
+Ashgourd,Anaiyur(Uzhavar Sandhai ) APMC,1650
+Snakeguard,Anaiyur(Uzhavar Sandhai ) APMC,2200
+Lemon,Anaiyur(Uzhavar Sandhai ) APMC,9500
+Groundnut,Anaiyur(Uzhavar Sandhai ) APMC,5500
+Garlic,Nagapattinam(Uzhavar Sandhai ) APMC,19000
+Cucumbar(Kheera),Nagapattinam(Uzhavar Sandhai ) APMC,6000
+Raddish,Nagapattinam(Uzhavar Sandhai ) APMC,3750
+Coriander(Leaves),Sirkali(Uzhavar Sandhai ) APMC,3750
+Pumpkin,Sirkali(Uzhavar Sandhai ) APMC,1750
+Bhindi(Ladies Finger),Sirkali(Uzhavar Sandhai ) APMC,4750
+Beans,Sirkali(Uzhavar Sandhai ) APMC,5750
+Tender Coconut,Sirkali(Uzhavar Sandhai ) APMC,2250
+Yam(Ratalu),Sirkali(Uzhavar Sandhai ) APMC,5750
+Green Avare(W),Namakkal(Uzhavar Sandhai ) APMC,4750
+Carrot,Rasipuram(Uzhavar Sandhai ) APMC,5250
+Snakeguard,Rasipuram(Uzhavar Sandhai ) APMC,3750
+Beetroot,Rasipuram(Uzhavar Sandhai ) APMC,4750
+Ridgeguard(Tori),Rasipuram(Uzhavar Sandhai ) APMC,3750
+Thondekai,Rasipuram(Uzhavar Sandhai ) APMC,5750
+Bhindi(Ladies Finger),Kumarapalayam(Uzhavar Sandhai ) APMC,5250
+Snakeguard,Kumarapalayam(Uzhavar Sandhai ) APMC,3750
+Beetroot,Kumarapalayam(Uzhavar Sandhai ) APMC,4250
+Raddish,Kumarapalayam(Uzhavar Sandhai ) APMC,2000
+Amla(Nelli Kai),Kumarapalayam(Uzhavar Sandhai ) APMC,6500
+Pumpkin,Mohanur(Uzhavar Sandhai ) APMC,1500
+Cucumbar(Kheera),Mohanur(Uzhavar Sandhai ) APMC,7500
+Raddish,Mohanur(Uzhavar Sandhai ) APMC,2700
+Guava,Mohanur(Uzhavar Sandhai ) APMC,5400
+Papaya,Udhagamandalam(Uzhavar Sandhai ) APMC,4250
+Banana - Green,Udhagamandalam(Uzhavar Sandhai ) APMC,3750
+Lemon,Udhagamandalam(Uzhavar Sandhai ) APMC,9000
+Garlic,Perambalur(Uzhavar Sandhai ) APMC,15000
+Tapioca,Perambalur(Uzhavar Sandhai ) APMC,2750
+Ginger(Green),Perambalur(Uzhavar Sandhai ) APMC,7500
+Raddish,Perambalur(Uzhavar Sandhai ) APMC,2500
+Green Avare(W),Perambalur(Uzhavar Sandhai ) APMC,4400
+Drumstick,Perambalur(Uzhavar Sandhai ) APMC,7200
+Guava,Perambalur(Uzhavar Sandhai ) APMC,6500
+Elephant Yam(Suran)/Amorphophallus,Perambalur(Uzhavar Sandhai ) APMC,4000
+Banana,Perambalur(Uzhavar Sandhai ) APMC,4500
+Garlic,Pudukottai(Uzhavar Sandhai ) APMC,29000
+Tapioca,Pudukottai(Uzhavar Sandhai ) APMC,2250
+Raddish,Pudukottai(Uzhavar Sandhai ) APMC,1750
+Pomegranate,Pudukottai(Uzhavar Sandhai ) APMC,24500
+Mint(Pudina),Pudukottai(Uzhavar Sandhai ) APMC,4500
+Potato,Alangudi(Uzhavar Sandhai ) APMC,3750
+Coconut,Alangudi(Uzhavar Sandhai ) APMC,5500
+Green Chilli,Viralimalai(Uzhavar Sandhai ) APMC,3650
+Snakeguard,Viralimalai(Uzhavar Sandhai ) APMC,1400
+Mint(Pudina),Viralimalai(Uzhavar Sandhai ) APMC,4600
+Banana,Viralimalai(Uzhavar Sandhai ) APMC,5500
+Tomato,Ramanathapuram(Uzhavar Sandhai ) APMC,1650
+Coriander(Leaves),Paramakudi(Uzhavar Sandhai ) APMC,5500
+Beetroot,Paramakudi(Uzhavar Sandhai ) APMC,4250
+Chow Chow,Paramakudi(Uzhavar Sandhai ) APMC,2650
+Tube Flower,Paramakudi(Uzhavar Sandhai ) APMC,55000
+Kakada,Paramakudi(Uzhavar Sandhai ) APMC,55000
+Amaranthus,Kamuthi(Uzhavar Sandhai ) APMC,4000
+Amaranthus,Sooramangalam(Uzhavar Sandhai ) APMC,2200
+Banana - Green,Sooramangalam(Uzhavar Sandhai ) APMC,2200
+Beetroot,Sooramangalam(Uzhavar Sandhai ) APMC,5200
+Thondekai,Sooramangalam(Uzhavar Sandhai ) APMC,3750
+Amla(Nelli Kai),Sooramangalam(Uzhavar Sandhai ) APMC,5500
+Arhar(Tur/Red Gram)(Whole),Thathakapatti(Uzhavar Sandhai ) APMC,6750
+Chikoos(Sapota),Thathakapatti(Uzhavar Sandhai ) APMC,3750
+Cluster beans,Thathakapatti(Uzhavar Sandhai ) APMC,4200
+Cabbage,Thathakapatti(Uzhavar Sandhai ) APMC,3250
+Guava,Thathakapatti(Uzhavar Sandhai ) APMC,6500
+Indian Beans(Seam),Thathakapatti(Uzhavar Sandhai ) APMC,5500
+Colacasia,Thathakapatti(Uzhavar Sandhai ) APMC,5750
+Drumstick,Mettur(Uzhavar Sandhai ) APMC,4500
+Guava,Mettur(Uzhavar Sandhai ) APMC,5500
+Bottle gourd,Attayampatti(Uzhavar Sandhai ) APMC,1800
+Ashgourd,Attayampatti(Uzhavar Sandhai ) APMC,1300
+Onion Green,Attayampatti(Uzhavar Sandhai ) APMC,2900
+Orange,Hasthampatti(Uzhavar Sandhai ) APMC,7500
+Onion,Hasthampatti(Uzhavar Sandhai ) APMC,2750
+Green Peas,Hasthampatti(Uzhavar Sandhai ) APMC,5750
+Cluster beans,Hasthampatti(Uzhavar Sandhai ) APMC,4200
+Sweet Potato,Hasthampatti(Uzhavar Sandhai ) APMC,3750
+Green Avare(W),Hasthampatti(Uzhavar Sandhai ) APMC,3750
+Potato,Elampillai(Uzhavar Sandhai ) APMC,2750
+Apple,Jalagandapuram(Uzhavar Sandhai ) APMC,17500
+Brinjal,Jalagandapuram(Uzhavar Sandhai ) APMC,2750
+Amaranthus,Jalagandapuram(Uzhavar Sandhai ) APMC,2200
+Raddish,Jalagandapuram(Uzhavar Sandhai ) APMC,2200
+Tender Coconut,Jalagandapuram(Uzhavar Sandhai ) APMC,2750
+Brinjal,Edapadi (Uzhavar Sandhai ) APMC,2500
+Tomato,Edapadi (Uzhavar Sandhai ) APMC,1250
+Beans,Edapadi (Uzhavar Sandhai ) APMC,4750
+Snakeguard,Edapadi (Uzhavar Sandhai ) APMC,2800
+Cucumbar(Kheera),Edapadi (Uzhavar Sandhai ) APMC,3750
+Onion,Edapadi (Uzhavar Sandhai ) APMC,2500
+Snakeguard,Sivagangai (Uzhavar Sandhai ) APMC,3200
+Bhindi(Ladies Finger),Devakottai (Uzhavar Sandhai ) APMC,3100
+Beetroot,Devakottai (Uzhavar Sandhai ) APMC,3500
+Coriander(Leaves),Karaikudi(Uzhavar Sandhai ) APMC,4750
+Tomato,Karaikudi(Uzhavar Sandhai ) APMC,1700
+Banana - Green,Karaikudi(Uzhavar Sandhai ) APMC,2750
+Capsicum,Karaikudi(Uzhavar Sandhai ) APMC,7000
+Cauliflower,Tirupatthur(Uzhavar Sandhai ) APMC,2750
+Mousambi(Sweet Lime),Tirupatthur(Uzhavar Sandhai ) APMC,4950
+Bitter gourd,Tirupatthur(Uzhavar Sandhai ) APMC,4250
+Bhindi(Ladies Finger),Tirupatthur(Uzhavar Sandhai ) APMC,3250
+Amaranthus,Tirupatthur(Uzhavar Sandhai ) APMC,3750
+Coconut,Tirupatthur(Uzhavar Sandhai ) APMC,6250
+Indian Beans(Seam),Tirupatthur(Uzhavar Sandhai ) APMC,5750
+Onion,Singampunari(Uzhavar Sandhai ) APMC,2750
+Chikoos(Sapota),Singampunari(Uzhavar Sandhai ) APMC,4500
+Banana,Singampunari(Uzhavar Sandhai ) APMC,3750
+Chikoos(Sapota),Thanjavur(Uzhavar Sandhai ) APMC,6000
+Pumpkin,Thanjavur(Uzhavar Sandhai ) APMC,2000
+Banana - Green,Thanjavur(Uzhavar Sandhai ) APMC,4000
+Raddish,Thanjavur(Uzhavar Sandhai ) APMC,2600
+Elephant Yam(Suran)/Amorphophallus,Thanjavur(Uzhavar Sandhai ) APMC,3600
+Cluster beans,Pattukottai(Uzhavar Sandhai ) APMC,5000
+Lime,Pattukottai(Uzhavar Sandhai ) APMC,4000
+Potato,Tirukattupalli(Uzhavar Sandhai ) APMC,2800
+Bottle gourd,Tirukattupalli(Uzhavar Sandhai ) APMC,5000
+Potato,Theni(Uzhavar Sandhai ) APMC,2500
+Bhindi(Ladies Finger),Theni(Uzhavar Sandhai ) APMC,4200
+Ginger(Green),Theni(Uzhavar Sandhai ) APMC,6200
+Karbuja(Musk Melon),Theni(Uzhavar Sandhai ) APMC,7000
+Elephant Yam(Suran)/Amorphophallus,Theni(Uzhavar Sandhai ) APMC,2800
+Capsicum,Theni(Uzhavar Sandhai ) APMC,4400
+Soyabean,Theni(Uzhavar Sandhai ) APMC,8000
+Apple,Theni(Uzhavar Sandhai ) APMC,20000
+Pineapple,Theni(Uzhavar Sandhai ) APMC,8000
+Papaya,Kambam(Uzhavar Sandhai ) APMC,3250
+Beans,Kambam(Uzhavar Sandhai ) APMC,4250
+Green Avare(W),Kambam(Uzhavar Sandhai ) APMC,3000
+Bottle gourd,Karimangalam(Uzhavar Sandhai),900
+Amaranthus,Karimangalam(Uzhavar Sandhai),2400
+Beetroot,Karimangalam(Uzhavar Sandhai),2400
+Drumstick,Karimangalam(Uzhavar Sandhai),7750
+Tapioca,Mecheri(Uzhavar Sandhai),2750
+Colacasia,Pallikonda(Uzhavar Sandhai),3250
+Bottle gourd,Perampet(Uzhavar Sandhai),2000
+Guava,Perampet(Uzhavar Sandhai),4000
+Banana - Green,Peravurani(Uzhavar Sandhai),3000
+Onion,Champadanga APMC,1600
+Raddish,Pune(Pimpri) APMC,8
+Papaya,Siyana APMC,2240
+Wheat,Tulsipur APMC,2475
+Banana - Green,Gandarvakottai(Uzhavar Sandhai ) APMC,2750
+Mint(Pudina),Gandarvakottai(Uzhavar Sandhai ) APMC,3750
+Raddish,Mayiladuthurai(Uzhavar Sandhai ) APMC,2250
+Lemon,Vedaranyam(Uzhavar Sandhai),4750
+Coriander(Leaves),Paramathivelur(Uzhavar Sandhai ) APMC,6750
+Banana - Green,Paramathivelur(Uzhavar Sandhai ) APMC,3250
+Tomato,Udumalpet APMC,1500
+Bhindi(Ladies Finger),Kumbakonam (Uzhavar Sandhai ) APMC,4200
+Wheat,Rajgarh APMC,2150
+Wheat,Badwaha APMC,2275
+Wheat,Datia APMC,2300
+Rice,Birbhum APMC,3500
+Potato,Birbhum APMC,950
+Tomato,Birbhum APMC,2000
+Green Avare(W),Cheyyar(Uzhavar Sandhai ) APMC,3250
+Tender Coconut,Cheyyar(Uzhavar Sandhai ) APMC,2250
+Ashgourd,Papanasam(Uzhavar Sandhai ) APMC,2400
+Onion Green,Barwala(Hisar) APMC,900
+Bhindi(Ladies Finger),Sundarapuram(Uzhavar Sandhai ) APMC,4750
+Onion,Anchal APMC,3600
+Cabbage,Gondal(Veg.market Gondal) APMC,500
+Sweet Potato,Gondal(Veg.market Gondal) APMC,2000
+Chikoos(Sapota),Gondal(Veg.market Gondal) APMC,3000
+Amaranthus,Sampath Nagar(Uzhavar Sandhai ) APMC,2750
+Green Chilli,Sampath Nagar(Uzhavar Sandhai ) APMC,3300
+Amla(Nelli Kai),Sampath Nagar(Uzhavar Sandhai ) APMC,6750
+Coriander(Leaves),Gobichettipalayam(Uzhavar Sandhai ) APMC,5200
+Amaranthus,Gobichettipalayam(Uzhavar Sandhai ) APMC,4200
+Lemon,Thuraiyur APMC,6500
+Banana,Thuraiyur APMC,3750
+Ridgeguard(Tori),RSPuram(Uzhavar Sandhai ) APMC,3750
+Lemon,RSPuram(Uzhavar Sandhai ) APMC,10300
+Mousambi(Sweet Lime),Singanallur(Uzhavar Sandhai ) APMC,5750
+Banana - Green,Singanallur(Uzhavar Sandhai ) APMC,3750
+Coconut,Mettupalayam(Uzhavar Sandhai ) APMC,5200
+Green Peas,Karur(Uzhavar Sandhai ) APMC,6750
+Amaranthus,Karur(Uzhavar Sandhai ) APMC,2250
+Green Avare(W),Cuddalore(Uzhavar Sandhai ) APMC,4500
+Onion Green,Panruti(Uzhavar Sandhai ) APMC,3000
+Green Avare(W),Vadalur(Uzhavar Sandhai ) APMC,3000
+Knool Khol,Vadalur(Uzhavar Sandhai ) APMC,3000
+Knool Khol,Dharmapuri(Uzhavar Sandhai ) APMC,3700
+Bitter gourd,Pennagaram(Uzhavar Sandhai ) APMC,3400
+Beetroot,Pennagaram(Uzhavar Sandhai ) APMC,3400
+Chow Chow,Pennagaram(Uzhavar Sandhai ) APMC,3900
+Capsicum,Palacode(Uzhavar Sandhai ) APMC,5900
+Knool Khol,AJattihalli(Uzhavar Sandhai ) APMC,3800
+Garlic,Dindigul(Uzhavar Sandhai ) APMC,22000
+Mango(Raw-Ripe),Dindigul(Uzhavar Sandhai ) APMC,11000
+Cucumbar(Kheera),Palani(Uzhavar Sandhai ) APMC,6000
+Amaranthus,Chinnalapatti(Uzhavar Sandhai ) APMC,2750
+Cabbage,Padappai(Uzhavar Sandhai ) APMC,1250
+Snakeguard,Padappai(Uzhavar Sandhai ) APMC,2750
+Onion,Kulithalai(Uzhavar Sandhai ) APMC,3100
+Tomato,Velayuthampalayam(Uzhavar Sandhai ) APMC,1250
+Water Melon,Hosur(Uzhavar Sandhai ) APMC,2750
+Thondekai,Denkanikottai(Uzhavar Sandhai ) APMC,3750
+Mango(Raw-Ripe),Palanganatham(Uzhavar Sandhai ) APMC,6500
+Chikoos(Sapota),Nagapattinam(Uzhavar Sandhai ) APMC,4500
+Beetroot,Sirkali(Uzhavar Sandhai ) APMC,3800
+Papaya,Namakkal(Uzhavar Sandhai ) APMC,2750
+Amla(Nelli Kai),Udhagamandalam(Uzhavar Sandhai ) APMC,7500
+Bhindi(Ladies Finger),Viralimalai(Uzhavar Sandhai ) APMC,3650
+Cluster beans,Sooramangalam(Uzhavar Sandhai ) APMC,4200
+Drumstick,Sooramangalam(Uzhavar Sandhai ) APMC,6250
+Tapioca,Thathakapatti(Uzhavar Sandhai ) APMC,2250
+Ridgeguard(Tori),Thathakapatti(Uzhavar Sandhai ) APMC,4250
+Groundnut,Thathakapatti(Uzhavar Sandhai ) APMC,6500
+Brinjal,Mettur(Uzhavar Sandhai ) APMC,2350
+Coconut,Elampillai(Uzhavar Sandhai ) APMC,6250
+Groundnut,Jalagandapuram(Uzhavar Sandhai ) APMC,6250
+Mango(Raw-Ripe),Devakottai (Uzhavar Sandhai ) APMC,6250
+Elephant Yam(Suran)/Amorphophallus,Karaikudi(Uzhavar Sandhai ) APMC,4250
+Mango(Raw-Ripe),Tirupatthur(Uzhavar Sandhai ) APMC,6250
+Capsicum,Thanjavur(Uzhavar Sandhai ) APMC,7000
+Yam(Ratalu),Thanjavur(Uzhavar Sandhai ) APMC,5000
+Brinjal,Badwani(F&V) APMC,1400
+Pomegranate,Karera(F&V) APMC,7000
+Field Pea,Anoop Shahar APMC,1200
+Onion,Awagarh APMC,1600
+Cauliflower,Karimangalam(Uzhavar Sandhai),2900
+Coriander(Leaves),Karimangalam(Uzhavar Sandhai),5750
+Sweet Potato,Karimangalam(Uzhavar Sandhai),2400
+Pumpkin,Mecheri(Uzhavar Sandhai),1650
+Green Avare(W),Mecheri(Uzhavar Sandhai),4250
+Mint(Pudina),Mecheri(Uzhavar Sandhai),2750
+Bottle gourd,Pallikonda(Uzhavar Sandhai),1500
+Coconut,Pallikonda(Uzhavar Sandhai),3000
+Snakeguard,Pallikonda(Uzhavar Sandhai),3500
+Coriander(Leaves),Perampet(Uzhavar Sandhai),4000
+Chikoos(Sapota),Perampet(Uzhavar Sandhai),3000
+Cluster beans,Perampet(Uzhavar Sandhai),4000
+Ashgourd,Perampet(Uzhavar Sandhai),1800
+Beans,Perampet(Uzhavar Sandhai),4000
+Green Avare(W),Perampet(Uzhavar Sandhai),4400
+Green Chilli,Peravurani(Uzhavar Sandhai),5000
+Ridgeguard(Tori),Peravurani(Uzhavar Sandhai),5000
+Papaya,Vazhapadi(Uzhavar Sandhai),3000
+Banana - Green,Vazhapadi(Uzhavar Sandhai),2750
+Tomato,Gandhigramam(Uzhavar Sandhai),1400
+Cabbage,Gandhigramam(Uzhavar Sandhai),3250
+Guava,Gandhigramam(Uzhavar Sandhai),5500
+Sweet Pumpkin,Ghatal APMC,1900
+Rice,Ghatal APMC,3200
+Paddy(Common),Sainthia APMC,2372
+Guava,Chattrapati Sambhajinagar APMC,1600
+Cucumbar(Kheera),Chattrapati Sambhajinagar APMC,800
+Arhar(Tur/Red Gram)(Whole),Paithan APMC,7600
+Soyabean,Devani APMC,5267
+Apple,Pune(Moshi) APMC,15000
+Beans,Pune(Moshi) APMC,2750
+Garlic,Pune(Moshi) APMC,6000
+Carrot,Satara APMC,2250
+Brinjal,Satara APMC,2500
+Cucumbar(Kheera),Mangal Wedha APMC,3000
+Green Chilli,Mangal Wedha APMC,4500
+Bottle gourd,Jalaun APMC,1800
+Cucumbar(Kheera),Jalaun APMC,2000
+Green Chilli,Jalaun APMC,6000
+Cauliflower,Khekda APMC,700
+Leafy Vegetable,Khekda APMC,500
+Brinjal,Siyana APMC,1110
+Tomato,Siyana APMC,1110
+Potato,Chowmanu APMC,2000
+Green Chilli,Habra APMC,7000
+Bottle gourd,Khatra APMC,1500
+Cucumbar(Kheera),Khatra APMC,4000
+Onion,Karsiyang(Matigara) APMC,3000
+Cabbage,Raiganj APMC,1250
+Coconut,Sulur(Uzhavar Sandhai ) APMC,5500
+Sweet Potato,Sulur(Uzhavar Sandhai ) APMC,3250
+Knool Khol,Sulur(Uzhavar Sandhai ) APMC,2800
+Tomato,Gandarvakottai(Uzhavar Sandhai ) APMC,1700
+Tomato,Mayiladuthurai(Uzhavar Sandhai ) APMC,2250
+Beetroot,Mayiladuthurai(Uzhavar Sandhai ) APMC,3000
+Banana,Mayiladuthurai(Uzhavar Sandhai ) APMC,3750
+Ashgourd,Vedaranyam(Uzhavar Sandhai),2300
+Banana - Green,Vedaranyam(Uzhavar Sandhai),2350
+Pumpkin,Paramathivelur(Uzhavar Sandhai ) APMC,1500
+Potato,Thammampatti (Uzhavar Sandhai ) APMC,4000
+Cluster beans,Thammampatti (Uzhavar Sandhai ) APMC,5000
+Snakeguard,Thammampatti (Uzhavar Sandhai ) APMC,2000
+Chow Chow,Thammampatti (Uzhavar Sandhai ) APMC,3000
+Drumstick,Thammampatti (Uzhavar Sandhai ) APMC,5500
+Banana - Green,Tiruvarur(Uzhavar Sandhai ) APMC,4000
+Papaya,Udumalpet APMC,2750
+Bhindi(Ladies Finger),Udumalpet APMC,3250
+Drumstick,Udumalpet APMC,8750
+Indian Beans(Seam),Udumalpet APMC,4500
+Lemon,Udumalpet APMC,10000
+Bhindi(Ladies Finger),Katpadi (Uzhavar Sandhai ) APMC,3000
+Snakeguard,Katpadi (Uzhavar Sandhai ) APMC,3500
+Papaya,Tindivanam APMC,4000
+Tapioca,Tindivanam APMC,4500
+Cluster beans,Ulundurpettai APMC,5000
+Bhindi(Ladies Finger),Ulundurpettai APMC,4000
+Banana - Green,Ulundurpettai APMC,3000
+Green Avare(W),Ulundurpettai APMC,6000
+Wheat,Khilchipur APMC,2162
+Maize,Khilchipur APMC,1500
+Lentil(Masur)(Whole),Khilchipur APMC,6220
+Cotton,Badnawar APMC,7400
+Maize,Rajgarh APMC,1300
+Cotton,Jobat APMC,7200
+Arhar(Tur/Red Gram)(Whole),Bhikangaon APMC,7140
+Rose(Loose)),Badwaha APMC,3500
+Maize,Segaon APMC,1475
+Wheat,Sendhwa APMC,2250
+Wheat,Anjad APMC,2250
+Maize,Bagli APMC,1475
+Mustard,Lahar APMC,6305
+Paddy(Common),Varaseoni APMC,2880
+Maize,Chhindwara APMC,1600
+Mahua,Beohari APMC,3920
+Ashgourd,Koduvayoor APMC,2000
+Mustard,Katwa APMC,5700
+Onion,Bethuadahari APMC,1800
+Wheat,Birbhum APMC,2400
+Carrot,Cheyyar(Uzhavar Sandhai ) APMC,2750
+Chow Chow,Cheyyar(Uzhavar Sandhai ) APMC,2750
+Mango(Raw-Ripe),Cheyyar(Uzhavar Sandhai ) APMC,4500
+Groundnut,Yemmiganur APMC,8400
+Bottle gourd,Roorkee APMC,700
+Cauliflower,Roorkee APMC,600
+Bengal Gram(Gram)(Whole),Malpura APMC,5025
+Mustard,Surajgarh APMC,6400
+Cauliflower,Ahmedgarh APMC,800
+Kinnow,Ahmedgarh APMC,3500
+Potato,Dera Baba Nanak APMC,400
+Garlic,Vadavalli(Uzhavar Sandhai ) APMC,14000
+Green Peas,Vadavalli(Uzhavar Sandhai ) APMC,5400
+Chow Chow,Vadavalli(Uzhavar Sandhai ) APMC,2100
+Elephant Yam(Suran)/Amorphophallus,Vadavalli(Uzhavar Sandhai ) APMC,2350
+Potato,Nutanbazar APMC,1950
+Peas Wet,Barwala(Hisar) APMC,1900
+Grapes,Gurgaon APMC,9000
+Orange,Gurgaon APMC,6000
+Snakeguard,Sundarapuram(Uzhavar Sandhai ) APMC,2750
+Beetroot,Anchal APMC,3700
+Elephant Yam(Suran)/Amorphophallus,Anchal APMC,4700
+Cabbage,Sheoraphuly APMC,900
+Carrot,Kalanaur APMC,3500
+Cabbage,SMY Takoli,1300
+Carrot,Gondal(Veg.market Gondal) APMC,1200
+Tomato,Nadiyad(Chaklasi) APMC,1100
+Coriander(Leaves),Sampath Nagar(Uzhavar Sandhai ) APMC,3750
+Pumpkin,Sampath Nagar(Uzhavar Sandhai ) APMC,1500
+Mango(Raw-Ripe),Sampath Nagar(Uzhavar Sandhai ) APMC,4750
+Pomegranate,Sampath Nagar(Uzhavar Sandhai ) APMC,22500
+Tender Coconut,Sampath Nagar(Uzhavar Sandhai ) APMC,3500
+Beetroot,Gobichettipalayam(Uzhavar Sandhai ) APMC,4650
+Knool Khol,Sathiyamagalam(Uzhavar Sandhai ) APMC,4750
+Onion,Sathiyamagalam(Uzhavar Sandhai ) APMC,2750
+Bottle gourd,Valangaiman APMC,2000
+Pumpkin,Hindol APMC,1800
+Brinjal,Guskara APMC,2400
+Raddish,Ahirora APMC,700
+Tomato,Badwani(F&V) APMC,700
+Orange,Karera(F&V) APMC,3000
+Brinjal,Anoop Shahar APMC,1600
+Banana,Karimangalam(Uzhavar Sandhai),5750
+Knool Khol,Karimangalam(Uzhavar Sandhai),3700
+Mint(Pudina),Karimangalam(Uzhavar Sandhai),5750
+Brinjal,Pallikonda(Uzhavar Sandhai),1750
+Chikoos(Sapota),Pallikonda(Uzhavar Sandhai),3000
+Amaranthus,Perampet(Uzhavar Sandhai),3500
+Onion Green,Peravurani(Uzhavar Sandhai),4000
+Ashgourd,Ponnamaravathi(Uzhavar Sandhai),900
+Banana - Green,Ponnamaravathi(Uzhavar Sandhai),2750
+Bottle gourd,Vazhapadi(Uzhavar Sandhai),1300
+Onion Green,Vazhapadi(Uzhavar Sandhai),3200
+Banana,Vazhapadi(Uzhavar Sandhai),4000
+Coriander(Leaves),Gandhigramam(Uzhavar Sandhai),3750
+Cabbage,Ghatal APMC,1400
+Rice,Champadanga APMC,4800
+Rice,Sainthia APMC,3500
+Wheat,Sainthia APMC,2400
+Tomato,Charra APMC,1250
+Onion,Parner APMC,900
+Karbuja(Musk Melon),Chattrapati Sambhajinagar APMC,1600
+Bajra(Pearl Millet/Cumbu),Paithan APMC,2900
+Wheat,Buldhana(Dhad) APMC,2200
+Potato,Pune APMC,950
+Mango,Pune(Moshi) APMC,10000
+Bottle gourd,Pune(Moshi) APMC,2500
+Tomato,Pune(Pimpri) APMC,1350
+Guar,Satara APMC,7500
+Tomato,Satara APMC,1250
+Green Chilli,Satara APMC,6000
+Bhindi(Ladies Finger),Mangal Wedha APMC,4300
+Tomato,Mangal Wedha APMC,700
+Rice,Panchpedwa APMC,2700
+Sweet Pumpkin,Sealdah Koley Market APMC,2500
+Carrot,Sealdah Koley Market APMC,3000
+Cabbage,Sealdah Koley Market APMC,1500
+Papaya,Sulur(Uzhavar Sandhai ) APMC,3250
+Banana - Green,Sulur(Uzhavar Sandhai ) APMC,3700
+Amla(Nelli Kai),Sulur(Uzhavar Sandhai ) APMC,6700
+Banana,Sulur(Uzhavar Sandhai ) APMC,6250
+Bitter gourd,Gandarvakottai(Uzhavar Sandhai ) APMC,2700
+Brinjal,Mayiladuthurai(Uzhavar Sandhai ) APMC,4750
+Yam(Ratalu),Mayiladuthurai(Uzhavar Sandhai ) APMC,4750
+Brinjal,Vedaranyam(Uzhavar Sandhai),5200
+Tomato,Vedaranyam(Uzhavar Sandhai),1900
+Drumstick,Vedaranyam(Uzhavar Sandhai),9400
+Cluster beans,Paramathivelur(Uzhavar Sandhai ) APMC,3750
+Drumstick,Paramathivelur(Uzhavar Sandhai ) APMC,6750
+Tender Coconut,Paramathivelur(Uzhavar Sandhai ) APMC,2750
+Mint(Pudina),Thammampatti (Uzhavar Sandhai ) APMC,3000
+Bitter gourd,Tiruvarur(Uzhavar Sandhai ) APMC,5000
+Pumpkin,Tiruvarur(Uzhavar Sandhai ) APMC,2400
+Green Peas,Udumalpet APMC,5750
+Bitter gourd,Udumalpet APMC,4000
+Sweet Potato,Udumalpet APMC,3750
+Onion Green,Udumalpet APMC,3250
+Garlic,Katpadi (Uzhavar Sandhai ) APMC,14000
+Amaranthus,Katpadi (Uzhavar Sandhai ) APMC,3000
+Sweet Potato,Katpadi (Uzhavar Sandhai ) APMC,3000
+Marigold(Calcutta),Katpadi (Uzhavar Sandhai ) APMC,9000
+Yam(Ratalu),Katpadi (Uzhavar Sandhai ) APMC,4000
+Drumstick,Kumbakonam (Uzhavar Sandhai ) APMC,13000
+Pumpkin,Tindivanam APMC,2000
+Thondekai,Ulundurpettai APMC,5000
+Mango(Raw-Ripe),Ulundurpettai APMC,8000
+Tender Coconut,Ulundurpettai APMC,3000
+Wheat,Manawar APMC,2350
+Garlic,Rajgarh APMC,3700
+Tamarind Fruit,Alirajpur APMC,3508
+Cotton,Alirajpur APMC,6500
+Bengal Gram(Gram)(Whole),Bhikangaon APMC,5070
+Kabuli Chana(Chickpeas-White),Anjad APMC,7600
+Bajra(Pearl Millet/Cumbu),Bhind APMC,2070
+Wheat,Sagar APMC,2250
+Maize,Rahatgarh APMC,1500
+Wheat,Bijawar APMC,2300
+Wheat,Niwadi APMC,2290
+Gur(Jaggery),Narsinghpur APMC,3625
+Maize,Seoni APMC,1530
+Jute,Bethuadahari APMC,11300
+Onion,Cheyyar(Uzhavar Sandhai ) APMC,2250
+Ashgourd,Cheyyar(Uzhavar Sandhai ) APMC,2250
+Mint(Pudina),Cheyyar(Uzhavar Sandhai ) APMC,3600
+Banana,Cheyyar(Uzhavar Sandhai ) APMC,4500
+Brinjal,Papanasam(Uzhavar Sandhai ) APMC,4200
+Amaranthus,Papanasam(Uzhavar Sandhai ) APMC,2000
+Carrot,Papanasam(Uzhavar Sandhai ) APMC,4200
+Arhar(Tur/Red Gram)(Whole),Yemmiganur APMC,6469
+Onion,Roorkee APMC,3000
+Carrot,Dinanagar APMC,1150
+Raddish,Dinanagar APMC,900
+Onion,Dinanagar APMC,1900
+Papaya,Dinanagar APMC,3300
+Peas Wet,Ahmedgarh APMC,2800
+Papaya,Vadavalli(Uzhavar Sandhai ) APMC,3200
+Bottle gourd,Vadavalli(Uzhavar Sandhai ) APMC,2000
+Cabbage,Vadavalli(Uzhavar Sandhai ) APMC,1650
+Cucumbar(Kheera),Vadavalli(Uzhavar Sandhai ) APMC,2250
+Karbuja(Musk Melon),Vadavalli(Uzhavar Sandhai ) APMC,3300
+Drumstick,Nutanbazar APMC,9950
+Mustard,Mullana APMC,5800
+Potato,Barwala(Hisar) APMC,650
+Squash(Chappal Kadoo),Barwala(Hisar) APMC,950
+Potato,Madlauda APMC,500
+Banana - Green,Sundarapuram(Uzhavar Sandhai ) APMC,3750
+Beetroot,Sundarapuram(Uzhavar Sandhai ) APMC,4250
+Tomato,Anchal APMC,3800
+Banana,Kayamkulam APMC,2400
+Cowpea(Veg),Kayamkulam APMC,2600
+Green Chilli,Kayamkulam APMC,5800
+Ginger(Green),Sheoraphuly APMC,5800
+Tomato,Sheoraphuly APMC,1400
+Coriander(Leaves),Nadiyad(Piplag) APMC,1300
+Onion,Nadiyad(Piplag) APMC,1750
+Paddy(Common),Kandi APMC,2250
+Onion,SMY Takoli,2300
+Tomato,SMY Takoli,2500
+Raddish,SMY Takoli,800
+Ridgeguard(Tori),Gobichettipalayam(Uzhavar Sandhai ) APMC,4250
+Drumstick,Gobichettipalayam(Uzhavar Sandhai ) APMC,4750
+Brinjal,Sathiyamagalam(Uzhavar Sandhai ) APMC,2250
+Bottle gourd,Sathiyamagalam(Uzhavar Sandhai ) APMC,1200
+Ashgourd,Sathiyamagalam(Uzhavar Sandhai ) APMC,1750
+Cabbage,Sathiyamagalam(Uzhavar Sandhai ) APMC,2250
+Green Avare(W),Sathiyamagalam(Uzhavar Sandhai ) APMC,4150
+Drumstick,Sathiyamagalam(Uzhavar Sandhai ) APMC,5750
+Guava,Sathiyamagalam(Uzhavar Sandhai ) APMC,5750
+Turnip,Sathiyamagalam(Uzhavar Sandhai ) APMC,4750
+Banana - Green,Valangaiman APMC,4000
+"Sesamum(Sesame,Gingelly,Til)",Guskara APMC,6700
+Cabbage,Ahirora APMC,700
+Onion,Karera(F&V) APMC,1500
+Cabbage,Karera(F&V) APMC,1500
+Brinjal,Awagarh APMC,1400
+Wheat,Karimpur APMC,2600
+Chow Chow,Karimangalam(Uzhavar Sandhai),2700
+Potato,Mecheri(Uzhavar Sandhai),2900
+Bitter gourd,Mecheri(Uzhavar Sandhai),4250
+Beetroot,Mecheri(Uzhavar Sandhai),4750
+Banana - Green,Pallikonda(Uzhavar Sandhai),2800
+Beans,Pallikonda(Uzhavar Sandhai),3000
+Yam(Ratalu),Pallikonda(Uzhavar Sandhai),4000
+Sweet Potato,Perampet(Uzhavar Sandhai),3500
+Carrot,Perampet(Uzhavar Sandhai),3000
+Beetroot,Perampet(Uzhavar Sandhai),2500
+Beans,Peravurani(Uzhavar Sandhai),5000
+Tapioca,Peravurani(Uzhavar Sandhai),3000
+Banana,Peravurani(Uzhavar Sandhai),3000
+Pumpkin,Ponnamaravathi(Uzhavar Sandhai),900
+Raddish,Ponnamaravathi(Uzhavar Sandhai),1750
+Chikoos(Sapota),Vazhapadi(Uzhavar Sandhai),4000
+Chow Chow,Vazhapadi(Uzhavar Sandhai),4000
+Yam(Ratalu),Vazhapadi(Uzhavar Sandhai),5000
+Cauliflower,Gandhigramam(Uzhavar Sandhai),2750
+Papaya,Gandhigramam(Uzhavar Sandhai),2750
+Brinjal,Champadanga APMC,3600
+Brinjal,Sainthia APMC,3400
+Potato,Charra APMC,850
+Wheat,Sillod APMC,2200
+Maize,Sillod APMC,1350
+Soyabean,Buldhana(Dhad) APMC,4700
+Cucumbar(Kheera),Pune APMC,1500
+Elephant Yam(Suran)/Amorphophallus,Pune APMC,2750
+Ridgeguard(Tori),Pune(Moshi) APMC,3500
+Bitter gourd,Mangal Wedha APMC,2500
+Tomato,Fatehpur APMC,1205
+Bhindi(Ladies Finger),Jalaun APMC,3000
+Tomato,Khekda APMC,1200
+Carrot,Banur APMC,1100
+Cucumbar(Kheera),Sealdah Koley Market APMC,6000
+Tomato,Sealdah Koley Market APMC,1800
+Tomato,Karsiyang(Matigara) APMC,2700
+Pumpkin,Gandarvakottai(Uzhavar Sandhai ) APMC,1250
+Snakeguard,Gandarvakottai(Uzhavar Sandhai ) APMC,1250
+Jack Fruit(Ripe),Gandarvakottai(Uzhavar Sandhai ) APMC,3500
+Onion,Mayiladuthurai(Uzhavar Sandhai ) APMC,2750
+Ashgourd,Mayiladuthurai(Uzhavar Sandhai ) APMC,1750
+Banana - Green,Mayiladuthurai(Uzhavar Sandhai ) APMC,3250
+Beans,Mayiladuthurai(Uzhavar Sandhai ) APMC,6000
+Lime,Mayiladuthurai(Uzhavar Sandhai ) APMC,3750
+Papaya,Thammampatti (Uzhavar Sandhai ) APMC,2750
+Tomato,Thammampatti (Uzhavar Sandhai ) APMC,1250
+Amaranthus,Tiruvarur(Uzhavar Sandhai ) APMC,1500
+Ridgeguard(Tori),Udumalpet APMC,4500
+Guava,Udumalpet APMC,6500
+Amla(Nelli Kai),Udumalpet APMC,7500
+Orange,Katpadi (Uzhavar Sandhai ) APMC,8000
+Chikoos(Sapota),Katpadi (Uzhavar Sandhai ) APMC,3500
+Ginger(Green),Katpadi (Uzhavar Sandhai ) APMC,6800
+Guava,Katpadi (Uzhavar Sandhai ) APMC,4500
+Brinjal,Kumbakonam (Uzhavar Sandhai ) APMC,4200
+Coconut,Kumbakonam (Uzhavar Sandhai ) APMC,6500
+Raddish,Kumbakonam (Uzhavar Sandhai ) APMC,2400
+Mint(Pudina),Kumbakonam (Uzhavar Sandhai ) APMC,4200
+Tomato,Tindivanam APMC,1200
+Knool Khol,Tindivanam APMC,4000
+Capsicum,Tindivanam APMC,7000
+Onion,Ulundurpettai APMC,3500
+Wheat,Chhapiheda APMC,2390
+Kabuli Chana(Chickpeas-White),Manawar APMC,7000
+Wheat,Petlawad APMC,2000
+Wheat,Jobat APMC,2150
+Cotton,Sendhwa APMC,7150
+Wheat,Badnagar APMC,2281
+Maize,Loharda APMC,1400
+Wheat,Alampur APMC,2201
+Mustard,Sheopurkalan APMC,6075
+Onion,Deori APMC,720
+Wheat,Khargapur APMC,2308
+Onion,Karimangalam(Uzhavar Sandhai),2700
+Raddish,Perampet(Uzhavar Sandhai),1600
+Chow Chow,Perampet(Uzhavar Sandhai),3000
+Coconut,Vazhapadi(Uzhavar Sandhai),5750
+Knool Khol,Vazhapadi(Uzhavar Sandhai),5000
+Elephant Yam(Suran)/Amorphophallus,Vazhapadi(Uzhavar Sandhai),4000
+Green Chilli,Gandhigramam(Uzhavar Sandhai),4500
+Ginger(Green),Gandhigramam(Uzhavar Sandhai),7500
+Cauliflower,Pune APMC,1500
+Pomegranate,Pune(Moshi) APMC,15000
+Ginger(Green),Sulur(Uzhavar Sandhai ) APMC,6500
+Bottle gourd,Gandarvakottai(Uzhavar Sandhai ) APMC,1250
+Green Avare(W),Gandarvakottai(Uzhavar Sandhai ) APMC,4500
+Raddish,Paramathivelur(Uzhavar Sandhai ) APMC,2750
+Green Avare(W),Paramathivelur(Uzhavar Sandhai ) APMC,6500
+Ashgourd,Tiruvarur(Uzhavar Sandhai ) APMC,2400
+Pomegranate,Katpadi (Uzhavar Sandhai ) APMC,22000
+Maize,Amarwda APMC,1600
+Rice,Kalna APMC,3880
+Mustard,Malpura APMC,6375
+Tomato,Vadavalli(Uzhavar Sandhai ) APMC,1400
+Sweet Potato,Vadavalli(Uzhavar Sandhai ) APMC,2750
+Grapes,Vadavalli(Uzhavar Sandhai ) APMC,10500
+Apple,Barwala(Hisar) APMC,9000
+Brinjal,Sheoraphuly APMC,3600
+Coriander(Leaves),Sathiyamagalam(Uzhavar Sandhai ) APMC,4250
+Carrot,Sathiyamagalam(Uzhavar Sandhai ) APMC,3900
+Tomato,Tiruchengode APMC,1500
+Pumpkin,Tiruchengode APMC,1700
+Tapioca,Tiruchengode APMC,1900
+Coconut,Tiruchengode APMC,5100
+Chow Chow,Tiruchengode APMC,2800
+Amla(Nelli Kai),Tiruchengode APMC,7500
+Chikoos(Sapota),Thuraiyur APMC,4250
+Ridgeguard(Tori),Thuraiyur APMC,3750
+Indian Beans(Seam),Thuraiyur APMC,5750
+Brinjal,Ariyalur(Uzhavar Sandhai) APMC,3300
+Green Chilli,Ariyalur(Uzhavar Sandhai) APMC,5250
+Snakeguard,Jeyankondam (Uzhavar Sandhai ) APMC,3800
+Bottle gourd,Sagar(F&V) APMC,800
+Potato,Sagar(F&V) APMC,700
+Chikoos(Sapota),Sagar(F&V) APMC,4000
+Grapes,Sagar(F&V) APMC,3000
+Coriander(Leaves),RSPuram(Uzhavar Sandhai ) APMC,5750
+Pumpkin,RSPuram(Uzhavar Sandhai ) APMC,1700
+Green Chilli,RSPuram(Uzhavar Sandhai ) APMC,4200
+Cowpea(Veg),RSPuram(Uzhavar Sandhai ) APMC,2200
+Mango(Raw-Ripe),RSPuram(Uzhavar Sandhai ) APMC,4750
+Pear(Marasebu),RSPuram(Uzhavar Sandhai ) APMC,15500
+Cauliflower,Singanallur(Uzhavar Sandhai ) APMC,3650
+Coriander(Leaves),Singanallur(Uzhavar Sandhai ) APMC,5500
+Chikoos(Sapota),Singanallur(Uzhavar Sandhai ) APMC,3750
+Cowpea(Veg),Singanallur(Uzhavar Sandhai ) APMC,3250
+Carrot,Singanallur(Uzhavar Sandhai ) APMC,3750
+Ridgeguard(Tori),Singanallur(Uzhavar Sandhai ) APMC,4400
+Raddish,Singanallur(Uzhavar Sandhai ) APMC,2750
+Green Avare(W),Singanallur(Uzhavar Sandhai ) APMC,3250
+Yam(Ratalu),Singanallur(Uzhavar Sandhai ) APMC,5750
+Apple,Narwana APMC,18000
+Potato,Narwana APMC,600
+Peas Wet,Narwana APMC,2000
+Cauliflower,Lalganj APMC,1000
+Coriander(Leaves),Pollachi(Uzhavar Sandhai ) APMC,5500
+Chikoos(Sapota),Pollachi(Uzhavar Sandhai ) APMC,3750
+Beetroot,Pollachi(Uzhavar Sandhai ) APMC,3500
+Tender Coconut,Pollachi(Uzhavar Sandhai ) APMC,3750
+Yam(Ratalu),Pollachi(Uzhavar Sandhai ) APMC,5500
+Lemon,Kairana APMC,4550
+Green Peas,Mettupalayam(Uzhavar Sandhai ) APMC,5500
+Pumpkin,Mettupalayam(Uzhavar Sandhai ) APMC,1750
+Green Chilli,Mettupalayam(Uzhavar Sandhai ) APMC,3250
+Tapioca,Mettupalayam(Uzhavar Sandhai ) APMC,2750
+Carrot,Mettupalayam(Uzhavar Sandhai ) APMC,3750
+Onion Green,Mettupalayam(Uzhavar Sandhai ) APMC,2750
+Wheat,Khairagarh APMC,2450
+Coriander(Leaves),Karur(Uzhavar Sandhai ) APMC,3750
+Cluster beans,Karur(Uzhavar Sandhai ) APMC,3250
+Mango(Raw-Ripe),Karur(Uzhavar Sandhai ) APMC,11750
+Potato,Halahali,1200
+Bottle gourd,Pamohi(Garchuk) APMC,2500
+Carrot,Pamohi(Garchuk) APMC,2200
+Banana,Kurichi(Uzhavar Sandhai ) APMC,8500
+Bitter gourd,Kurichi(Uzhavar Sandhai ) APMC,4250
+Bottle gourd,Kurichi(Uzhavar Sandhai ) APMC,2250
+Pumpkin,Kurichi(Uzhavar Sandhai ) APMC,1750
+Green Chilli,Kurichi(Uzhavar Sandhai ) APMC,5000
+Mint(Pudina),Kurichi(Uzhavar Sandhai ) APMC,3750
+Tapioca,Cuddalore(Uzhavar Sandhai ) APMC,4500
+Drumstick,Cuddalore(Uzhavar Sandhai ) APMC,10000
+Knool Khol,Cuddalore(Uzhavar Sandhai ) APMC,3000
+Colacasia,Cuddalore(Uzhavar Sandhai ) APMC,8000
+Snakeguard,Chidambaram(Uzhavar Sandhai ) APMC,3000
+Beetroot,Vadalur(Uzhavar Sandhai ) APMC,2750
+Yam(Ratalu),Vadalur(Uzhavar Sandhai ) APMC,7000
+Tomato,Dharmapuri(Uzhavar Sandhai ) APMC,750
+Bitter gourd,Dharmapuri(Uzhavar Sandhai ) APMC,2450
+Bhindi(Ladies Finger),Dharmapuri(Uzhavar Sandhai ) APMC,2400
+Ginger(Green),Dharmapuri(Uzhavar Sandhai ) APMC,8350
+Cabbage,Dharmapuri(Uzhavar Sandhai ) APMC,2500
+Beetroot,Dharmapuri(Uzhavar Sandhai ) APMC,2700
+Tamarind Fruit,Dharmapuri(Uzhavar Sandhai ) APMC,13800
+Amla(Nelli Kai),Dharmapuri(Uzhavar Sandhai ) APMC,6850
+Onion Green,Dharmapuri(Uzhavar Sandhai ) APMC,3700
+Brinjal,Pennagaram(Uzhavar Sandhai ) APMC,2400
+Tomato,Pennagaram(Uzhavar Sandhai ) APMC,950
+Pumpkin,Pennagaram(Uzhavar Sandhai ) APMC,1900
+Cucumbar(Kheera),Pennagaram(Uzhavar Sandhai ) APMC,2900
+Guava,Pennagaram(Uzhavar Sandhai ) APMC,3900
+Chikoos(Sapota),Palacode(Uzhavar Sandhai ) APMC,3750
+Bottle gourd,Palacode(Uzhavar Sandhai ) APMC,900
+Amaranthus,Palacode(Uzhavar Sandhai ) APMC,2250
+Sweet Potato,Palacode(Uzhavar Sandhai ) APMC,2750
+Cucumbar(Kheera),Palacode(Uzhavar Sandhai ) APMC,3400
+Chow Chow,Palacode(Uzhavar Sandhai ) APMC,2500
+Sweet Potato,AJattihalli(Uzhavar Sandhai ) APMC,2750
+Beetroot,AJattihalli(Uzhavar Sandhai ) APMC,2800
+Mango(Raw-Ripe),AJattihalli(Uzhavar Sandhai ) APMC,7000
+Banana,AJattihalli(Uzhavar Sandhai ) APMC,6200
+Onion,AJattihalli(Uzhavar Sandhai ) APMC,2650
+Cauliflower,Dindigul(Uzhavar Sandhai ) APMC,4500
+Papaya,Dindigul(Uzhavar Sandhai ) APMC,3250
+Carrot,Dindigul(Uzhavar Sandhai ) APMC,4500
+Cabbage,Dindigul(Uzhavar Sandhai ) APMC,2750
+Snakeguard,Dindigul(Uzhavar Sandhai ) APMC,3500
+Lime,Dindigul(Uzhavar Sandhai ) APMC,13000
+Colacasia,Dindigul(Uzhavar Sandhai ) APMC,5500
+Green Avare(W),Palani(Uzhavar Sandhai ) APMC,2500
+Mango(Raw-Ripe),Palani(Uzhavar Sandhai ) APMC,8000
+Guava,Palani(Uzhavar Sandhai ) APMC,3750
+Mint(Pudina),Palani(Uzhavar Sandhai ) APMC,4500
+Onion,Chinnalapatti(Uzhavar Sandhai ) APMC,2750
+Cluster beans,Chinnalapatti(Uzhavar Sandhai ) APMC,3750
+Banana,Chinnalapatti(Uzhavar Sandhai ) APMC,4500
+Brinjal,Periyar Nagar(Uzhavar Sandhai ) APMC,2100
+Chikoos(Sapota),Periyar Nagar(Uzhavar Sandhai ) APMC,3250
+Amaranthus,Periyar Nagar(Uzhavar Sandhai ) APMC,3250
+Green Chilli,Periyar Nagar(Uzhavar Sandhai ) APMC,3400
+Tapioca,Periyar Nagar(Uzhavar Sandhai ) APMC,1900
+Green Avare(W),Periyar Nagar(Uzhavar Sandhai ) APMC,2800
+Lemon,Periyar Nagar(Uzhavar Sandhai ) APMC,9750
+Brinjal,Perundurai(Uzhavar Sandhai ) APMC,3500
+Bitter gourd,Perundurai(Uzhavar Sandhai ) APMC,4500
+Onion Green,Perundurai(Uzhavar Sandhai ) APMC,2750
+Banana,Perundurai(Uzhavar Sandhai ) APMC,3400
+Drumstick,Thalavadi(Uzhavar Sandhai ) APMC,4250
+Tomato,Padappai(Uzhavar Sandhai ) APMC,1500
+Amaranthus,Padappai(Uzhavar Sandhai ) APMC,3000
+Cucumbar(Kheera),Padappai(Uzhavar Sandhai ) APMC,2250
+Mashrooms,Padappai(Uzhavar Sandhai ) APMC,24000
+Onion,Kundrathur(Uzhavar Sandhai ) APMC,2600
+Brinjal,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Banana - Green,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Pomegranate,Kundrathur(Uzhavar Sandhai ) APMC,16000
+Lemon,Kundrathur(Uzhavar Sandhai ) APMC,5000
+Colacasia,Kundrathur(Uzhavar Sandhai ) APMC,3000
+Potato,Kulithalai(Uzhavar Sandhai ) APMC,2750
+Green Peas,Kulithalai(Uzhavar Sandhai ) APMC,5500
+Ashgourd,Kulithalai(Uzhavar Sandhai ) APMC,1750
+Colacasia,Kulithalai(Uzhavar Sandhai ) APMC,5750
+Amla(Nelli Kai),Kulithalai(Uzhavar Sandhai ) APMC,7750
+Banana,Kulithalai(Uzhavar Sandhai ) APMC,5750
+Carrot,Velayuthampalayam(Uzhavar Sandhai ) APMC,4500
+Cabbage,Velayuthampalayam(Uzhavar Sandhai ) APMC,3150
+Chikoos(Sapota),Pallapatti (Uzhavar Sandhai ) APMC,3750
+Cluster beans,Pallapatti (Uzhavar Sandhai ) APMC,3250
+Bitter gourd,Pallapatti (Uzhavar Sandhai ) APMC,3750
+Drumstick,Pallapatti (Uzhavar Sandhai ) APMC,7750
+Lime,Pallapatti (Uzhavar Sandhai ) APMC,3750
+Lemon,Pallapatti (Uzhavar Sandhai ) APMC,9000
+Snakeguard,Vengamedu(Uzhavar Sandhai ) APMC,2250
+Raddish,Vengamedu(Uzhavar Sandhai ) APMC,1350
+Garlic,Hosur(Uzhavar Sandhai ) APMC,13500
+Brinjal,Hosur(Uzhavar Sandhai ) APMC,1750
+Papaya,Hosur(Uzhavar Sandhai ) APMC,3500
+Ashgourd,Hosur(Uzhavar Sandhai ) APMC,3500
+Banana - Green,Hosur(Uzhavar Sandhai ) APMC,4500
+Beans,Hosur(Uzhavar Sandhai ) APMC,3500
+Grapes,Hosur(Uzhavar Sandhai ) APMC,9000
+Potato,Krishnagiri(Uzhavar Sandhai ) APMC,2200
+Arhar(Tur/Red Gram)(Whole),Krishnagiri(Uzhavar Sandhai ) APMC,4250
+Bhindi(Ladies Finger),Krishnagiri(Uzhavar Sandhai ) APMC,3350
+Banana - Green,Krishnagiri(Uzhavar Sandhai ) APMC,3250
+Beans,Krishnagiri(Uzhavar Sandhai ) APMC,3750
+Coconut,Krishnagiri(Uzhavar Sandhai ) APMC,5750
+Potato,Denkanikottai(Uzhavar Sandhai ) APMC,2750
+Tomato,Denkanikottai(Uzhavar Sandhai ) APMC,1750
+Bhindi(Ladies Finger),Denkanikottai(Uzhavar Sandhai ) APMC,3500
+Drumstick,Denkanikottai(Uzhavar Sandhai ) APMC,7750
+Lemon,Denkanikottai(Uzhavar Sandhai ) APMC,10500
+Ashgourd,Avallapalli(Uzhavar Sandhai ) APMC,2500
+Banana - Green,Avallapalli(Uzhavar Sandhai ) APMC,3500
+Tapioca,Avallapalli(Uzhavar Sandhai ) APMC,4500
+Raddish,Avallapalli(Uzhavar Sandhai ) APMC,1750
+Green Avare(W),Avallapalli(Uzhavar Sandhai ) APMC,2750
+Water Melon,Anna nagar(Uzhavar Sandhai ) APMC,2500
+Bottle gourd,Anna nagar(Uzhavar Sandhai ) APMC,2200
+Pumpkin,Anna nagar(Uzhavar Sandhai ) APMC,1900
+Sweet Potato,Anna nagar(Uzhavar Sandhai ) APMC,3300
+Chow Chow,Anna nagar(Uzhavar Sandhai ) APMC,1900
+Mango(Raw-Ripe),Anna nagar(Uzhavar Sandhai ) APMC,8000
+Knool Khol,Anna nagar(Uzhavar Sandhai ) APMC,3300
+Indian Beans(Seam),Anna nagar(Uzhavar Sandhai ) APMC,5250
+Colacasia,Anna nagar(Uzhavar Sandhai ) APMC,4500
+Groundnut,Anna nagar(Uzhavar Sandhai ) APMC,5500
+Orange,Chokkikulam(Uzhavar Sandhai ) APMC,11000
+Coriander(Leaves),Chokkikulam(Uzhavar Sandhai ) APMC,4250
+Cluster beans,Chokkikulam(Uzhavar Sandhai ) APMC,3800
+Pumpkin,Chokkikulam(Uzhavar Sandhai ) APMC,1900
+Carrot,Chokkikulam(Uzhavar Sandhai ) APMC,3250
+Snakeguard,Chokkikulam(Uzhavar Sandhai ) APMC,3000
+Chow Chow,Chokkikulam(Uzhavar Sandhai ) APMC,2100
+Soyabean,Chokkikulam(Uzhavar Sandhai ) APMC,9500
+Onion Green,Palanganatham(Uzhavar Sandhai ) APMC,3500
+Banana,Palanganatham(Uzhavar Sandhai ) APMC,3500
+Tomato,Usilampatti(Uzhavar Sandhai ) APMC,1300
+Ashgourd,Usilampatti(Uzhavar Sandhai ) APMC,1650
+Bhindi(Ladies Finger),Usilampatti(Uzhavar Sandhai ) APMC,2800
+Snakeguard,Usilampatti(Uzhavar Sandhai ) APMC,3300
+Onion,Thirumangalam(Uzhavar Sandhai ) APMC,2650
+Pumpkin,Thirumangalam(Uzhavar Sandhai ) APMC,1750
+Bhindi(Ladies Finger),Melur(Uzhavar Sandhai ) APMC,2800
+Coconut,Melur(Uzhavar Sandhai ) APMC,5750
+Colacasia,Melur(Uzhavar Sandhai ) APMC,4750
+Mint(Pudina),Melur(Uzhavar Sandhai ) APMC,2750
+Chikoos(Sapota),Anaiyur(Uzhavar Sandhai ) APMC,4500
+Cluster beans,Anaiyur(Uzhavar Sandhai ) APMC,3800
+Ridgeguard(Tori),Anaiyur(Uzhavar Sandhai ) APMC,3800
+Drumstick,Anaiyur(Uzhavar Sandhai ) APMC,9000
+Knool Khol,Anaiyur(Uzhavar Sandhai ) APMC,3300
+Colacasia,Anaiyur(Uzhavar Sandhai ) APMC,4750
+Mashrooms,Anaiyur(Uzhavar Sandhai ) APMC,23750
+Bitter gourd,Nagapattinam(Uzhavar Sandhai ) APMC,4000
+Ashgourd,Nagapattinam(Uzhavar Sandhai ) APMC,2900
+Amaranthus,Nagapattinam(Uzhavar Sandhai ) APMC,1750
+Beans,Nagapattinam(Uzhavar Sandhai ) APMC,6250
+Cabbage,Nagapattinam(Uzhavar Sandhai ) APMC,3000
+Beetroot,Nagapattinam(Uzhavar Sandhai ) APMC,3250
+Ridgeguard(Tori),Nagapattinam(Uzhavar Sandhai ) APMC,4500
+Lemon,Nagapattinam(Uzhavar Sandhai ) APMC,7250
+Mango,Nagapattinam(Uzhavar Sandhai ) APMC,6000
+Green Chilli,Sirkali(Uzhavar Sandhai ) APMC,5750
+Tapioca,Sirkali(Uzhavar Sandhai ) APMC,4750
+Ginger(Green),Sirkali(Uzhavar Sandhai ) APMC,7000
+Banana - Green,Sirkali(Uzhavar Sandhai ) APMC,2750
+Coconut,Sirkali(Uzhavar Sandhai ) APMC,3750
+Ridgeguard(Tori),Sirkali(Uzhavar Sandhai ) APMC,4750
+Lime,Sirkali(Uzhavar Sandhai ) APMC,3750
+Mint(Pudina),Sirkali(Uzhavar Sandhai ) APMC,4250
+Banana - Green,Namakkal(Uzhavar Sandhai ) APMC,2750
+Coconut,Namakkal(Uzhavar Sandhai ) APMC,5200
+Sweet Potato,Namakkal(Uzhavar Sandhai ) APMC,4750
+Carrot,Namakkal(Uzhavar Sandhai ) APMC,4200
+Cucumbar(Kheera),Namakkal(Uzhavar Sandhai ) APMC,6500
+Lime,Namakkal(Uzhavar Sandhai ) APMC,3750
+Indian Beans(Seam),Namakkal(Uzhavar Sandhai ) APMC,7500
+Mint(Pudina),Namakkal(Uzhavar Sandhai ) APMC,3750
+Cluster beans,Rasipuram(Uzhavar Sandhai ) APMC,4400
+Ashgourd,Rasipuram(Uzhavar Sandhai ) APMC,1900
+Bhindi(Ladies Finger),Rasipuram(Uzhavar Sandhai ) APMC,5250
+Banana - Green,Rasipuram(Uzhavar Sandhai ) APMC,3250
+Raddish,Rasipuram(Uzhavar Sandhai ) APMC,1900
+Mango(Raw-Ripe),Rasipuram(Uzhavar Sandhai ) APMC,6250
+Tender Coconut,Rasipuram(Uzhavar Sandhai ) APMC,2750
+Onion,Kumarapalayam(Uzhavar Sandhai ) APMC,3250
+Green Chilli,Kumarapalayam(Uzhavar Sandhai ) APMC,5250
+Banana - Green,Kumarapalayam(Uzhavar Sandhai ) APMC,3250
+Ridgeguard(Tori),Kumarapalayam(Uzhavar Sandhai ) APMC,5500
+Tender Coconut,Kumarapalayam(Uzhavar Sandhai ) APMC,3250
+Cluster beans,Mohanur(Uzhavar Sandhai ) APMC,3700
+Coconut,Mohanur(Uzhavar Sandhai ) APMC,5000
+Tender Coconut,Mohanur(Uzhavar Sandhai ) APMC,3000
+Cauliflower,Udhagamandalam(Uzhavar Sandhai ) APMC,3250
+Brinjal,Udhagamandalam(Uzhavar Sandhai ) APMC,2200
+Tomato,Udhagamandalam(Uzhavar Sandhai ) APMC,1650
+Bottle gourd,Udhagamandalam(Uzhavar Sandhai ) APMC,1750
+Sweet Potato,Udhagamandalam(Uzhavar Sandhai ) APMC,3700
+Snakeguard,Udhagamandalam(Uzhavar Sandhai ) APMC,2200
+Knool Khol,Udhagamandalam(Uzhavar Sandhai ) APMC,2750
+Elephant Yam(Suran)/Amorphophallus,Udhagamandalam(Uzhavar Sandhai ) APMC,3750
+Apple,Udhagamandalam(Uzhavar Sandhai ) APMC,17500
+Cauliflower,Perambalur(Uzhavar Sandhai ) APMC,3500
+Coriander(Leaves),Perambalur(Uzhavar Sandhai ) APMC,3650
+Banana - Green,Perambalur(Uzhavar Sandhai ) APMC,3500
+Green Peas,Pudukottai(Uzhavar Sandhai ) APMC,5500
+Papaya,Pudukottai(Uzhavar Sandhai ) APMC,2750
+Pumpkin,Pudukottai(Uzhavar Sandhai ) APMC,1250
+Coconut,Pudukottai(Uzhavar Sandhai ) APMC,4500
+Capsicum,Pudukottai(Uzhavar Sandhai ) APMC,5500
+Elephant Yam(Suran)/Amorphophallus,Pudukottai(Uzhavar Sandhai ) APMC,4500
+Colacasia,Pudukottai(Uzhavar Sandhai ) APMC,4750
+Onion Green,Pudukottai(Uzhavar Sandhai ) APMC,3750
+Papaya,Aranthangi(Uzhavar Sandhai ) APMC,2750
+Coconut,Aranthangi(Uzhavar Sandhai ) APMC,5500
+Banana,Aranthangi(Uzhavar Sandhai ) APMC,4750
+Cluster beans,Alangudi(Uzhavar Sandhai ) APMC,3750
+Lemon,Alangudi(Uzhavar Sandhai ) APMC,9500
+Brinjal,Viralimalai(Uzhavar Sandhai ) APMC,4600
+Green Avare(W),Viralimalai(Uzhavar Sandhai ) APMC,5250
+Amaranthus,Ramanathapuram(Uzhavar Sandhai ) APMC,3250
+Coconut,Ramanathapuram(Uzhavar Sandhai ) APMC,6650
+Raddish,Ramanathapuram(Uzhavar Sandhai ) APMC,3250
+Yam(Ratalu),Paramakudi(Uzhavar Sandhai ) APMC,6250
+Brinjal,Sooramangalam(Uzhavar Sandhai ) APMC,2650
+Coriander(Leaves),Sooramangalam(Uzhavar Sandhai ) APMC,3900
+Bottle gourd,Sooramangalam(Uzhavar Sandhai ) APMC,1900
+Colacasia,Sooramangalam(Uzhavar Sandhai ) APMC,5750
+Groundnut,Sooramangalam(Uzhavar Sandhai ) APMC,6500
+Coconut,Thathakapatti(Uzhavar Sandhai ) APMC,5750
+Sweet Potato,Thathakapatti(Uzhavar Sandhai ) APMC,3750
+Amla(Nelli Kai),Thathakapatti(Uzhavar Sandhai ) APMC,5500
+Ashgourd,Mettur(Uzhavar Sandhai ) APMC,1750
+Green Chilli,Mettur(Uzhavar Sandhai ) APMC,4750
+Beans,Mettur(Uzhavar Sandhai ) APMC,4750
+Snakeguard,Mettur(Uzhavar Sandhai ) APMC,2750
+Raddish,Mettur(Uzhavar Sandhai ) APMC,1800
+Tender Coconut,Mettur(Uzhavar Sandhai ) APMC,3250
+Onion Green,Mettur(Uzhavar Sandhai ) APMC,2900
+Banana,Attayampatti(Uzhavar Sandhai ) APMC,8250
+Cauliflower,Hasthampatti(Uzhavar Sandhai ) APMC,2750
+Thondekai,Hasthampatti(Uzhavar Sandhai ) APMC,4750
+Guava,Hasthampatti(Uzhavar Sandhai ) APMC,6500
+Tamarind Fruit,Hasthampatti(Uzhavar Sandhai ) APMC,15500
+Elephant Yam(Suran)/Amorphophallus,Hasthampatti(Uzhavar Sandhai ) APMC,3500
+Custard Apple(Sharifa),Hasthampatti(Uzhavar Sandhai ) APMC,3750
+Mousambi(Sweet Lime),Elampillai(Uzhavar Sandhai ) APMC,3250
+Knool Khol,Elampillai(Uzhavar Sandhai ) APMC,4500
+Capsicum,Elampillai(Uzhavar Sandhai ) APMC,6250
+Onion Green,Elampillai(Uzhavar Sandhai ) APMC,3200
+Indian Beans(Seam),Jalagandapuram(Uzhavar Sandhai ) APMC,5250
+Amla(Nelli Kai),Jalagandapuram(Uzhavar Sandhai ) APMC,6750
+Potato,Edapadi (Uzhavar Sandhai ) APMC,3500
+Chikoos(Sapota),Edapadi (Uzhavar Sandhai ) APMC,3000
+Cluster beans,Edapadi (Uzhavar Sandhai ) APMC,3750
+Mint(Pudina),Edapadi (Uzhavar Sandhai ) APMC,2750
+Tomato,Sivagangai (Uzhavar Sandhai ) APMC,1500
+Green Chilli,Sivagangai (Uzhavar Sandhai ) APMC,3200
+Raddish,Sivagangai (Uzhavar Sandhai ) APMC,2100
+Knool Khol,Sivagangai (Uzhavar Sandhai ) APMC,3500
+Guava,Sivagangai (Uzhavar Sandhai ) APMC,7700
+Banana,Sivagangai (Uzhavar Sandhai ) APMC,4000
+Onion,Devakottai (Uzhavar Sandhai ) APMC,2750
+Papaya,Devakottai (Uzhavar Sandhai ) APMC,4250
+Cluster beans,Devakottai (Uzhavar Sandhai ) APMC,4100
+Bhindi(Ladies Finger),Karaikudi(Uzhavar Sandhai ) APMC,3200
+Amaranthus,Karaikudi(Uzhavar Sandhai ) APMC,3750
+Lemon,Karaikudi(Uzhavar Sandhai ) APMC,10000
+Potato,Singampunari(Uzhavar Sandhai ) APMC,3500
+Cauliflower,Singampunari(Uzhavar Sandhai ) APMC,2750
+Ashgourd,Singampunari(Uzhavar Sandhai ) APMC,2100
+Banana - Green,Singampunari(Uzhavar Sandhai ) APMC,2750
+Knool Khol,Singampunari(Uzhavar Sandhai ) APMC,3750
+Potato,Thanjavur(Uzhavar Sandhai ) APMC,2800
+Brinjal,Thanjavur(Uzhavar Sandhai ) APMC,4800
+Green Chilli,Thanjavur(Uzhavar Sandhai ) APMC,4600
+Brinjal,Karera(F&V) APMC,1200
+Raddish,Peravurani(Uzhavar Sandhai),3500
+Onion Green,Ponnamaravathi(Uzhavar Sandhai),3750
+Tomato,Champadanga APMC,1500
+Arhar Dal(Tur Dal),Sainthia APMC,11000
+Beans,Pune APMC,3000
+Orange,Pune(Moshi) APMC,7000
+Brinjal,Pune(Moshi) APMC,2500
+Paddy(Common),Panchpedwa APMC,2300
+Bitter gourd,Habra APMC,7500
+Coconut,Gandarvakottai(Uzhavar Sandhai ) APMC,4750
+Raddish,Vedaranyam(Uzhavar Sandhai),2900
+Lemon,Paramathivelur(Uzhavar Sandhai ) APMC,6250
+Bottle gourd,Thammampatti (Uzhavar Sandhai ) APMC,1550
+Green Avare(W),Udumalpet APMC,3300
+Coriander(Leaves),Katpadi (Uzhavar Sandhai ) APMC,3500
+Banana - Green,Tindivanam APMC,5000
+Chow Chow,Tindivanam APMC,2500
+Paddy(Common),Bichhiya APMC,2045
+Tapioca,Koduvayoor APMC,3400
+Beetroot,Koduvayoor APMC,3400
+Banana,Koduvayoor APMC,2700
+Paddy(Common),Bolpur APMC,2372
+Tomato,Pandua APMC,1500
+Mustard Oil,Birbhum APMC,14700
+Green Chilli,Cheyyar(Uzhavar Sandhai ) APMC,4500
+Lemon,Cheyyar(Uzhavar Sandhai ) APMC,5400
+Coconut,Papanasam(Uzhavar Sandhai ) APMC,6500
+Brinjal,Vadavalli(Uzhavar Sandhai ) APMC,2950
+Ashgourd,Vadavalli(Uzhavar Sandhai ) APMC,1650
+Amaranthus,Vadavalli(Uzhavar Sandhai ) APMC,3250
+Pineapple,Vadavalli(Uzhavar Sandhai ) APMC,6500
+Cauliflower,Hassanpur APMC,800
+Beans,Sundarapuram(Uzhavar Sandhai ) APMC,5000
+Bitter gourd,Gondal(Veg.market Gondal) APMC,3000
+Ber(Zizyphus/Borehannu),Gondal(Veg.market Gondal) APMC,2500
+Tomato,RSPuram(Uzhavar Sandhai ) APMC,1350
+Brinjal,Silachhari APMC,3300
+Papaya,Pennagaram(Uzhavar Sandhai ) APMC,2900
+Capsicum,Dindigul(Uzhavar Sandhai ) APMC,7500
+Potato,Palani(Uzhavar Sandhai ) APMC,3000
+Papaya,Palani(Uzhavar Sandhai ) APMC,2750
+Potato,Perundurai(Uzhavar Sandhai ) APMC,3350
+Raddish,Velayuthampalayam(Uzhavar Sandhai ) APMC,1400
+Cluster beans,Denkanikottai(Uzhavar Sandhai ) APMC,5250
+Bottle gourd,Thirumangalam(Uzhavar Sandhai ) APMC,1650
+Thondekai,Namakkal(Uzhavar Sandhai ) APMC,3750
+Lemon,Mohanur(Uzhavar Sandhai ) APMC,5700
+Cucumbar(Kheera),Pudukottai(Uzhavar Sandhai ) APMC,4500
+Tender Coconut,Pudukottai(Uzhavar Sandhai ) APMC,4500
+Bitter gourd,Aranthangi(Uzhavar Sandhai ) APMC,4250
+Banana - Green,Alangudi(Uzhavar Sandhai ) APMC,2750
+Bottle gourd,Ramanathapuram(Uzhavar Sandhai ) APMC,1650
+Banana,Ramanathapuram(Uzhavar Sandhai ) APMC,4900
+Tomato,Kamuthi(Uzhavar Sandhai ) APMC,2000
+Cowpea(Veg),Sooramangalam(Uzhavar Sandhai ) APMC,4750
+Cowpea(Veg),Thathakapatti(Uzhavar Sandhai ) APMC,4750
+Green Peas,Mettur(Uzhavar Sandhai ) APMC,5750
+Ginger(Green),Hasthampatti(Uzhavar Sandhai ) APMC,7750
+Cauliflower,Elampillai(Uzhavar Sandhai ) APMC,2750
+Bottle gourd,Edapadi (Uzhavar Sandhai ) APMC,1750
+Onion,Thanjavur(Uzhavar Sandhai ) APMC,2800
+Ginger(Green),Thanjavur(Uzhavar Sandhai ) APMC,8000
+Bottle gourd,Sampath Nagar(Uzhavar Sandhai ) APMC,1500
+Lemon,Gobichettipalayam(Uzhavar Sandhai ) APMC,9500
+Cucumbar(Kheera),Jhargram APMC,3800
+Kodo Millet(Varagu),Mehar APMC,2000
+Drumstick,Thuraiyur APMC,9500
+Green Avare(W),Jeyankondam (Uzhavar Sandhai ) APMC,6200
+Carrot,RSPuram(Uzhavar Sandhai ) APMC,3250
+Green Peas,Singanallur(Uzhavar Sandhai ) APMC,5750
+Thondekai,Pollachi(Uzhavar Sandhai ) APMC,4250
+Beans,Mettupalayam(Uzhavar Sandhai ) APMC,3750
+Ginger(Green),Mettupalayam(Uzhavar Sandhai ) APMC,6250
+Raddish,Karur(Uzhavar Sandhai ) APMC,1350
+Coconut,Cuddalore(Uzhavar Sandhai ) APMC,6500
+Bhindi(Ladies Finger),Viruthachalam(Uzhavar Sandhai ) APMC,4000
+Sugarcane,Lucknow Mandi,1500
+Sugarcane,Meerut Mandi,1600
+Pumpkin,Badwani(F&V) APMC,1200
+Brinjal,Balugaon APMC,2300
+Bitter gourd,Besimari APMC,6300
+Capsicum,Besimari APMC,3800
+Brinjal,Bishnupur(Bankura) APMC,2100
+Banana - Green,Mecheri(Uzhavar Sandhai),2200
+Green Chilli,Pallikonda(Uzhavar Sandhai),4500
+Brinjal,Perampet(Uzhavar Sandhai),1750
+Banana - Green,Perampet(Uzhavar Sandhai),3000
+Banana,Ponnamaravathi(Uzhavar Sandhai),6750
+Amaranthus,Ponnamaravathi(Uzhavar Sandhai),1750
+Lemon,Ponnamaravathi(Uzhavar Sandhai),9750
+Cauliflower,Vazhapadi(Uzhavar Sandhai),2750
+Carrot,Vazhapadi(Uzhavar Sandhai),4750
+Ashgourd,Gandhigramam(Uzhavar Sandhai),1750
+Snakeguard,Gandhigramam(Uzhavar Sandhai),2250
+Bottle gourd,Charra APMC,1550
+Lime,Chattrapati Sambhajinagar APMC,10500
+Spinach,Chattrapati Sambhajinagar APMC,350
+Brinjal,Chattrapati Sambhajinagar APMC,900
+Onion,Junnar(Alephata) APMC,700
+Bitter gourd,Pune APMC,3000
+Chilly Capsicum,Pune APMC,3250
+Ridgeguard(Tori),Pune APMC,3000
+Jack Fruit(Ripe),Pune(Moshi) APMC,3000
+Bitter gourd,Pune(Moshi) APMC,2750
+Spinach,Pune(Moshi) APMC,10
+Drumstick,Pune(Moshi) APMC,7500
+Bottle gourd,Satara APMC,1500
+Bitter gourd,Satara APMC,3500
+Cauliflower,Banur APMC,2200
+Coriander(Leaves),Banur APMC,1500
+Wheat,Panchpedwa APMC,2500
+Cauliflower,Sonamura APMC,2000
+Potato,Sonamura APMC,1300
+Sweet Potato,Sealdah Koley Market APMC,4000
+Potato,Habra APMC,800
+Brinjal,Khatra APMC,2200
+Potato,Khatra APMC,720
+Green Chilli,Sulur(Uzhavar Sandhai ) APMC,4250
+Cowpea(Veg),Sulur(Uzhavar Sandhai ) APMC,2350
+Beetroot,Sulur(Uzhavar Sandhai ) APMC,3400
+Thondekai,Sulur(Uzhavar Sandhai ) APMC,3250
+Green Avare(W),Sulur(Uzhavar Sandhai ) APMC,3000
+Bhindi(Ladies Finger),Gandarvakottai(Uzhavar Sandhai ) APMC,3250
+Green Chilli,Gandarvakottai(Uzhavar Sandhai ) APMC,3250
+Ridgeguard(Tori),Gandarvakottai(Uzhavar Sandhai ) APMC,3750
+Bitter gourd,Mayiladuthurai(Uzhavar Sandhai ) APMC,5750
+Bhindi(Ladies Finger),Mayiladuthurai(Uzhavar Sandhai ) APMC,4750
+Mango(Raw-Ripe),Mayiladuthurai(Uzhavar Sandhai ) APMC,6500
+Banana,Vedaranyam(Uzhavar Sandhai),3900
+Guava,Thammampatti (Uzhavar Sandhai ) APMC,5750
+Yam(Ratalu),Thammampatti (Uzhavar Sandhai ) APMC,4500
+Ridgeguard(Tori),Tiruvarur(Uzhavar Sandhai ) APMC,4000
+Mango(Raw-Ripe),Tiruvarur(Uzhavar Sandhai ) APMC,7000
+Guava,Tiruvarur(Uzhavar Sandhai ) APMC,6000
+Onion Green,Tiruvarur(Uzhavar Sandhai ) APMC,4000
+Banana,Tiruvarur(Uzhavar Sandhai ) APMC,5000
+Potato,Udumalpet APMC,2900
+Yam(Ratalu),Udumalpet APMC,6250
+Onion,Udumalpet APMC,2750
+Cluster beans,Katpadi (Uzhavar Sandhai ) APMC,4500
+Ridgeguard(Tori),Katpadi (Uzhavar Sandhai ) APMC,4000
+Colacasia,Katpadi (Uzhavar Sandhai ) APMC,4000
+Papaya,Kumbakonam (Uzhavar Sandhai ) APMC,4000
+Beans,Kumbakonam (Uzhavar Sandhai ) APMC,4500
+Potato,Tindivanam APMC,3000
+Amaranthus,Tindivanam APMC,4000
+Cowpea(Veg),Tindivanam APMC,6000
+Potato,Ulundurpettai APMC,3500
+Bottle gourd,Ulundurpettai APMC,2000
+Lemon,Ulundurpettai APMC,3000
+Wheat,Haatpipliya APMC,2200
+Cotton,Sailana APMC,7550
+Niger Seed(Ramtil),Bichhiya APMC,9500
+Gur(Jaggery),Gadarwada APMC,3000
+Bitter gourd,Kannur APMC,4000
+Coconut Oil,Kannur APMC,31500
+Potato,Koduvayoor APMC,3600
+Brinjal,Koduvayoor APMC,2700
+Lime,Koduvayoor APMC,5600
+Mustard Oil,Katwa APMC,15100
+Banana - Green,Cheyyar(Uzhavar Sandhai ) APMC,1750
+Tomato,Madanapalli APMC,1200
+Onion,Papanasam(Uzhavar Sandhai ) APMC,2700
+Potato,Papanasam(Uzhavar Sandhai ) APMC,3300
+Apple,Haldwani APMC,6500
+Potato,Haldwani APMC,800
+Taramira,Malpura APMC,5175
+Onion,Bhadara APMC,1125
+Green Chilli,Bisoli APMC,1800
+Lentil(Masur)(Whole),Shahpura(Jabalpur) APMC,4700
+Carrot,Ahmedgarh APMC,1500
+Grapes,Ahmedgarh APMC,8000
+Coriander(Leaves),Vadavalli(Uzhavar Sandhai ) APMC,5500
+Water Melon,Vadavalli(Uzhavar Sandhai ) APMC,2200
+Bhindi(Ladies Finger),Vadavalli(Uzhavar Sandhai ) APMC,4250
+Banana - Green,Vadavalli(Uzhavar Sandhai ) APMC,3650
+Beetroot,Vadavalli(Uzhavar Sandhai ) APMC,3300
+Green Chilli,Nutanbazar APMC,9950
+Cauliflower,Dasda APMC,2600
+Kinnow,Barwala(Hisar) APMC,3800
+Ber(Zizyphus/Borehannu),Barwala(Hisar) APMC,2900
+Potato,Ambala Cantt. APMC,400
+Onion,Madlauda APMC,1650
+Apple,Ganaur APMC,5800
+Bhindi(Ladies Finger),Kattakada APMC,3500
+Onion,Gurgaon APMC,1500
+Onion,Sundarapuram(Uzhavar Sandhai ) APMC,2200
+Mint(Pudina),Sundarapuram(Uzhavar Sandhai ) APMC,3750
+Bhindi(Ladies Finger),Anchal APMC,5200
+Lemon,Nadiyad(Piplag) APMC,4800
+Carrot,SMY Takoli,1300
+Green Chilli,Siliguri APMC,8500
+Bottle gourd,Nadiyad(Chaklasi) APMC,1150
+Grapes,Sampath Nagar(Uzhavar Sandhai ) APMC,12500
+Brinjal,Sampath Nagar(Uzhavar Sandhai ) APMC,1850
+Coconut,Sampath Nagar(Uzhavar Sandhai ) APMC,4650
+Carrot,Sampath Nagar(Uzhavar Sandhai ) APMC,3750
+Chow Chow,Sampath Nagar(Uzhavar Sandhai ) APMC,2200
+Elephant Yam(Suran)/Amorphophallus,Sampath Nagar(Uzhavar Sandhai ) APMC,2200
+Onion Green,Sampath Nagar(Uzhavar Sandhai ) APMC,1950
+Banana,Sampath Nagar(Uzhavar Sandhai ) APMC,2200
+Rose(Local),Sampath Nagar(Uzhavar Sandhai ) APMC,19500
+Chikoos(Sapota),Gobichettipalayam(Uzhavar Sandhai ) APMC,4250
+Bitter gourd,Gobichettipalayam(Uzhavar Sandhai ) APMC,4650
+Banana - Green,Gobichettipalayam(Uzhavar Sandhai ) APMC,2100
+Tomato,Sathiyamagalam(Uzhavar Sandhai ) APMC,1000
+Beans,Sathiyamagalam(Uzhavar Sandhai ) APMC,4750
+Raddish,Sathiyamagalam(Uzhavar Sandhai ) APMC,2600
+Lemon,Sathiyamagalam(Uzhavar Sandhai ) APMC,6250
+Pumpkin,Valangaiman APMC,2000
+Amaranthus,Valangaiman APMC,2000
+Brinjal,Chevella APMC,3000
+Cabbage,Jhargram APMC,1000
+Tomato,Jasvantnagar APMC,1165
+Tomato,Hindol APMC,1200
+Rice,Guskara APMC,3850
+Amaranthus,Tiruchengode APMC,3750
+Ginger(Green),Tiruchengode APMC,7500
+Pumpkin,Thuraiyur APMC,1500
+Cowpea(Veg),Thuraiyur APMC,2750
+Beetroot,Thuraiyur APMC,2750
+Chow Chow,Thuraiyur APMC,2250
+Coconut,Ariyalur(Uzhavar Sandhai) APMC,6000
+Mint(Pudina),Ariyalur(Uzhavar Sandhai) APMC,3750
+Potato,Jeyankondam (Uzhavar Sandhai ) APMC,3500
+Tomato,Jeyankondam (Uzhavar Sandhai ) APMC,2200
+Brinjal,Sagar(F&V) APMC,800
+Orange,Sagar(F&V) APMC,2000
+Bitter gourd,RSPuram(Uzhavar Sandhai ) APMC,3700
+Banana - Green,RSPuram(Uzhavar Sandhai ) APMC,3600
+Sweet Potato,RSPuram(Uzhavar Sandhai ) APMC,2900
+Elephant Yam(Suran)/Amorphophallus,RSPuram(Uzhavar Sandhai ) APMC,2550
+Onion Green,RSPuram(Uzhavar Sandhai ) APMC,2800
+Orange,RSPuram(Uzhavar Sandhai ) APMC,8000
+Betal Leaves,Singanallur(Uzhavar Sandhai ) APMC,16750
+Beetroot,Singanallur(Uzhavar Sandhai ) APMC,3700
+Mango(Raw-Ripe),Singanallur(Uzhavar Sandhai ) APMC,5750
+Grapes,Narwana APMC,12000
+Potato,Lalganj APMC,625
+Wheat,Madhogarh APMC,2270
+Bhindi(Ladies Finger),Pollachi(Uzhavar Sandhai ) APMC,4750
+Snakeguard,Pollachi(Uzhavar Sandhai ) APMC,3250
+Raddish,Pollachi(Uzhavar Sandhai ) APMC,2750
+Lemon,Pollachi(Uzhavar Sandhai ) APMC,8000
+Cabbage,Silachhari APMC,2900
+Potato,Kairana APMC,750
+Chow Chow,Mettupalayam(Uzhavar Sandhai ) APMC,1750
+Lime,Mettupalayam(Uzhavar Sandhai ) APMC,11000
+Colacasia,Mettupalayam(Uzhavar Sandhai ) APMC,4750
+Green Chilli,Gangoh APMC,6000
+Papaya,Karur(Uzhavar Sandhai ) APMC,2750
+Coconut,Karur(Uzhavar Sandhai ) APMC,5750
+Cabbage,Karur(Uzhavar Sandhai ) APMC,3250
+Fish,Boxonagar,23000
+Tomato,Halahali,2100
+Green Chilli,Masli,7500
+Ashgourd,Pamohi(Garchuk) APMC,2500
+Drumstick,Pamohi(Garchuk) APMC,9000
+Brinjal,Pamohi(Garchuk) APMC,1700
+Bitter gourd,Pamohi(Garchuk) APMC,4000
+Corriander seed,Pamohi(Garchuk) APMC,4500
+Mustard,Barad APMC,5650
+Amaranthus,Kurichi(Uzhavar Sandhai ) APMC,3250
+Snakeguard,Kurichi(Uzhavar Sandhai ) APMC,2750
+Cucumbar(Kheera),Kurichi(Uzhavar Sandhai ) APMC,3250
+Raddish,Kurichi(Uzhavar Sandhai ) APMC,3250
+Lemon,Kurichi(Uzhavar Sandhai ) APMC,10500
+Banana,Cuddalore(Uzhavar Sandhai ) APMC,7000
+Onion,Cuddalore(Uzhavar Sandhai ) APMC,2750
+Amaranthus,Cuddalore(Uzhavar Sandhai ) APMC,2500
+Sweet Potato,Cuddalore(Uzhavar Sandhai ) APMC,4500
+Groundnut,Cuddalore(Uzhavar Sandhai ) APMC,6500
+Bottle gourd,Chidambaram(Uzhavar Sandhai ) APMC,2750
+Banana - Green,Chidambaram(Uzhavar Sandhai ) APMC,3000
+Lemon,Chidambaram(Uzhavar Sandhai ) APMC,5000
+Ridgeguard(Tori),Viruthachalam(Uzhavar Sandhai ) APMC,4000
+Ashgourd,Panruti(Uzhavar Sandhai ) APMC,2000
+Bhindi(Ladies Finger),Panruti(Uzhavar Sandhai ) APMC,4000
+Amaranthus,Panruti(Uzhavar Sandhai ) APMC,2000
+Carrot,Panruti(Uzhavar Sandhai ) APMC,3000
+Lemon,Panruti(Uzhavar Sandhai ) APMC,6000
+Tomato,Vadalur(Uzhavar Sandhai ) APMC,1500
+Amaranthus,Vadalur(Uzhavar Sandhai ) APMC,2750
+Ridgeguard(Tori),Vadalur(Uzhavar Sandhai ) APMC,6000
+Chow Chow,Vadalur(Uzhavar Sandhai ) APMC,3000
+Banana - Green,Dharmapuri(Uzhavar Sandhai ) APMC,2900
+Carrot,Dharmapuri(Uzhavar Sandhai ) APMC,3300
+Lemon,Dharmapuri(Uzhavar Sandhai ) APMC,13250
+Garlic,Pennagaram(Uzhavar Sandhai ) APMC,15750
+Coriander(Leaves),Pennagaram(Uzhavar Sandhai ) APMC,4850
+Bottle gourd,Pennagaram(Uzhavar Sandhai ) APMC,1900
+Potato,Palacode(Uzhavar Sandhai ) APMC,2650
+Beans,Palacode(Uzhavar Sandhai ) APMC,4250
+Cabbage,Palacode(Uzhavar Sandhai ) APMC,2200
+Knool Khol,Palacode(Uzhavar Sandhai ) APMC,3650
+Indian Beans(Seam),Palacode(Uzhavar Sandhai ) APMC,5800
+Garlic,AJattihalli(Uzhavar Sandhai ) APMC,14000
+Green Peas,AJattihalli(Uzhavar Sandhai ) APMC,5000
+Cluster beans,AJattihalli(Uzhavar Sandhai ) APMC,3800
+Pumpkin,AJattihalli(Uzhavar Sandhai ) APMC,1200
+Beans,AJattihalli(Uzhavar Sandhai ) APMC,6200
+Capsicum,AJattihalli(Uzhavar Sandhai ) APMC,6000
+Ashgourd,Dindigul(Uzhavar Sandhai ) APMC,2750
+Amaranthus,Dindigul(Uzhavar Sandhai ) APMC,2750
+Beans,Dindigul(Uzhavar Sandhai ) APMC,4500
+Chow Chow,Dindigul(Uzhavar Sandhai ) APMC,2750
+Lemon,Dindigul(Uzhavar Sandhai ) APMC,7500
+Amla(Nelli Kai),Dindigul(Uzhavar Sandhai ) APMC,4500
+Soyabean,Dindigul(Uzhavar Sandhai ) APMC,9500
+Cauliflower,Palani(Uzhavar Sandhai ) APMC,2000
+Water Melon,Palani(Uzhavar Sandhai ) APMC,1750
+Thondekai,Palani(Uzhavar Sandhai ) APMC,2750
+Elephant Yam(Suran)/Amorphophallus,Palani(Uzhavar Sandhai ) APMC,3300
+Indian Beans(Seam),Palani(Uzhavar Sandhai ) APMC,6500
+Carrot,Chinnalapatti(Uzhavar Sandhai ) APMC,4500
+Elephant Yam(Suran)/Amorphophallus,Chinnalapatti(Uzhavar Sandhai ) APMC,5500
+Tomato,Periyar Nagar(Uzhavar Sandhai ) APMC,1300
+Cluster beans,Periyar Nagar(Uzhavar Sandhai ) APMC,3350
+Coconut,Periyar Nagar(Uzhavar Sandhai ) APMC,4600
+Drumstick,Periyar Nagar(Uzhavar Sandhai ) APMC,5750
+Green Chilli,Perundurai(Uzhavar Sandhai ) APMC,4100
+Drumstick,Perundurai(Uzhavar Sandhai ) APMC,6750
+Bhindi(Ladies Finger),Thalavadi(Uzhavar Sandhai ) APMC,2250
+Ginger(Green),Thalavadi(Uzhavar Sandhai ) APMC,5750
+Cucumbar(Kheera),Thalavadi(Uzhavar Sandhai ) APMC,1600
+Lemon,Thalavadi(Uzhavar Sandhai ) APMC,4750
+Bhindi(Ladies Finger),Padappai(Uzhavar Sandhai ) APMC,3250
+Mint(Pudina),Padappai(Uzhavar Sandhai ) APMC,2250
+Apple,Padappai(Uzhavar Sandhai ) APMC,19500
+Coriander(Leaves),Kundrathur(Uzhavar Sandhai ) APMC,5000
+Mousambi(Sweet Lime),Kundrathur(Uzhavar Sandhai ) APMC,6000
+Cluster beans,Kundrathur(Uzhavar Sandhai ) APMC,3500
+Thondekai,Kundrathur(Uzhavar Sandhai ) APMC,4000
+Bottle gourd,Kulithalai(Uzhavar Sandhai ) APMC,1250
+Tapioca,Kulithalai(Uzhavar Sandhai ) APMC,2750
+Cabbage,Kulithalai(Uzhavar Sandhai ) APMC,1800
+Pumpkin,Velayuthampalayam(Uzhavar Sandhai ) APMC,1800
+Coconut,Velayuthampalayam(Uzhavar Sandhai ) APMC,5600
+Snakeguard,Velayuthampalayam(Uzhavar Sandhai ) APMC,2250
+Bottle gourd,Pallapatti (Uzhavar Sandhai ) APMC,1400
+Coconut,Pallapatti (Uzhavar Sandhai ) APMC,5250
+Amla(Nelli Kai),Pallapatti (Uzhavar Sandhai ) APMC,5750
+Mint(Pudina),Pallapatti (Uzhavar Sandhai ) APMC,3750
+Amaranthus,Vengamedu(Uzhavar Sandhai ) APMC,2250
+Green Avare(W),Vengamedu(Uzhavar Sandhai ) APMC,4000
+Tamarind Fruit,Hosur(Uzhavar Sandhai ) APMC,13500
+Papaya,Krishnagiri(Uzhavar Sandhai ) APMC,3200
+Amla(Nelli Kai),Krishnagiri(Uzhavar Sandhai ) APMC,9500
+Banana - Green,Denkanikottai(Uzhavar Sandhai ) APMC,3750
+Coconut,Denkanikottai(Uzhavar Sandhai ) APMC,6250
+Sweet Potato,Denkanikottai(Uzhavar Sandhai ) APMC,3500
+Green Avare(W),Denkanikottai(Uzhavar Sandhai ) APMC,3500
+Chow Chow,Avallapalli(Uzhavar Sandhai ) APMC,1250
+Bhindi(Ladies Finger),Anna nagar(Uzhavar Sandhai ) APMC,2750
+Drumstick,Anna nagar(Uzhavar Sandhai ) APMC,9000
+Apple,Anna nagar(Uzhavar Sandhai ) APMC,19000
+Green Chilli,Chokkikulam(Uzhavar Sandhai ) APMC,3700
+Coconut,Chokkikulam(Uzhavar Sandhai ) APMC,5750
+Cabbage,Chokkikulam(Uzhavar Sandhai ) APMC,1750
+Thondekai,Chokkikulam(Uzhavar Sandhai ) APMC,3800
+Guava,Chokkikulam(Uzhavar Sandhai ) APMC,7500
+Mashrooms,Chokkikulam(Uzhavar Sandhai ) APMC,23750
+Ridgeguard(Tori),Palanganatham(Uzhavar Sandhai ) APMC,3500
+Knool Khol,Palanganatham(Uzhavar Sandhai ) APMC,3300
+Lemon,Palanganatham(Uzhavar Sandhai ) APMC,9000
+Apple,Palanganatham(Uzhavar Sandhai ) APMC,20000
+Brinjal,Usilampatti(Uzhavar Sandhai ) APMC,2900
+Cluster beans,Usilampatti(Uzhavar Sandhai ) APMC,3800
+Banana - Green,Usilampatti(Uzhavar Sandhai ) APMC,2750
+Brinjal,Thirumangalam(Uzhavar Sandhai ) APMC,3500
+Tomato,Thirumangalam(Uzhavar Sandhai ) APMC,1350
+Elephant Yam(Suran)/Amorphophallus,Thirumangalam(Uzhavar Sandhai ) APMC,3500
+Bitter gourd,Melur(Uzhavar Sandhai ) APMC,3250
+Raddish,Melur(Uzhavar Sandhai ) APMC,1900
+Beans,Anaiyur(Uzhavar Sandhai ) APMC,4750
+Chow Chow,Anaiyur(Uzhavar Sandhai ) APMC,2100
+Guava,Anaiyur(Uzhavar Sandhai ) APMC,7500
+Mint(Pudina),Anaiyur(Uzhavar Sandhai ) APMC,2750
+Soyabean,Anaiyur(Uzhavar Sandhai ) APMC,9500
+Orange,Anaiyur(Uzhavar Sandhai ) APMC,11500
+Onion,Nagapattinam(Uzhavar Sandhai ) APMC,2750
+Papaya,Nagapattinam(Uzhavar Sandhai ) APMC,3000
+Sweet Potato,Nagapattinam(Uzhavar Sandhai ) APMC,6250
+Mango(Raw-Ripe),Sirkali(Uzhavar Sandhai ) APMC,6750
+Lemon,Sirkali(Uzhavar Sandhai ) APMC,5750
+Onion Green,Sirkali(Uzhavar Sandhai ) APMC,5750
+Tomato,Namakkal(Uzhavar Sandhai ) APMC,1250
+Bitter gourd,Namakkal(Uzhavar Sandhai ) APMC,5250
+Cowpea(Veg),Namakkal(Uzhavar Sandhai ) APMC,3750
+Betal Leaves,Namakkal(Uzhavar Sandhai ) APMC,8500
+Cabbage,Namakkal(Uzhavar Sandhai ) APMC,1750
+Chili Red,Rasipuram(Uzhavar Sandhai ) APMC,14500
+Jasmine,Rasipuram(Uzhavar Sandhai ) APMC,65000
+Amla(Nelli Kai),Rasipuram(Uzhavar Sandhai ) APMC,6750
+Rose(Local),Rasipuram(Uzhavar Sandhai ) APMC,9000
+Bitter gourd,Kumarapalayam(Uzhavar Sandhai ) APMC,5750
+Beans,Kumarapalayam(Uzhavar Sandhai ) APMC,5500
+Carrot,Kumarapalayam(Uzhavar Sandhai ) APMC,5250
+Cauliflower,Mohanur(Uzhavar Sandhai ) APMC,2700
+Bitter gourd,Mohanur(Uzhavar Sandhai ) APMC,5400
+Green Chilli,Mohanur(Uzhavar Sandhai ) APMC,5700
+Beans,Mohanur(Uzhavar Sandhai ) APMC,5700
+Amaranthus,Udhagamandalam(Uzhavar Sandhai ) APMC,5750
+Ginger(Green),Udhagamandalam(Uzhavar Sandhai ) APMC,7250
+Potato,Perambalur(Uzhavar Sandhai ) APMC,2600
+Papaya,Perambalur(Uzhavar Sandhai ) APMC,3300
+Bhindi(Ladies Finger),Perambalur(Uzhavar Sandhai ) APMC,4250
+Amaranthus,Perambalur(Uzhavar Sandhai ) APMC,2750
+Beans,Perambalur(Uzhavar Sandhai ) APMC,4600
+Carrot,Perambalur(Uzhavar Sandhai ) APMC,5000
+Colacasia,Perambalur(Uzhavar Sandhai ) APMC,3750
+Brinjal,Pudukottai(Uzhavar Sandhai ) APMC,4750
+Amaranthus,Pudukottai(Uzhavar Sandhai ) APMC,1750
+Carrot,Pudukottai(Uzhavar Sandhai ) APMC,4750
+Beetroot,Pudukottai(Uzhavar Sandhai ) APMC,3500
+Lime,Pudukottai(Uzhavar Sandhai ) APMC,1750
+Jack Fruit(Ripe),Pudukottai(Uzhavar Sandhai ) APMC,3500
+Banana - Green,Aranthangi(Uzhavar Sandhai ) APMC,3250
+Tomato,Aranthangi(Uzhavar Sandhai ) APMC,1750
+Amaranthus,Alangudi(Uzhavar Sandhai ) APMC,1750
+Coriander(Leaves),Viralimalai(Uzhavar Sandhai ) APMC,4600
+Tomato,Viralimalai(Uzhavar Sandhai ) APMC,1850
+Onion,Ramanathapuram(Uzhavar Sandhai ) APMC,2650
+Beans,Ramanathapuram(Uzhavar Sandhai ) APMC,8250
+Chow Chow,Ramanathapuram(Uzhavar Sandhai ) APMC,2750
+Mint(Pudina),Ramanathapuram(Uzhavar Sandhai ) APMC,5750
+Coconut,Paramakudi(Uzhavar Sandhai ) APMC,6750
+Lemon,Paramakudi(Uzhavar Sandhai ) APMC,9500
+Potato,Sooramangalam(Uzhavar Sandhai ) APMC,2750
+Tomato,Sooramangalam(Uzhavar Sandhai ) APMC,900
+Guava,Sooramangalam(Uzhavar Sandhai ) APMC,7500
+Pomegranate,Sooramangalam(Uzhavar Sandhai ) APMC,16500
+Elephant Yam(Suran)/Amorphophallus,Sooramangalam(Uzhavar Sandhai ) APMC,3750
+Turnip,Sooramangalam(Uzhavar Sandhai ) APMC,3750
+Cauliflower,Thathakapatti(Uzhavar Sandhai ) APMC,2750
+Green Peas,Thathakapatti(Uzhavar Sandhai ) APMC,5500
+Bitter gourd,Thathakapatti(Uzhavar Sandhai ) APMC,4200
+Banana - Green,Thathakapatti(Uzhavar Sandhai ) APMC,2750
+Banana,Mettur(Uzhavar Sandhai ) APMC,4250
+Cauliflower,Mettur(Uzhavar Sandhai ) APMC,2800
+Papaya,Mettur(Uzhavar Sandhai ) APMC,2900
+Tomato,Mettur(Uzhavar Sandhai ) APMC,1000
+Pumpkin,Mettur(Uzhavar Sandhai ) APMC,1750
+Sweet Potato,Mettur(Uzhavar Sandhai ) APMC,2800
+Cucumbar(Kheera),Mettur(Uzhavar Sandhai ) APMC,3750
+Groundnut,Mettur(Uzhavar Sandhai ) APMC,6250
+Coriander(Leaves),Attayampatti(Uzhavar Sandhai ) APMC,3800
+Tomato,Attayampatti(Uzhavar Sandhai ) APMC,1350
+Amaranthus,Attayampatti(Uzhavar Sandhai ) APMC,2200
+Green Chilli,Attayampatti(Uzhavar Sandhai ) APMC,5300
+Cabbage,Attayampatti(Uzhavar Sandhai ) APMC,2900
+Snakeguard,Attayampatti(Uzhavar Sandhai ) APMC,2900
+Brinjal,Hasthampatti(Uzhavar Sandhai ) APMC,3100
+Chikoos(Sapota),Hasthampatti(Uzhavar Sandhai ) APMC,3750
+Papaya,Hasthampatti(Uzhavar Sandhai ) APMC,2750
+Green Chilli,Hasthampatti(Uzhavar Sandhai ) APMC,4750
+Marigold(Calcutta),Hasthampatti(Uzhavar Sandhai ) APMC,6500
+Colacasia,Hasthampatti(Uzhavar Sandhai ) APMC,4750
+Onion Green,Hasthampatti(Uzhavar Sandhai ) APMC,1750
+Garlic,Elampillai(Uzhavar Sandhai ) APMC,14500
+Amla(Nelli Kai),Elampillai(Uzhavar Sandhai ) APMC,5750
+Mint(Pudina),Elampillai(Uzhavar Sandhai ) APMC,2750
+Chikoos(Sapota),Jalagandapuram(Uzhavar Sandhai ) APMC,3250
+Coconut,Jalagandapuram(Uzhavar Sandhai ) APMC,4500
+Carrot,Jalagandapuram(Uzhavar Sandhai ) APMC,4750
+Mint(Pudina),Jalagandapuram(Uzhavar Sandhai ) APMC,3650
+Coriander(Leaves),Edapadi (Uzhavar Sandhai ) APMC,2250
+Sweet Potato,Edapadi (Uzhavar Sandhai ) APMC,3750
+Lemon,Edapadi (Uzhavar Sandhai ) APMC,7000
+Bitter gourd,Sivagangai (Uzhavar Sandhai ) APMC,3400
+Ginger(Green),Sivagangai (Uzhavar Sandhai ) APMC,8700
+Beetroot,Sivagangai (Uzhavar Sandhai ) APMC,3500
+Mango(Raw-Ripe),Sivagangai (Uzhavar Sandhai ) APMC,5900
+Yam(Ratalu),Sivagangai (Uzhavar Sandhai ) APMC,5900
+Mint(Pudina),Sivagangai (Uzhavar Sandhai ) APMC,2900
+Bitter gourd,Devakottai (Uzhavar Sandhai ) APMC,3400
+Snakeguard,Devakottai (Uzhavar Sandhai ) APMC,2900
+Yam(Ratalu),Devakottai (Uzhavar Sandhai ) APMC,5400
+Mint(Pudina),Devakottai (Uzhavar Sandhai ) APMC,3000
+Potato,Karaikudi(Uzhavar Sandhai ) APMC,3300
+Beans,Karaikudi(Uzhavar Sandhai ) APMC,5100
+Ginger(Green),Karaikudi(Uzhavar Sandhai ) APMC,9000
+Carrot,Karaikudi(Uzhavar Sandhai ) APMC,4200
+Snakeguard,Karaikudi(Uzhavar Sandhai ) APMC,3700
+Ridgeguard(Tori),Karaikudi(Uzhavar Sandhai ) APMC,4200
+Snakeguard,Tirupatthur(Uzhavar Sandhai ) APMC,2750
+Carrot,Singampunari(Uzhavar Sandhai ) APMC,4250
+Yam(Ratalu),Singampunari(Uzhavar Sandhai ) APMC,6250
+Sweet Potato,Thanjavur(Uzhavar Sandhai ) APMC,4000
+Drumstick,Thanjavur(Uzhavar Sandhai ) APMC,11000
+Pomegranate,Thanjavur(Uzhavar Sandhai ) APMC,20000
+Indian Beans(Seam),Thanjavur(Uzhavar Sandhai ) APMC,6600
+Mashrooms,Thanjavur(Uzhavar Sandhai ) APMC,25000
+Groundnut,Thanjavur(Uzhavar Sandhai ) APMC,7000
+Orange,Thanjavur(Uzhavar Sandhai ) APMC,10000
+Rose(Local),Thanjavur(Uzhavar Sandhai ) APMC,25000
+Bhindi(Ladies Finger),Pattukottai(Uzhavar Sandhai ) APMC,4400
+Green Chilli,Pattukottai(Uzhavar Sandhai ) APMC,4800
+Cabbage,Pattukottai(Uzhavar Sandhai ) APMC,2200
+Onion Green,Pattukottai(Uzhavar Sandhai ) APMC,5000
+Banana,Pattukottai(Uzhavar Sandhai ) APMC,3500
+Ashgourd,Tirukattupalli(Uzhavar Sandhai ) APMC,2000
+Amaranthus,Theni(Uzhavar Sandhai ) APMC,2250
+Beans,Theni(Uzhavar Sandhai ) APMC,4200
+Raddish,Theni(Uzhavar Sandhai ) APMC,2000
+Green Avare(W),Theni(Uzhavar Sandhai ) APMC,5650
+Drumstick,Theni(Uzhavar Sandhai ) APMC,6500
+Turnip,Theni(Uzhavar Sandhai ) APMC,3000
+Onion Green,Theni(Uzhavar Sandhai ) APMC,3250
+Cucumbar(Kheera),Kambam(Uzhavar Sandhai ) APMC,1200
+Tomato,Bodinayakanur(Uzhavar Sandhai ) APMC,1400
+Cluster beans,Bodinayakanur(Uzhavar Sandhai ) APMC,2500
+Tapioca,Bodinayakanur(Uzhavar Sandhai ) APMC,2400
+Snakeguard,Bodinayakanur(Uzhavar Sandhai ) APMC,2000
+Beetroot,Bodinayakanur(Uzhavar Sandhai ) APMC,1800
+Cluster beans,Devaram(Uzhavar Sandhai ) APMC,2500
+Bitter gourd,Devaram(Uzhavar Sandhai ) APMC,2500
+Bhindi(Ladies Finger),Devaram(Uzhavar Sandhai ) APMC,4000
+Amaranthus,Devaram(Uzhavar Sandhai ) APMC,2250
+Potato,Karera(F&V) APMC,600
+Raddish,Karera(F&V) APMC,800
+Green Chilli,Awagarh APMC,2500
+Papaya,Mecheri(Uzhavar Sandhai),2750
+Ginger(Green),Mecheri(Uzhavar Sandhai),7750
+Potato,Pallikonda(Uzhavar Sandhai),2500
+Tender Coconut,Pallikonda(Uzhavar Sandhai),2500
+Amaranthus,Peravurani(Uzhavar Sandhai),2250
+Snakeguard,Peravurani(Uzhavar Sandhai),4000
+Brinjal,Ponnamaravathi(Uzhavar Sandhai),4250
+Snakeguard,Ponnamaravathi(Uzhavar Sandhai),1750
+Drumstick,Ponnamaravathi(Uzhavar Sandhai),9750
+Brinjal,Vazhapadi(Uzhavar Sandhai),2400
+Potato,Chattrapati Sambhajinagar APMC,950
+Peas Wet,Chattrapati Sambhajinagar APMC,2000
+Garlic,Pune APMC,7000
+Bhindi(Ladies Finger),Pune(Moshi) APMC,3500
+Green Chilli,Vedaranyam(Uzhavar Sandhai),3900
+Mango(Raw-Ripe),Vedaranyam(Uzhavar Sandhai),3900
+Thondekai,Katpadi (Uzhavar Sandhai ) APMC,3500
+Karbuja(Musk Melon),Tindivanam APMC,2500
+Coriander(Leaves),Ulundurpettai APMC,6000
+Wheat,Karhi APMC,2500
+Wheat,Pandhana APMC,2210
+Raddish,Koduvayoor APMC,3000
+Amaranthus,Cheyyar(Uzhavar Sandhai ) APMC,2750
+Coconut,Cheyyar(Uzhavar Sandhai ) APMC,4500
+Bengal Gram Dal(Chana Dal),Yemmiganur APMC,4851
+Kinnow,Dinanagar APMC,3800
+Green Chilli,Vadavalli(Uzhavar Sandhai ) APMC,4200
+Lemon,Vadavalli(Uzhavar Sandhai ) APMC,10400
+Snakeguard,Pappanchani VFPCK APMC,3000
+Guava,Sundarapuram(Uzhavar Sandhai ) APMC,5750
+Capsicum,Anchal APMC,6200
+Potato,Nadiyad(Chaklasi) APMC,1200
+Guava,Sampath Nagar(Uzhavar Sandhai ) APMC,5250
+Green Chilli,Gobichettipalayam(Uzhavar Sandhai ) APMC,5250
+Yam(Ratalu),RSPuram(Uzhavar Sandhai ) APMC,4750
+Ashgourd,Viruthachalam(Uzhavar Sandhai ) APMC,2000
+Guava,Dindigul(Uzhavar Sandhai ) APMC,7500
+Garlic,Palani(Uzhavar Sandhai ) APMC,27500
+Coriander(Leaves),Palani(Uzhavar Sandhai ) APMC,4500
+Beetroot,Palani(Uzhavar Sandhai ) APMC,2500
+Brinjal,Thalavadi(Uzhavar Sandhai ) APMC,1800
+Sweet Potato,Padappai(Uzhavar Sandhai ) APMC,3500
+Green Avare(W),Velayuthampalayam(Uzhavar Sandhai ) APMC,4500
+Tomato,Hosur(Uzhavar Sandhai ) APMC,1250
+Ridgeguard(Tori),Hosur(Uzhavar Sandhai ) APMC,3500
+Elephant Yam(Suran)/Amorphophallus,Hosur(Uzhavar Sandhai ) APMC,3500
+Garlic,Krishnagiri(Uzhavar Sandhai ) APMC,13000
+Green Avare(W),Krishnagiri(Uzhavar Sandhai ) APMC,4400
+Garlic,Denkanikottai(Uzhavar Sandhai ) APMC,17500
+Green Chilli,Denkanikottai(Uzhavar Sandhai ) APMC,5500
+Orange,Anna nagar(Uzhavar Sandhai ) APMC,9000
+Indian Beans(Seam),Chokkikulam(Uzhavar Sandhai ) APMC,5750
+Cauliflower,Palanganatham(Uzhavar Sandhai ) APMC,2250
+Potato,Sirkali(Uzhavar Sandhai ) APMC,3800
+Pumpkin,Namakkal(Uzhavar Sandhai ) APMC,1350
+Chow Chow,Namakkal(Uzhavar Sandhai ) APMC,1650
+Chikoos(Sapota),Rasipuram(Uzhavar Sandhai ) APMC,3750
+Custard Apple(Sharifa),Rasipuram(Uzhavar Sandhai ) APMC,3750
+Banana,Rasipuram(Uzhavar Sandhai ) APMC,3750
+Cauliflower,Pudukottai(Uzhavar Sandhai ) APMC,4750
+Bhindi(Ladies Finger),Alangudi(Uzhavar Sandhai ) APMC,3750
+Sweet Potato,Sooramangalam(Uzhavar Sandhai ) APMC,3750
+Mango(Raw-Ripe),Sooramangalam(Uzhavar Sandhai ) APMC,9000
+Snakeguard,Thathakapatti(Uzhavar Sandhai ) APMC,2900
+Tapioca,Elampillai(Uzhavar Sandhai ) APMC,2750
+Banana,Jalagandapuram(Uzhavar Sandhai ) APMC,4250
+Cabbage,Devakottai (Uzhavar Sandhai ) APMC,2200
+Bottle gourd,Karaikudi(Uzhavar Sandhai ) APMC,2600
+Cabbage,Karaikudi(Uzhavar Sandhai ) APMC,2100
+Onion Green,Karaikudi(Uzhavar Sandhai ) APMC,4350
+Carrot,Tirupatthur(Uzhavar Sandhai ) APMC,3750
+Bottle gourd,Thanjavur(Uzhavar Sandhai ) APMC,2600
+Bottle gourd,Pattukottai(Uzhavar Sandhai ) APMC,3000
+Yam(Ratalu),Pattukottai(Uzhavar Sandhai ) APMC,8000
+Brinjal,Tirukattupalli(Uzhavar Sandhai ) APMC,3600
+Capsicum,Kambam(Uzhavar Sandhai ) APMC,5000
+Bhindi(Ladies Finger),Bodinayakanur(Uzhavar Sandhai ) APMC,3600
+Knool Khol,Bodinayakanur(Uzhavar Sandhai ) APMC,2000
+Bottle gourd,Sundarapuram(Uzhavar Sandhai ) APMC,2250
+Cabbage,Anchal APMC,5500
+Colacasia,Anchal APMC,6300
+Cucumbar(Kheera),Anchal APMC,2200
+Carrot,Kayamkulam APMC,3900
+Guava,Gondal(Veg.market Gondal) APMC,4750
+Cauliflower,Sathiyamagalam(Uzhavar Sandhai ) APMC,2750
+Ridgeguard(Tori),Sathiyamagalam(Uzhavar Sandhai ) APMC,3900
+Banana - Green,Hindol APMC,2800
+Bottle gourd,Tiruchengode APMC,1100
+Beetroot,Tiruchengode APMC,4750
+Green Chilli,Thuraiyur APMC,3850
+Onion Green,Jeyankondam (Uzhavar Sandhai ) APMC,3400
+Thondekai,RSPuram(Uzhavar Sandhai ) APMC,3200
+Garlic,Kairana APMC,6050
+Coriander(Leaves),Mettupalayam(Uzhavar Sandhai ) APMC,5500
+Bhindi(Ladies Finger),Karur(Uzhavar Sandhai ) APMC,3750
+Cucumbar(Kheera),Pamohi(Garchuk) APMC,4000
+Carrot,Cuddalore(Uzhavar Sandhai ) APMC,3000
+Onion Green,Cuddalore(Uzhavar Sandhai ) APMC,4000
+Tomato,Viruthachalam(Uzhavar Sandhai ) APMC,1750
+Thondekai,Vadalur(Uzhavar Sandhai ) APMC,6000

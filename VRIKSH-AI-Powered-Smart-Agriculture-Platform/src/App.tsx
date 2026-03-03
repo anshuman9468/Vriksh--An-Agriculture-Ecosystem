@@ -5,6 +5,7 @@ import { ImageWithFallback } from './components/figma/ImageWithFallback';
 // Removed dashboard: spray chart not used
 import LoginModal from './components/LoginModal';
 import LeafClassifierDemo from './components/LeafClassifierDemo';
+import FarmAnalysis from './components/FarmAnalysis';
 import { classifyLeafImage, type LeafClassifyResponse } from './lib/leafClassifier';
 
 export default function App() {
@@ -52,6 +53,7 @@ export default function App() {
 
   const sections = {
     home: language === 'en' ? 'Home' : 'होम',
+    analysis: language === 'en' ? 'Farm Analysis' : 'फार्म विश्लेषण',
     classifier: language === 'en' ? 'Leaf Health' : 'पत्ती स्वास्थ्य',
     impact: language === 'en' ? 'Impact' : 'प्रभाव',
     about: language === 'en' ? 'About' : 'हमारे बारे में'
@@ -122,19 +124,19 @@ export default function App() {
               )}
             </h1>
             <p className="text-xl text-gray-600">
-              {language === 'en' 
+              {language === 'en'
                 ? 'Revolutionizing agriculture with precision spraying, crop health detection, and farmer safety'
                 : 'सटीक छिड़काव, फसल स्वास्थ्य पहचान और किसान सुरक्षा के साथ कृषि में क्रांति'
               }
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <button 
+              <button
                 onClick={() => setCurrentSection('classifier')}
                 className="px-8 py-4 bg-gradient-to-r from-green-500 to-emerald-500 text-white rounded-2xl font-semibold hover:from-green-600 hover:to-emerald-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
               >
                 {language === 'en' ? '✨ Get Started 🚀' : '✨ शुरू करें 🚀'}
               </button>
-              <button 
+              <button
                 onClick={() => setCurrentSection('about')}
                 className="px-8 py-4 border-2 border-green-500 text-green-600 rounded-2xl font-semibold hover:bg-gradient-to-r hover:from-green-50 hover:to-emerald-50 transition-all duration-300 hover:scale-105"
               >
@@ -207,7 +209,7 @@ export default function App() {
             {language === 'en' ? '👨‍🌾 Built for Indian Farmers 🇮🇳' : '👨‍🌾 भारतीय किसानों के लिए बनाया गया 🇮🇳'}
           </h2>
           <p className="text-gray-700 text-lg">
-            {language === 'en' 
+            {language === 'en'
               ? '💚 Simple, affordable, and effective technology designed with farmers in mind'
               : '💚 किसानों को ध्यान में रखकर डिज़ाइन की गई सरल, किफायती और प्रभावी तकनीक'
             }
@@ -253,9 +255,9 @@ export default function App() {
           {language === 'en' ? '🌍 Impact & Benefits' : '🌍 प्रभाव और लाभ'}
         </h2>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-          {language === 'en' 
-            ? 'AgriSave is transforming agriculture across multiple dimensions, creating value for farmers, society, and the environment.'
-            : 'एग्रीसेव कई आयामों में कृषि को बदल रहा है, किसानों, समाज और पर्यावरण के लिए मूल्य बना रहा है।'
+          {language === 'en'
+            ? 'Vriksh is transforming agriculture across multiple dimensions, creating value for farmers, society, and the environment.'
+            : 'वृक्ष कई आयामों में कृषि को बदल रहा है, किसानों, समाज और पर्यावरण के लिए मूल्य बना रहा है।'
           }
         </p>
       </div>
@@ -283,12 +285,12 @@ export default function App() {
     <div className="space-y-12">
       <div className="text-center">
         <h2 className="text-4xl font-bold mb-6">
-          {language === 'en' ? '🚀 About AgriSave' : '🚀 एग्रीसेव के बारे में'}
+          {language === 'en' ? '🚀 About Vriksh' : '🚀 वृक्ष के बारे में'}
         </h2>
         <p className="text-xl text-gray-600 max-w-4xl mx-auto">
-          {language === 'en' 
-            ? 'Developed for Smart India Hackathon 2025, AgriSave represents the future of precision agriculture, combining AI, IoT, and sustainable farming practices.'
-            : 'स्मार्ट इंडिया हैकथॉन 2025 के लिए विकसित, एग्रीसेव सटीक कृषि का भविष्य दर्शाता है, AI, IoT और टिकाऊ कृषि प्रथाओं को मिलाकर।'
+          {language === 'en'
+            ? 'Developed for Smart India Hackathon 2025, Vriksh represents the future of precision agriculture, combining AI, IoT, and sustainable farming practices.'
+            : 'स्मार्ट इंडिया हैकथॉन 2025 के लिए विकसित, वृक्ष सटीक कृषि का भविष्य दर्शाता है, AI, IoT और टिकाऊ कृषि प्रथाओं को मिलाकर।'
           }
         </p>
       </div>
@@ -299,7 +301,7 @@ export default function App() {
             {language === 'en' ? '🎯 Our Mission' : '🎯 हमारा मिशन'}
           </h3>
           <p className="text-gray-600 mb-4">
-            {language === 'en' 
+            {language === 'en'
               ? 'To revolutionize Indian agriculture by making precision farming accessible and affordable for every farmer, regardless of farm size or technical expertise.'
               : 'भारतीय कृषि में क्रांति लाना और हर किसान के लिए सटीक कृषि को सुलभ और किफायती बनाना, खेत के आकार या तकनीकी विशेषज्ञता की परवाह किए बिना।'
             }
@@ -364,13 +366,13 @@ export default function App() {
           {language === 'en' ? '🏆 Smart India Hackathon 2025 ✨' : '🏆 स्मार्ट इंडिया हैकथॉन 2025 ✨'}
         </h3>
         <p className="mb-4 text-lg">
-          {language === 'en' 
-            ? '💚 Proudly developed by Team AgriSave for the betterment of Indian agriculture 🇮🇳'
-            : '💚 टीम एग्रीसेव द्वारा भारतीय कृषि की बेहतरी के लिए गर्व से विकसित 🇮🇳'
+          {language === 'en'
+            ? '💚 Proudly developed by Team Vriksh for the betterment of Indian agriculture 🇮🇳'
+            : '💚 टीम वृक्ष द्वारा भारतीय कृषि की बेहतरी के लिए गर्व से विकसित 🇮🇳'
           }
         </p>
         <p className="text-sm opacity-90">
-          {language === 'en' ? '© 2025 AgriSave Team. All rights reserved.' : '© 2025 एग्रीसेव टीम। सभी अधिकार सुरक्षित।'}
+          {language === 'en' ? '© 2025 Vriksh Team. All rights reserved.' : '© 2025 वृक्ष टीम। सभी अधिकार सुरक्षित।'}
         </p>
       </div>
     </div>
@@ -384,7 +386,7 @@ export default function App() {
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center gap-3">
               <div className="text-3xl p-2 bg-gradient-to-br from-green-100 to-emerald-100 rounded-2xl shadow-sm">🌱</div>
-              <h1 className="text-2xl font-bold bg-gradient-to-r from-green-700 to-emerald-700 bg-clip-text text-transparent">AgriSave</h1>
+              <h1 className="text-2xl font-bold bg-gradient-to-r from-green-700 to-emerald-700 bg-clip-text text-transparent">Vriksh</h1>
             </div>
 
             {/* Desktop Navigation */}
@@ -393,11 +395,10 @@ export default function App() {
                 <button
                   key={key}
                   onClick={() => setCurrentSection(key)}
-                  className={`font-medium transition-colors ${
-                    currentSection === key 
-                      ? 'text-green-600 border-b-2 border-green-600' 
-                      : 'text-gray-700 hover:text-green-600'
-                  }`}
+                  className={`font-medium transition-colors ${currentSection === key
+                    ? 'text-green-600 border-b-2 border-green-600'
+                    : 'text-gray-700 hover:text-green-600'
+                    }`}
                 >
                   {label}
                 </button>
@@ -447,11 +448,10 @@ export default function App() {
                     setCurrentSection(key);
                     setMobileMenuOpen(false);
                   }}
-                  className={`block w-full text-left py-2 px-3 rounded ${
-                    currentSection === key 
-                      ? 'bg-green-100 text-green-600' 
-                      : 'text-gray-700'
-                  }`}
+                  className={`block w-full text-left py-2 px-3 rounded ${currentSection === key
+                    ? 'bg-green-100 text-green-600'
+                    : 'text-gray-700'
+                    }`}
                 >
                   {label}
                 </button>
@@ -489,6 +489,7 @@ export default function App() {
           </div>
         )}
         {/* Dashboard removed */}
+        {currentSection === 'analysis' && <FarmAnalysis language={language} />}
         {currentSection === 'impact' && renderImpact()}
         {currentSection === 'about' && renderAbout()}
       </main>

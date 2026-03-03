@@ -291,10 +291,20 @@ export function SellerDashboard() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           {/* Transport Details */}
           <Card className="p-6">
-            <h2 className="text-xl font-semibold text-gray-900 mb-4 flex items-center gap-2">
-              <Truck className="w-5 h-5 text-blue-600" />
-              Live Transport Tracking
-            </h2>
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-xl font-semibold text-gray-900 flex items-center gap-2">
+                <Truck className="w-5 h-5 text-blue-600" />
+                Live Transport Tracking
+              </h2>
+              <Button
+                variant="outline"
+                size="sm"
+                className="text-blue-600 border-blue-200 bg-blue-50 hover:bg-blue-100"
+                onClick={() => navigate("/tracking")}
+              >
+                Open Live Dashboard
+              </Button>
+            </div>
             <div className="space-y-4">
               {orders.map((order) => (
                 <div

@@ -1,3 +1,6 @@
 harvest_id,crop,quantity,transport_cost,commission
 1,Mustard,1000,2000,500
 2,Wheat,800,1500,400
+3,Rice,1200,3500,600
+4,Cotton,500,800,900
+5,Cabbage,2000,8000,1000

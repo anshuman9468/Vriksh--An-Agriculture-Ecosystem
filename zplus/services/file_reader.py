@@ -20,29 +20,33 @@ def _ensure_data_dir() -> Path:
 import requests
 
 def read_market_prices() -> List[Dict[str, Any]]:
-    """Fetch market prices from the live API."""
+    """Fetch market prices from the live Hub API (Data Ingestion service)."""
     try:
-        response = requests.get("http://localhost:5005/data", timeout=5)
+        # Port 5005 is the Market Updator (Hub API)
+        response = requests.get("http://localhost:5005/market-prices", timeout=5)
         response.raise_for_status()
-        data = response.json()
-        records = data.get("records", [])
+        records = response.json()
         
+        # Hub API returns a list of dictionaries like [{"crop": "...", "market": "...", "price": ...}]
+        if not isinstance(records, list):
+            logger.error(f"Unexpected data format from Hub API: {type(records)}")
+            return []
+            
         rows: List[Dict[str, Any]] = []
         for row in records:
             try:
-                price_val = float(row.get("modal_price", 0))
+                price_val = float(row.get("price", 0))
             except (TypeError, ValueError):
                 price_val = 0.0
                 
             rows.append({
-                "crop": row.get("commodity", ""),
+                "crop": row.get("crop", ""),
                 "market": row.get("market", ""),
                 "price": price_val
             })
         return rows
     except Exception as e:
-        logger.error(f"Failed to fetch market prices from API: {e}")
-        # Return empty list as fallback instead of crashing
+        logger.error(f"Failed to fetch market prices from Hub API: {e}")
         return []
 
 

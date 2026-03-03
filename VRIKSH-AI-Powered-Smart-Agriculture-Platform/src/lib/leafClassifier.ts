@@ -21,7 +21,8 @@ export async function classifyLeafImage(
 	file: File,
 	options?: { baseUrl?: string; signal?: AbortSignal }
 ): Promise<LeafClassifyResponse> {
-	const baseUrl = options?.baseUrl ?? "https://vriksh-backend-api.onrender.com";
+	// Try local backend first since it's already running on 5001
+	const baseUrl = options?.baseUrl ?? "http://localhost:5001";
 	const form = new FormData();
 	form.append("image", file, file.name);
 

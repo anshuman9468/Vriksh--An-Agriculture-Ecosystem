@@ -13,6 +13,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+from zplus.routes.analytics import router as analytics_router
+app.include_router(analytics_router, tags=["Analytics"])
+
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 
@@ -43,6 +46,25 @@ HUB_BASE_URL = "http://localhost:5005"
 def health():
     return {"status": "ok"}
 
+@app.get("/transport-status/{transport_id}")
+async def get_transport_status(transport_id: str):
+    import random
+    from datetime import datetime, timedelta
+    # Mock transport data for the SaaS dashboard
+    future_eta = datetime.now() + timedelta(minutes=45)
+    return {
+        "transport_id": transport_id,
+        "status": "IN TRANSIT",
+        "current_lat": 28.7041 + (random.random() - 0.5) * 0.01,
+        "current_lng": 77.1025 + (random.random() - 0.5) * 0.01,
+        "destination": "Delhi Azadpur Mandi",
+        "eta": future_eta.isoformat(),
+        "confidence_score": 0.92,
+        "delay_minutes": 5,
+        "tracking_mode": "REAL-TIME",
+        "last_update": datetime.now().isoformat()
+    }
+
 @app.get("/profit")
 def get_profit():
     try:
@@ -60,7 +82,7 @@ def get_best_market(harvest_id: int):
     except: pass
     raise HTTPException(status_code=404, detail="Harvest not found.")
 
-@app.get("/risk/{harvest_id}")
+@app.get("/risk-assessment/{harvest_id}")
 def get_risk(harvest_id: int):
     try:
         r = requests.get(f"{HUB_BASE_URL}/risk/{harvest_id}", timeout=2)

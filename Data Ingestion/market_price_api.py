@@ -12,7 +12,7 @@ def fetch_data():
     params = {
         "api-key": API_KEY,
         "format": "json",
-        "limit": 50
+        "limit": 1000
     }
 
     if not API_KEY:

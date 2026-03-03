@@ -11,6 +11,10 @@ import {
   LogOut,
   Sprout,
   Loader2,
+  Calendar,
+  MapPin,
+  User,
+  ChevronRight,
 } from "lucide-react";
 import { Button } from "../components/ui/button";
 import { Card } from "../components/ui/card";
@@ -28,37 +32,98 @@ export function FarmerDashboard() {
   const [isLoading, setIsLoading] = useState(true);
   const [bestMarket, setBestMarket] = useState<any>(null);
   const [riskData, setRiskData] = useState<any>(null);
+  const [marketPrices, setMarketPrices] = useState<any[]>([]);
+
+  // Transport Booking State
+  const [bookingDetails, setBookingDetails] = useState({
+    cropType: "",
+    weight: "",
+    from: "",
+    to: "",
+    date: "",
+    time: ""
+  });
+  const [showDrivers, setShowDrivers] = useState(false);
+  const [selectedDriver, setSelectedDriver] = useState<any>(null);
+
+  const mockDrivers = [
+    { id: 1, name: "Amarjeet Singh", model: "Tata Prima 4028.S", vehicle: "PB 01 AC 1234", rating: 4.8, experience: "12 years" },
+    { id: 2, name: "Ramesh Yadav", model: "BharatBenz 3523R", vehicle: "HR 55 XY 5678", rating: 4.6, experience: "8 years" },
+    { id: 3, name: "Suresh Kumar", model: "Mahindra Blazo X 35", vehicle: "DH 02 B 9012", rating: 4.9, experience: "15 years" },
+    { id: 4, name: "Baljit Singh", model: "Ashok Leyland Ecomet", vehicle: "UP 14 TR 3456", rating: 4.5, experience: "5 years" },
+  ];
+
+  const handleBookTransport = () => {
+    setShowDrivers(true);
+  };
+
+  const handleSelectDriver = (driver: any) => {
+    setSelectedDriver(driver);
+    // You could also add the order to the ecosystem context here if needed
+  };
+
+  const [riskAlert, setRiskAlert] = useState<string | null>(null);
+
+  const fetchData = async (currentCrop: string) => {
+    setIsLoading(true);
+    setRiskAlert(null);
+    try {
+      // Find harvest ID from the crop name
+      let harvestId = 1;
+      const lowerCrop = currentCrop.toLowerCase();
+      if (lowerCrop.includes("mustard")) harvestId = 1;
+      else if (lowerCrop.includes("wheat")) harvestId = 2;
+      else if (lowerCrop.includes("rice")) harvestId = 3;
+      else if (lowerCrop.includes("cotton")) harvestId = 4;
+      else if (lowerCrop.includes("cabbage")) harvestId = 5;
+      else harvestId = 1;
+
+      const fbMarket = await api.getBestMarket(harvestId);
+      const fbRisk = await api.getRisk(harvestId);
+      setBestMarket(fbMarket);
+      setRiskData(fbRisk);
+
+      if (fbRisk.total_risk > 40) {
+        setRiskAlert(`⚠️ Warning: High volatility detected for ${currentCrop}. Consider insuring this shipment.`);
+      }
+
+      // Fetch live market data from the Hub with specific crop filter
+      const mResponse = await fetch(`http://localhost:5005/market-prices?crop=${currentCrop.trim()}`);
+      const mPrices = await mResponse.json();
+      setMarketPrices(mPrices);
+
+    } catch (error) {
+      console.error("Failed to fetch dashboard data:", error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   useEffect(() => {
-    async function fetchData() {
-      setIsLoading(true);
-      try {
-        // We use harvest_id 1 for this demo user
-        const market = await api.getBestMarket(1);
-        const risk = await api.getRisk(1);
-        setBestMarket(market);
-        setRiskData(risk);
-      } catch (error) {
-        console.error("Failed to fetch dashboard data:", error);
-      } finally {
-        setIsLoading(false);
-      }
-    }
-    fetchData();
+    fetchData(crop);
 
     // Poll for updates every 10 seconds (SaaS style live updates)
-    const interval = setInterval(fetchData, 10000);
+    const interval = setInterval(() => {
+      fetchData(crop);
+    }, 10000);
     return () => clearInterval(interval);
-  }, []);
+  }, [crop]); // Reload and re-poll when crop selection changes
 
   const myOrders = orders.filter((order) => order.farmerName === "Rajesh Kumar");
 
-  const markets = bestMarket ? [
-    { name: bestMarket.best_market, price: Math.round(bestMarket.max_profit / (parseInt(quantity) / 100 || 1)), recommended: true },
-    { name: "Chandigarh Grain Market", price: 2080, recommended: false },
-    { name: "Amritsar APMC", price: 2020, recommended: false },
-  ] : [
-    { name: "Fetching...", price: 0, recommended: false },
+  // Filter top 3 mandis for current crop selection
+  const filteredMarkets = marketPrices
+    .filter((m: any) => m.crop.toLowerCase().includes(crop.toLowerCase()))
+    .sort((a: any, b: any) => b.price - a.price)
+    .slice(0, 3)
+    .map((m: any, i: number) => ({
+      name: m.market,
+      price: m.price,
+      recommended: i === 0 && (bestMarket?.best_market === m.market)
+    }));
+
+  const displayMarkets = filteredMarkets.length > 0 ? filteredMarkets : [
+    { name: `No live Mandi price yet for "${crop}"`, price: 0, recommended: false },
   ];
 
   const getRiskColor = (score: number) => {
@@ -164,7 +229,9 @@ export function FarmerDashboard() {
                   />
                 </div>
                 <div className="flex items-end">
-                  <Button className="w-full bg-green-600 hover:bg-green-700">
+                  <Button onClick={() => {
+                    fetchData(crop);
+                  }} className="w-full bg-green-600 hover:bg-green-700">
                     Get Price Analysis
                   </Button>
                 </div>
@@ -197,7 +264,7 @@ export function FarmerDashboard() {
                     </tr>
                   </thead>
                   <tbody>
-                    {markets.map((market, index) => (
+                    {displayMarkets.map((market, index) => (
                       <tr
                         key={index}
                         className={`border-b border-gray-100 ${market.recommended ? "bg-green-50" : ""
@@ -318,6 +385,152 @@ export function FarmerDashboard() {
                 </p>
               )}
             </Card>
+
+            {/* Book Transportation Section */}
+            <Card className="p-6">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4 flex items-center gap-2">
+                <Truck className="w-5 h-5 text-green-600" />
+                Book Transportation
+              </h2>
+              {!showDrivers ? (
+                <div className="space-y-4">
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div className="space-y-1.5">
+                      <Label htmlFor="book-crop">Crop Type</Label>
+                      <Input
+                        id="book-crop"
+                        placeholder="e.g. Wheat, Rice"
+                        value={bookingDetails.cropType}
+                        onChange={(e) => setBookingDetails({ ...bookingDetails, cropType: e.target.value })}
+                      />
+                    </div>
+                    <div className="space-y-1.5">
+                      <Label htmlFor="book-weight">Weight (Tons)</Label>
+                      <Input
+                        id="book-weight"
+                        type="number"
+                        placeholder="e.g. 5"
+                        value={bookingDetails.weight}
+                        onChange={(e) => setBookingDetails({ ...bookingDetails, weight: e.target.value })}
+                      />
+                    </div>
+                    <div className="space-y-1.5">
+                      <Label htmlFor="book-from">From (Location)</Label>
+                      <div className="relative">
+                        <MapPin className="absolute left-3 top-2.5 h-4 w-4 text-gray-400" />
+                        <Input
+                          id="book-from"
+                          className="pl-9"
+                          placeholder="Pickup Location"
+                          value={bookingDetails.from}
+                          onChange={(e) => setBookingDetails({ ...bookingDetails, from: e.target.value })}
+                        />
+                      </div>
+                    </div>
+                    <div className="space-y-1.5">
+                      <Label htmlFor="book-to">To (Destination)</Label>
+                      <div className="relative">
+                        <MapPin className="absolute left-3 top-2.5 h-4 w-4 text-gray-400" />
+                        <Input
+                          id="book-to"
+                          className="pl-9"
+                          placeholder="Drop-off Location"
+                          value={bookingDetails.to}
+                          onChange={(e) => setBookingDetails({ ...bookingDetails, to: e.target.value })}
+                        />
+                      </div>
+                    </div>
+                    <div className="space-y-1.5">
+                      <Label htmlFor="book-date">Date</Label>
+                      <div className="relative">
+                        <Calendar className="absolute left-3 top-2.5 h-4 w-4 text-gray-400" />
+                        <Input
+                          id="book-date"
+                          type="date"
+                          className="pl-9"
+                          value={bookingDetails.date}
+                          onChange={(e) => setBookingDetails({ ...bookingDetails, date: e.target.value })}
+                        />
+                      </div>
+                    </div>
+                    <div className="space-y-1.5">
+                      <Label htmlFor="book-time">Time</Label>
+                      <div className="relative">
+                        <Clock className="absolute left-3 top-2.5 h-4 w-4 text-gray-400" />
+                        <Input
+                          id="book-time"
+                          type="time"
+                          className="pl-9"
+                          value={bookingDetails.time}
+                          onChange={(e) => setBookingDetails({ ...bookingDetails, time: e.target.value })}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <Button
+                    className="w-full bg-green-600 hover:bg-green-700 h-11 text-base font-semibold"
+                    onClick={handleBookTransport}
+                  >
+                    Find Available Trucks
+                  </Button>
+                </div>
+              ) : (
+                <div className="space-y-4">
+                  <div className="flex items-center justify-between mb-2">
+                    <p className="text-sm font-medium text-gray-600">Available Truck Drivers for {bookingDetails.cropType || "your crops"}</p>
+                    <Button
+                      variant="link"
+                      className="text-green-600 p-0 h-auto font-bold"
+                      onClick={() => { setShowDrivers(false); setSelectedDriver(null); }}
+                    >
+                      Change Search
+                    </Button>
+                  </div>
+                  <div className="grid grid-cols-1 gap-3">
+                    {mockDrivers.map((driver) => (
+                      <div
+                        key={driver.id}
+                        className={`p-4 rounded-xl border-2 transition-all cursor-pointer flex items-center justify-between ${selectedDriver?.id === driver.id
+                          ? "border-green-600 bg-green-50 shadow-md"
+                          : "border-gray-100 bg-white hover:border-green-200"
+                          }`}
+                        onClick={() => handleSelectDriver(driver)}
+                      >
+                        <div className="flex items-center gap-4">
+                          <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center border border-gray-200">
+                            <User className="w-6 h-6 text-gray-600" />
+                          </div>
+                          <div>
+                            <div className="flex items-center gap-2">
+                              <h3 className="font-bold text-gray-900">{driver.name}</h3>
+                              <Badge className="bg-yellow-100 text-yellow-800 border-none text-[10px] h-4">★ {driver.rating}</Badge>
+                            </div>
+                            <p className="text-xs text-gray-500 font-medium">
+                              {driver.model} • <span className="text-blue-600 uppercase font-bold">{driver.vehicle}</span>
+                            </p>
+                            <p className="text-[10px] text-gray-400 mt-0.5">{driver.experience} experience</p>
+                          </div>
+                        </div>
+                        <Button
+                          size="sm"
+                          variant={selectedDriver?.id === driver.id ? "default" : "outline"}
+                          className={selectedDriver?.id === driver.id ? "bg-green-600" : "text-green-600 border-green-200"}
+                        >
+                          {selectedDriver?.id === driver.id ? "Selected" : "Select Truck"}
+                        </Button>
+                      </div>
+                    ))}
+                  </div>
+                  {selectedDriver && (
+                    <div className="mt-4 animate-in fade-in slide-in-from-bottom-2 duration-300">
+                      <Button className="w-full bg-green-600 hover:bg-green-700 h-12 text-lg shadow-lg">
+                        Confirm Booking with {selectedDriver.name.split(' ')[0]}
+                      </Button>
+                    </div>
+                  )}
+                </div>
+              )}
+            </Card>
           </div>
 
           {/* Right Column */}
@@ -365,9 +578,14 @@ export function FarmerDashboard() {
                   </div>
                 </div>
                 <div className="mt-4">
-                  <Badge className={`${getRiskColor(riskData?.total_risk || 0)} text-sm px-4 py-1 border-none`}>
-                    {getRiskLabel(riskData?.total_risk || 0)}
-                  </Badge>
+                  <div className="flex items-center justify-center gap-2 mb-2">
+                    <Badge className={`${getRiskColor(riskData?.total_risk || 0)} text-sm px-4 py-1 border-none`}>
+                      {getRiskLabel(riskData?.total_risk || 0)}
+                    </Badge>
+                    <Badge variant="outline" className="text-[10px] border-blue-200 text-blue-600 bg-blue-50">
+                      AI Confidence: {Math.round((riskData?.confidence_score || 0.95) * 100)}%
+                    </Badge>
+                  </div>
                   <p className="text-xs text-gray-600 mt-2 font-medium">
                     {riskData?.total_risk > 70
                       ? "High caution advised for immediate sale"
@@ -375,6 +593,11 @@ export function FarmerDashboard() {
                         ? "Moderate volatility detected in market"
                         : "Favorable conditions for maximizing profit"}
                   </p>
+                  {bestMarket && (
+                    <p className="text-xs font-bold text-green-600 mt-2 uppercase tracking-tight">
+                      Est. Profit: ₹{Math.round(bestMarket.max_profit)}
+                    </p>
+                  )}
                 </div>
               </div>
               <div className="mt-6 space-y-3">
@@ -430,6 +653,12 @@ export function FarmerDashboard() {
                 Live Alerts
               </h2>
               <div className="space-y-3 max-h-96 overflow-y-auto">
+                {riskAlert && (
+                  <div className="p-3 rounded-lg border bg-red-50 border-red-200 animate-pulse">
+                    <p className="text-sm text-red-900 font-bold">{riskAlert}</p>
+                    <p className="text-[10px] text-red-600 mt-1 uppercase tracking-wider font-black">Pathway Engine Alert</p>
+                  </div>
+                )}
                 {farmerNotifications.map((notification) => (
                   <div
                     key={notification.id}

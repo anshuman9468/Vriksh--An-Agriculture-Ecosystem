@@ -1,133 +1,137 @@
 import subprocess
 import time
 import os
-import sys
 import signal
-import threading
+import sys
 
-# --- CONFIGURATION ---
-BASE_DIR = os.path.abspath("/home/anshumandutta/Pathway_Vriksh")
+# Define absolute path to the project root
+PROJECT_ROOT = "/home/anshumandutta/Pathway_Vriksh"
 
-# SaaS Vriksh 2.0 (Post Production)
-VENV_PYTHON = os.path.join(BASE_DIR, "venv/bin/python")
-FRONTEND_DIR = os.path.join(BASE_DIR, "SaaS Website for VRIKSH 2.0")
-BACKEND_DIR = os.path.join(BASE_DIR, "zplus")
+# Configuration for services
+# Name: (Cwd, Command, Env, Port)
+SERVICES = {
+    "Pathway Engine": (
+        os.path.join(PROJECT_ROOT, "pathway_engine"),
+        [os.path.join(PROJECT_ROOT, "venv/bin/python"), "stream_engine.py"],
+        {},
+        8666
+    ),
+    "Market Updator (Hub API)": (
+        os.path.join(PROJECT_ROOT, "Data Ingestion"),
+        [os.path.join(PROJECT_ROOT, "venv/bin/python"), "market_updator.py"],
+        {},
+        5005
+    ),
+    "Backend API": (
+        PROJECT_ROOT,
+        [os.path.join(PROJECT_ROOT, "venv/bin/python"), "-m", "uvicorn", "zplus.main:app", "--host", "0.0.0.0", "--port", "8000"],
+        {},
+        8000
+    ),
+    "Frontend (SaaS)": (
+        os.path.join(PROJECT_ROOT, "SaaS Website for VRIKSH 2.0"),
+        ["npm", "run", "dev", "--", "--port", "5173", "--host"],
+        {},
+        5173
+    ),
+    "Pre-Prod Backend": (
+        os.path.join(PROJECT_ROOT, "VRIKSH-AI-Powered-Smart-Agriculture-Platform/backend"),
+        [os.path.join(PROJECT_ROOT, "VRIKSH-AI-Powered-Smart-Agriculture-Platform/backend/.venv/bin/python"), "app.py"],
+        {},
+        5001
+    ),
+    "Pre-Prod Frontend": (
+        os.path.join(PROJECT_ROOT, "VRIKSH-AI-Powered-Smart-Agriculture-Platform"),
+        ["npm", "run", "dev", "--", "--port", "3000", "--host"],
+        {},
+        3000
+    )
+}
 
-# VRIKSH Platform (Pre Production)
-PRE_PROD_DIR = os.path.join(BASE_DIR, "VRIKSH-AI-Powered-Smart-Agriculture-Platform")
-PRE_PROD_BACKEND_DIR = os.path.join(PRE_PROD_DIR, "backend")
-PRE_PROD_VENV_PYTHON = os.path.join(PRE_PROD_BACKEND_DIR, ".venv/bin/python")
+processes = {}
 
-# --- PROCESS MANAGEMENT ---
-processes = {} # { name: { "command": [], "cwd": "", "proc": Process, "restarts": 0 } }
-
-def clean_ports():
-    print("🧹 Cleaning up old service ports (5005, 8666, 8000, 5173, 5001, 3000)...")
-    ports = [5005, 8666, 8000, 5173, 5001, 3000]
-    for port in ports:
-        # Try fuser first
-        subprocess.run(f"fuser -k {port}/tcp > /dev/null 2>&1", shell=True)
-        # Also try lsof + kill for thoroughness
-        subprocess.run(f"lsof -t -i:{port} | xargs -r kill -9 > /dev/null 2>&1", shell=True)
-    time.sleep(2)
-
-def start_service(name, command, cwd=BASE_DIR):
-    if name in processes and processes[name]["proc"] and processes[name]["proc"].poll() is None:
-        return # Already running
-        
-    print(f"🚀 Starting {name}...")
+def kill_port(port):
+    if not port: return
+    print(f"🧹 Clearing port {port}...", end="", flush=True)
     try:
-        proc = subprocess.Popen(
-            command,
-            cwd=cwd,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.STDOUT,
-            text=True,
-            bufsize=1,
-            preexec_fn=os.setsid
-        )
-        if name not in processes:
-            processes[name] = {"restarts": 0}
-            
-        processes[name].update({
-            "command": command,
-            "cwd": cwd,
-            "proc": proc
-        })
-        
-        # Start log streaming
-        t = threading.Thread(target=stream_logs, args=(name, proc), daemon=True)
-        t.start()
-        return proc
+        # Try multiple methods to ensure the port is free
+        subprocess.run(f"fuser -k {port}/tcp", shell=True, capture_output=True)
+        subprocess.run(f"lsof -t -i:{port} | xargs -r kill -9", shell=True, capture_output=True)
+        # Give OS a moment to release the socket
+        time.sleep(1)
+        print(" [OK]")
     except Exception as e:
-        print(f"❌ Failed to start {name}: {e}")
-        return None
+        print(f" [ERR: {e}]")
 
-def stream_logs(name, proc):
-    try:
-        for line in iter(proc.stdout.readline, ""):
-            if line:
-                print(f"[{name}] {line.strip()}")
-            else:
-                break
-    except:
-        pass
-    finally:
-        if proc.stdout: proc.stdout.close()
+def start_service(name, config):
+    cwd, cmd, env_updates, port = config
+    env = os.environ.copy()
+    env.update(env_updates)
+    
+    # Add project root to PYTHONPATH for all services
+    ppath = env.get("PYTHONPATH", "")
+    env["PYTHONPATH"] = f"{PROJECT_ROOT}:{ppath}" if ppath else PROJECT_ROOT
+    
+    print(f"🚀 Starting {name}...")
+    proc = subprocess.Popen(
+        cmd,
+        cwd=cwd,
+        env=env,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,
+        bufsize=1
+    )
+    return proc
 
-def cleanup(sig=None, frame=None):
-    print("\n\n🛑 Shutting down all services...")
-    for name, info in processes.items():
-        proc = info.get("proc")
-        if proc and proc.poll() is None:
-            print(f"Stopping {name}...")
-            try:
-                os.killpg(os.getpgid(proc.pid), signal.SIGTERM)
-            except Exception:
-                pass
-    print("✅ All services stopped. Goodbye!")
+def monitor_logs(name, proc):
+    for line in iter(proc.stdout.readline, ""):
+        print(f"[{name}] {line.strip()}", flush=True)
+
+def cleanup(sig, frame):
+    print("\n🛑 Stopping all services...")
+    for name, proc in processes.items():
+        print(f"Stopping {name}...")
+        proc.terminate()
     sys.exit(0)
 
-def main():
-    signal.signal(signal.SIGINT, cleanup)
-    signal.signal(signal.SIGTERM, cleanup)
+signal.signal(signal.SIGINT, cleanup)
 
+if __name__ == "__main__":
     print("==========================================")
     print("   VRIKSH HYBRID STARTUP SYSTEM (SaaS + AI Platform)   ")
     print("==========================================")
+    
+    # Clean up common ports first
+    print("🧹 Cleaning up old service ports...")
+    for name, config in SERVICES.items():
+        kill_port(config[3])
+        
+    time.sleep(1)
 
-    clean_ports()
+    # Start all services
+    import threading
 
-    # --- POST PRODUCTION (SaaS) ---
-    start_service("Pathway Engine", [VENV_PYTHON, "pathway_engine/stream_engine.py"])
-    start_service("Market Updator (Hub API)", [VENV_PYTHON, "Data Ingestion/market_updator.py"])
-    start_service("Backend API", [VENV_PYTHON, "-m", "uvicorn", "main:app", "--port", "8000", "--host", "0.0.0.0"], cwd=BACKEND_DIR)
-    start_service("Frontend (SaaS)", ["npm", "run", "dev"], cwd=FRONTEND_DIR)
-
-    # --- PRE PRODUCTION (AI Platform) ---
-    start_service("Pre-Prod Backend", [PRE_PROD_VENV_PYTHON, "app.py"], cwd=PRE_PROD_BACKEND_DIR)
-    start_service("Pre-Prod Frontend", ["npm", "run", "dev"], cwd=PRE_PROD_DIR)
+    for name, config in SERVICES.items():
+        proc = start_service(name, config)
+        processes[name] = proc
+        threading.Thread(target=monitor_logs, args=(name, proc), daemon=True).start()
 
     print("\n✨ ALL SYSTEMS ONLINE!")
-    print(f"------------------------------------------")
-    print(f"🔗 SaaS Frontend: http://localhost:5173")
-    print(f"🔗 AI Platform:   http://localhost:3000")
-    print(f"------------------------------------------")
-    print("Monitoring Logs and Auto-Restarting... (Ctrl+C to Stop All)\n")
-
-    try:
-        while True:
-            for name, info in list(processes.items()):
-                proc = info.get("proc")
-                if proc and proc.poll() is not None:
-                    code = proc.returncode
-                    print(f"⚠️ {name} has crashed (Exit code: {code}). Restarting in 3s...")
-                    time.sleep(3)
-                    start_service(name, info["command"], info["cwd"])
-                    processes[name]["restarts"] += 1
-            time.sleep(5)
-    except KeyboardInterrupt:
-        cleanup()
-
-if __name__ == "__main__":
-    main()
+    print("------------------------------------------")
+    print("🔗 SaaS Frontend: http://localhost:5173")
+    print("🔗 AI Platform:   http://localhost:3000")
+    print("------------------------------------------")
+    print("Monitoring Logs... (Ctrl+C to Stop All)")
+    
+    # Stay alive and check for crashes
+    while True:
+        for name, proc in list(processes.items()):
+            if proc.poll() is not None:
+                print(f"⚠️ {name} has crashed (Exit code: {proc.returncode}). Restarting in 3s...")
+                time.sleep(3)
+                # Ensure port is clean before restart!
+                kill_port(SERVICES[name][3])
+                processes[name] = start_service(name, SERVICES[name])
+                threading.Thread(target=monitor_logs, args=(name, processes[name]), daemon=True).start()
+        time.sleep(1)
